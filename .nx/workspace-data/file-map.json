@@ -1,0 +1,215 @@
+{
+  "version": "6.0",
+  "nxVersion": "22.0.2",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "web": [
+        {
+          "file": ".astro/content-assets.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": ".astro/content-modules.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": ".astro/content.d.ts",
+          "hash": "3576512076764084912"
+        },
+        {
+          "file": ".astro/types.d.ts",
+          "hash": "8107136797306745825"
+        },
+        {
+          "file": ".git/index",
+          "hash": "4022316734422849138"
+        },
+        {
+          "file": ".nx/workspace-data/d/server-process.json",
+          "hash": "2685075784141895928"
+        },
+        {
+          "file": ".nx/workspace-data/file-map.json",
+          "hash": "15807764079183544651"
+        },
+        {
+          "file": ".nx/workspace-data/nx_files.nxt",
+          "hash": "15521183545155062630"
+        },
+        {
+          "file": ".nx/workspace-data/project-graph.json",
+          "hash": "15898197712172598465"
+        },
+        {
+          "file": ".nx/workspace-data/source-maps.json",
+          "hash": "6801734557427387058"
+        },
+        {
+          "file": "apps/web/.gitignore",
+          "hash": "3417848927302237453"
+        },
+        {
+          "file": "apps/web/README.md",
+          "hash": "10767929934904982380"
+        },
+        {
+          "file": "apps/web/astro.config.mjs",
+          "hash": "7089926577450032111"
+        },
+        {
+          "file": "apps/web/package-lock.json",
+          "hash": "15013994896557546900"
+        },
+        {
+          "file": "apps/web/public/favicon.svg",
+          "hash": "9875909904608765743"
+        },
+        {
+          "file": "apps/web/src/apps/team-a/LoginPage.jsx",
+          "hash": "17784061139500276427"
+        },
+        {
+          "file": "apps/web/src/apps/team-b/DashboardPage.astro",
+          "hash": "9191764828421193362"
+        },
+        {
+          "file": "apps/web/src/assets/astro.svg",
+          "hash": "13270084278469652710"
+        },
+        {
+          "file": "apps/web/src/assets/background.svg",
+          "hash": "15215094115424741455"
+        },
+        {
+          "file": "apps/web/src/components/DashboardInfo.tsx",
+          "hash": "7791686182612455220"
+        },
+        {
+          "file": "apps/web/src/components/Footer.astro",
+          "hash": "9239408994941757499"
+        },
+        {
+          "file": "apps/web/src/components/Info.astro",
+          "hash": "10103520416673571330"
+        },
+        {
+          "file": "apps/web/src/components/Navigation.astro",
+          "hash": "3170016129238693667"
+        },
+        {
+          "file": "apps/web/src/components/PersonalGreeting.astro",
+          "hash": "16821871176792820087"
+        },
+        {
+          "file": "apps/web/src/components/Welcome.astro",
+          "hash": "10433966076983457591"
+        },
+        {
+          "file": "apps/web/src/components/login.module.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/web/src/content/config.ts",
+          "hash": "10585568351181427206"
+        },
+        {
+          "file": "apps/web/src/content/legalInfo/imprint.md",
+          "hash": "6299240550259363381"
+        },
+        {
+          "file": "apps/web/src/content/legalInfo/policy.md",
+          "hash": "10566355953830718747"
+        },
+        {
+          "file": "apps/web/src/env.d.ts",
+          "hash": "12247281929465002553"
+        },
+        {
+          "file": "apps/web/src/layouts/Layout.astro",
+          "hash": "15603592917513927327"
+        },
+        {
+          "file": "apps/web/src/layouts/page.astro",
+          "hash": "5487067515701641820"
+        },
+        {
+          "file": "apps/web/src/pages/404.astro",
+          "hash": "509685381671300708"
+        },
+        {
+          "file": "apps/web/src/pages/dashboard.astro",
+          "hash": "9727046940978212370"
+        },
+        {
+          "file": "apps/web/src/pages/index.astro",
+          "hash": "18268648888671615530"
+        },
+        {
+          "file": "apps/web/src/pages/legalInfo/[slug].astro",
+          "hash": "3852000106762136580"
+        },
+        {
+          "file": "apps/web/src/pages/legalInfo/index.astro",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/web/src/pages/login.astro",
+          "hash": "9457741041990879734"
+        },
+        {
+          "file": "apps/web/src/stores/auth.ts",
+          "hash": "5975837753338507706"
+        },
+        {
+          "file": "apps/web/src/stores/users.ts",
+          "hash": "7649036091514305797"
+        },
+        {
+          "file": "apps/web/src/styles/tailwind.css",
+          "hash": "4645570607630753465"
+        },
+        {
+          "file": "nx.json",
+          "hash": "10216619701921425367"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "3954630212395471830"
+        },
+        {
+          "file": "package.json",
+          "hash": "8265312220342999421",
+          "deps": [
+            "npm:@astrojs/netlify",
+            "npm:@tailwindcss/vite",
+            "npm:autoprefixer",
+            "npm:nx",
+            "npm:postcss",
+            "npm:tailwindcss",
+            "npm:@astrojs/react",
+            "npm:@nanostores/persistent",
+            "npm:@nanostores/react",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:astro",
+            "npm:nanostores",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "project.json",
+          "hash": "10565092758750273290"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "11734694662231194405"
+        }
+      ]
+    }
+  },
+  "externalNodesHash": "17758176018416975013"
+}

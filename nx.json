@@ -1,0 +1,6 @@
+{
+  "defaultBase": "master",
+  "nxCloudId": "690ca2838168a9598d6fdb46",
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "tasksRunnerOptions": { "default": { "runner": "nx/tasks-runners/default", "options": { "cacheableOperations": ["build", "check"] } } }
+}

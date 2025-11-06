@@ -1,0 +1,24 @@
+{
+    "name": "web",
+    "sourceRoot": "apps/web/src",
+    "targets": {
+      "serve": {
+        "executor": "nx:run-commands",
+        "options": { "cwd": "apps/web", "command": "astro dev" }
+      },
+      "build": {
+        "executor": "nx:run-commands",
+        "options": { "cwd": "apps/web", "command": "astro build" },
+        "outputs": ["{workspaceRoot}/apps/web/dist"]
+      },
+      "preview": {
+        "executor": "nx:run-commands",
+        "options": { "cwd": "apps/web", "command": "astro preview" }
+      },
+      "check": {
+        "executor": "nx:run-commands",
+        "options": { "cwd": "apps/web", "command": "astro check" }
+      }
+    }
+  }
+  
