@@ -2,12 +2,8 @@ import type { Config } from "tailwindcss";
 
 export default {
   content: [
-    "./src/**/*.{astro,html,js,jsx,ts,tsx}",
-    "../../libs/**/*.{astro,html,js,jsx,ts,tsx}",
+    "./src/**/*.{astro,html,js,jsx,ts,tsx,vue}",
+    "../../libs/**/*.{astro,html,js,jsx,ts,tsx,vue}", // include shared libs
   ],
-  theme: {
-    extend: {
-      // optional: extend colors, fonts, spacing, etc.
-    },
-  },
+  theme: { extend: {} },
 } satisfies Config;

@@ -1,4 +1,110 @@
 {
+  "apps/shell": {
+    "root": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/shell/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:public": [
+      "apps/shell/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "apps/shell/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "apps/shell/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "apps/shell/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "apps/shell/package.json",
+      "nx/core/package-json"
+    ],
+    "sourceRoot": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.cwd": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.command": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.cwd": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.command": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.executor": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options.cwd": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options.command": [
+      "apps/shell/project.json",
+      "nx/core/project-json"
+    ]
+  },
   ".": {
     "root": [
       "package.json",
@@ -171,92 +277,6 @@
     "targets.astro.metadata.runCommand": [
       "package.json",
       "nx/core/package-json"
-    ]
-  },
-  "apps/shell": {
-    "root": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "name": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "sourceRoot": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "projectType": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.serve": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.serve.executor": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.serve.options": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.serve.options.cwd": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.serve.options.command": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.build": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.build.executor": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.build.options": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.build.outputs": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.build.options.cwd": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.build.options.command": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.preview": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.preview.executor": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.preview.options": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.preview.options.cwd": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
-    ],
-    "targets.preview.options.command": [
-      "apps/shell/project.json",
-      "nx/core/project-json"
     ]
   },
   "libs/state": {

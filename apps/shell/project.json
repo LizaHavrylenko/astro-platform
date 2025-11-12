@@ -8,3 +8,5 @@
       "preview": { "executor": "nx:run-commands", "options": { "cwd": "apps/shell", "command": "astro preview" } }
     }
   }
+
+  

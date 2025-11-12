@@ -2,6 +2,10 @@ import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 import netlify from "@astrojs/netlify";
 import { fileURLToPath } from "node:url";
+import path from "node:path";
+import tailwindcss from "@tailwindcss/vite";
+
+const repoRoot = fileURLToPath(new URL("../../", import.meta.url));
 
 export default defineConfig({
   output: "server",
@@ -22,6 +26,18 @@ export default defineConfig({
         ),
       },
     },
-    server: { fs: { allow: ["..", "../../libs"] } },
+
+    server: {
+      fs: {
+        allow: [
+          repoRoot, // monorepo root
+          path.join(repoRoot, "apps"), // your apps
+          path.join(repoRoot, "libs"), // your libs
+          path.join(repoRoot, "node_modules"), // allow astro's dev toolbar
+        ],
+      },
+    },
+
+    plugins: [tailwindcss()],
   },
 });
