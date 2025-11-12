@@ -1,0 +1,10 @@
+{
+    "name": "shell",
+    "sourceRoot": "apps/shell/src",
+    "projectType": "application",
+    "targets": {
+      "serve":   { "executor": "nx:run-commands", "options": { "cwd": "apps/shell", "command": "astro dev" } },
+      "build":   { "executor": "nx:run-commands", "options": { "cwd": "apps/shell", "command": "astro build" }, "outputs": ["{workspaceRoot}/apps/shell/dist"] },
+      "preview": { "executor": "nx:run-commands", "options": { "cwd": "apps/shell", "command": "astro preview" } }
+    }
+  }

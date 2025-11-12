@@ -1,12 +1,115 @@
 {
   "version": "6.0",
   "nxVersion": "22.0.2",
-  "pathMappings": {},
+  "pathMappings": {
+    "@ui": [
+      "libs/ui/src/index.ts"
+    ],
+    "@ui/*": [
+      "libs/ui/src/*"
+    ],
+    "@state": [
+      "libs/state/src/index.ts"
+    ],
+    "@state/*": [
+      "libs/state/src/*"
+    ]
+  },
   "nxJsonPlugins": [],
   "fileMap": {
     "nonProjectFiles": [],
     "projectFileMap": {
-      "web": [
+      "shell": [
+        {
+          "file": "apps/shell/.astro/content-assets.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": "apps/shell/.astro/content-modules.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": "apps/shell/.astro/content.d.ts",
+          "hash": "3576512076764084912"
+        },
+        {
+          "file": "apps/shell/.astro/data-store.json",
+          "hash": "3575998582154666451"
+        },
+        {
+          "file": "apps/shell/.astro/settings.json",
+          "hash": "10534183252083863342"
+        },
+        {
+          "file": "apps/shell/.astro/types.d.ts",
+          "hash": "12247281929465002553"
+        },
+        {
+          "file": "apps/shell/.gitignore",
+          "hash": "9657211274224270251"
+        },
+        {
+          "file": "apps/shell/astro.config.mjs",
+          "hash": "8212048956469594734"
+        },
+        {
+          "file": "apps/shell/node_modules/.vite/deps_temp_31c4a022/package.json",
+          "hash": "8630294688235076505"
+        },
+        {
+          "file": "apps/shell/node_modules/.vite/deps_temp_e95e65c1/package.json",
+          "hash": "8630294688235076505"
+        },
+        {
+          "file": "apps/shell/project.json",
+          "hash": "10596915148444395654"
+        },
+        {
+          "file": "apps/shell/src/pages/404.astro",
+          "hash": "13996217344124986669"
+        },
+        {
+          "file": "apps/shell/src/pages/content/config.ts",
+          "hash": "12841153828540334947"
+        },
+        {
+          "file": "apps/shell/src/pages/content/legalInfo/imprint.md",
+          "hash": "6299240550259363381"
+        },
+        {
+          "file": "apps/shell/src/pages/content/legalInfo/policy.md",
+          "hash": "10566355953830718747"
+        },
+        {
+          "file": "apps/shell/src/pages/dashboard/index.astro",
+          "hash": "14315293802628489384"
+        },
+        {
+          "file": "apps/shell/src/pages/index.astro",
+          "hash": "3954577491350829911"
+        },
+        {
+          "file": "apps/shell/src/pages/legalInfo/[slug].astro",
+          "hash": "12580163604124290711"
+        },
+        {
+          "file": "apps/shell/src/pages/legalInfo/index.astro",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/shell/src/pages/login/index.astro",
+          "hash": "10336929932171074490"
+        },
+        {
+          "file": "apps/shell/src/pages/styles/global.css",
+          "hash": "4645570607630753465"
+        },
+        {
+          "file": "apps/shell/tailwind.config.ts",
+          "hash": "6291003088173704432"
+        }
+      ],
+      "growing-graham": [
         {
           "file": ".astro/content-assets.mjs",
           "hash": "17953928121017343345"
@@ -20,156 +123,64 @@
           "hash": "3576512076764084912"
         },
         {
+          "file": ".astro/data-store.json",
+          "hash": "1955737924507778125"
+        },
+        {
+          "file": ".astro/settings.json",
+          "hash": "2931109715335695367"
+        },
+        {
           "file": ".astro/types.d.ts",
-          "hash": "8107136797306745825"
-        },
-        {
-          "file": ".git/index",
-          "hash": "4022316734422849138"
-        },
-        {
-          "file": ".nx/workspace-data/d/server-process.json",
-          "hash": "2685075784141895928"
-        },
-        {
-          "file": ".nx/workspace-data/file-map.json",
-          "hash": "15807764079183544651"
-        },
-        {
-          "file": ".nx/workspace-data/nx_files.nxt",
-          "hash": "15521183545155062630"
-        },
-        {
-          "file": ".nx/workspace-data/project-graph.json",
-          "hash": "15898197712172598465"
-        },
-        {
-          "file": ".nx/workspace-data/source-maps.json",
-          "hash": "6801734557427387058"
-        },
-        {
-          "file": "apps/web/.gitignore",
-          "hash": "3417848927302237453"
-        },
-        {
-          "file": "apps/web/README.md",
-          "hash": "10767929934904982380"
-        },
-        {
-          "file": "apps/web/astro.config.mjs",
-          "hash": "7089926577450032111"
-        },
-        {
-          "file": "apps/web/package-lock.json",
-          "hash": "15013994896557546900"
-        },
-        {
-          "file": "apps/web/public/favicon.svg",
-          "hash": "9875909904608765743"
-        },
-        {
-          "file": "apps/web/src/apps/team-a/LoginPage.jsx",
-          "hash": "17784061139500276427"
-        },
-        {
-          "file": "apps/web/src/apps/team-b/DashboardPage.astro",
-          "hash": "9191764828421193362"
-        },
-        {
-          "file": "apps/web/src/assets/astro.svg",
-          "hash": "13270084278469652710"
-        },
-        {
-          "file": "apps/web/src/assets/background.svg",
-          "hash": "15215094115424741455"
-        },
-        {
-          "file": "apps/web/src/components/DashboardInfo.tsx",
-          "hash": "7791686182612455220"
-        },
-        {
-          "file": "apps/web/src/components/Footer.astro",
-          "hash": "9239408994941757499"
-        },
-        {
-          "file": "apps/web/src/components/Info.astro",
-          "hash": "10103520416673571330"
-        },
-        {
-          "file": "apps/web/src/components/Navigation.astro",
-          "hash": "3170016129238693667"
-        },
-        {
-          "file": "apps/web/src/components/PersonalGreeting.astro",
-          "hash": "16821871176792820087"
-        },
-        {
-          "file": "apps/web/src/components/Welcome.astro",
-          "hash": "10433966076983457591"
-        },
-        {
-          "file": "apps/web/src/components/login.module.css",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "apps/web/src/content/config.ts",
-          "hash": "10585568351181427206"
-        },
-        {
-          "file": "apps/web/src/content/legalInfo/imprint.md",
-          "hash": "6299240550259363381"
-        },
-        {
-          "file": "apps/web/src/content/legalInfo/policy.md",
-          "hash": "10566355953830718747"
-        },
-        {
-          "file": "apps/web/src/env.d.ts",
           "hash": "12247281929465002553"
         },
         {
-          "file": "apps/web/src/layouts/Layout.astro",
-          "hash": "15603592917513927327"
+          "file": ".git/index",
+          "hash": "10437231318188547555"
         },
         {
-          "file": "apps/web/src/layouts/page.astro",
-          "hash": "5487067515701641820"
+          "file": ".nx/cache/cloud/verify.lock",
+          "hash": "15387841956954515061"
         },
         {
-          "file": "apps/web/src/pages/404.astro",
-          "hash": "509685381671300708"
+          "file": ".nx/cache/run.json",
+          "hash": "17286185291689952843"
         },
         {
-          "file": "apps/web/src/pages/dashboard.astro",
-          "hash": "9727046940978212370"
+          "file": ".nx/workspace-data/26B20EB1-D4B4-5358-9B42-EA3E18224835.db-shm",
+          "hash": "15826980795089046991"
         },
         {
-          "file": "apps/web/src/pages/index.astro",
-          "hash": "18268648888671615530"
+          "file": ".nx/workspace-data/26B20EB1-D4B4-5358-9B42-EA3E18224835.db-wal",
+          "hash": "5281309777711252188"
         },
         {
-          "file": "apps/web/src/pages/legalInfo/[slug].astro",
-          "hash": "3852000106762136580"
+          "file": ".nx/workspace-data/d/server-process.json",
+          "hash": "4945092191406590649"
         },
         {
-          "file": "apps/web/src/pages/legalInfo/index.astro",
-          "hash": "3244421341483603138"
+          "file": ".nx/workspace-data/file-map.json",
+          "hash": "4811615931059335766"
         },
         {
-          "file": "apps/web/src/pages/login.astro",
-          "hash": "9457741041990879734"
+          "file": ".nx/workspace-data/nx_files.nxt",
+          "hash": "4270778789496528695"
         },
         {
-          "file": "apps/web/src/stores/auth.ts",
-          "hash": "5975837753338507706"
+          "file": ".nx/workspace-data/project-graph.json",
+          "hash": "16634545889258328980"
         },
         {
-          "file": "apps/web/src/stores/users.ts",
-          "hash": "7649036091514305797"
+          "file": ".nx/workspace-data/source-maps.json",
+          "hash": "8631492665449240222"
         },
         {
-          "file": "apps/web/src/styles/tailwind.css",
-          "hash": "4645570607630753465"
+          "file": "libs/app-1/src/index.jsx",
+          "hash": "16538292451575881806"
+        },
+        {
+          "file": "libs/app-2/src/index.jsx",
+          "hash": "6511427487940599274"
         },
         {
           "file": "nx.json",
@@ -177,11 +188,11 @@
         },
         {
           "file": "package-lock.json",
-          "hash": "3954630212395471830"
+          "hash": "16159311005442999896"
         },
         {
           "file": "package.json",
-          "hash": "8265312220342999421",
+          "hash": "13952718124409320851",
           "deps": [
             "npm:@astrojs/netlify",
             "npm:@tailwindcss/vite",
@@ -190,6 +201,7 @@
             "npm:postcss",
             "npm:tailwindcss",
             "npm:@astrojs/react",
+            "npm:@astrojs/rss",
             "npm:@nanostores/persistent",
             "npm:@nanostores/react",
             "npm:@types/react",
@@ -201,15 +213,71 @@
           ]
         },
         {
-          "file": "project.json",
-          "hash": "10565092758750273290"
+          "file": "tsconfig.json",
+          "hash": "6119900534902504010"
+        }
+      ],
+      "ui": [
+        {
+          "file": "libs/ui/project.json",
+          "hash": "2110566653767641363"
         },
         {
-          "file": "tsconfig.json",
-          "hash": "11734694662231194405"
+          "file": "libs/ui/public/favicon.svg",
+          "hash": "9875909904608765743"
+        },
+        {
+          "file": "libs/ui/src/components/Footer.astro",
+          "hash": "9239408994941757499"
+        },
+        {
+          "file": "libs/ui/src/components/Navigation.astro",
+          "hash": "3170016129238693667"
+        },
+        {
+          "file": "libs/ui/src/components/PersonalGreeting.astro",
+          "hash": "16821871176792820087"
+        },
+        {
+          "file": "libs/ui/src/env.d.ts",
+          "hash": "12247281929465002553"
+        },
+        {
+          "file": "libs/ui/src/index.ts",
+          "hash": "10051263333414225641"
+        },
+        {
+          "file": "libs/ui/src/layouts/Layout.astro",
+          "hash": "15603592917513927327"
+        },
+        {
+          "file": "libs/ui/src/layouts/page.astro",
+          "hash": "5487067515701641820"
+        },
+        {
+          "file": "libs/ui/src/styles/tailwind.css",
+          "hash": "4645570607630753465"
+        }
+      ],
+      "state": [
+        {
+          "file": "libs/state/project.json",
+          "hash": "10269771397221584411"
+        },
+        {
+          "file": "libs/state/src/auth.ts",
+          "hash": "5975837753338507706"
+        },
+        {
+          "file": "libs/state/src/index.ts",
+          "hash": "7434422324185454438"
+        },
+        {
+          "file": "libs/state/src/users.ts",
+          "hash": "7649036091514305797"
         }
       ]
     }
   },
-  "externalNodesHash": "17758176018416975013"
+  "externalNodesHash": "12369591762580674263"
 }

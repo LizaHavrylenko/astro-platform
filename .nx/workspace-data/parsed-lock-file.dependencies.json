@@ -195,6 +195,16 @@
     "type": "static"
   },
   {
+    "source": "npm:@astrojs/rss",
+    "target": "npm:fast-xml-parser",
+    "type": "static"
+  },
+  {
+    "source": "npm:@astrojs/rss",
+    "target": "npm:picocolors",
+    "type": "static"
+  },
+  {
     "source": "npm:@astrojs/telemetry",
     "target": "npm:ci-info",
     "type": "static"
@@ -4552,6 +4562,11 @@
   {
     "source": "npm:fast-glob",
     "target": "npm:micromatch",
+    "type": "static"
+  },
+  {
+    "source": "npm:fast-xml-parser",
+    "target": "npm:strnum",
     "type": "static"
   },
   {

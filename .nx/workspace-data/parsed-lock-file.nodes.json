@@ -53,6 +53,15 @@
       "hash": "sha512-3M3RE+KYlbvov+uvn7SzgcO/zoMiK16Glwo9Ic0ZOJ0B+4PSULMeniwtyQg1m1Eq5k4BbqpIuC18lA2uzQSflQ=="
     }
   },
+  "npm:@astrojs/rss": {
+    "type": "npm",
+    "name": "npm:@astrojs/rss",
+    "data": {
+      "version": "4.0.13",
+      "packageName": "@astrojs/rss",
+      "hash": "sha512-ugW4DmGn8kgfl8/qecU3EcKCAuEBrZqY7eYfa6at0sY7HGEwRdzsOafLE437RwDMP2ZuxfKnCNABs99YVhX0kg=="
+    }
+  },
   "npm:@astrojs/telemetry": {
     "type": "npm",
     "name": "npm:@astrojs/telemetry",
@@ -4787,6 +4796,15 @@
       "hash": "sha512-iPeeDKJSWf4IEOasVVrknXpaBV0IApz/gp7S2bb7Z4Lljbl2MGJRqInZiUrQwV16cpzw/D3S5j5Julj/gT52AA=="
     }
   },
+  "npm:fast-xml-parser": {
+    "type": "npm",
+    "name": "npm:fast-xml-parser",
+    "data": {
+      "version": "5.3.1",
+      "packageName": "fast-xml-parser",
+      "hash": "sha512-jbNkWiv2Ec1A7wuuxk0br0d0aTMUtQ4IkL+l/i1r9PRf6pLXjDgsBsWwO+UyczmQlnehi4Tbc8/KIvxGQe+I/A=="
+    }
+  },
   "npm:fastq": {
     "type": "npm",
     "name": "npm:fastq",
@@ -8088,6 +8106,15 @@
       "version": "3.0.0",
       "packageName": "strip-final-newline",
       "hash": "sha512-dOESqjYr96iWYylGObzd39EuNTa5VJxyvVAEm5Jnh7KGo75V43Hk1odPQkNDyXNmUR6k+gEiDVXnjB8HJ3crXw=="
+    }
+  },
+  "npm:strnum": {
+    "type": "npm",
+    "name": "npm:strnum",
+    "data": {
+      "version": "2.1.1",
+      "packageName": "strnum",
+      "hash": "sha512-7ZvoFTiCnGxBtDqJ//Cu6fWtZtc7Y3x+QOirG15wztbdngGSkht27o2pyGWrVy0b4WAy3jbKmnoK6g5VlVNUUw=="
     }
   },
   "npm:supports-color": {

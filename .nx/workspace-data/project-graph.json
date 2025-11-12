@@ -1,11 +1,106 @@
 {
   "nodes": {
-    "web": {
-      "name": "web",
+    "shell": {
+      "name": "shell",
+      "type": "app",
+      "data": {
+        "root": "apps/shell",
+        "name": "shell",
+        "sourceRoot": "apps/shell/src",
+        "projectType": "application",
+        "targets": {
+          "serve": {
+            "executor": "nx:run-commands",
+            "options": {
+              "cwd": "apps/shell",
+              "command": "astro dev"
+            },
+            "configurations": {},
+            "parallelism": true
+          },
+          "build": {
+            "executor": "nx:run-commands",
+            "options": {
+              "cwd": "apps/shell",
+              "command": "astro build"
+            },
+            "outputs": [
+              "{workspaceRoot}/apps/shell/dist"
+            ],
+            "configurations": {},
+            "parallelism": true
+          },
+          "preview": {
+            "executor": "nx:run-commands",
+            "options": {
+              "cwd": "apps/shell",
+              "command": "astro preview"
+            },
+            "configurations": {},
+            "parallelism": true
+          }
+        },
+        "implicitDependencies": [],
+        "tags": []
+      }
+    },
+    "state": {
+      "name": "state",
+      "type": "lib",
+      "data": {
+        "root": "libs/state",
+        "name": "state",
+        "sourceRoot": "libs/state/src",
+        "projectType": "library",
+        "tags": [
+          "type:lib",
+          "scope:shared"
+        ],
+        "targets": {},
+        "implicitDependencies": []
+      }
+    },
+    "ui": {
+      "name": "ui",
+      "type": "lib",
+      "data": {
+        "root": "libs/ui",
+        "name": "ui",
+        "sourceRoot": "libs/ui/src",
+        "projectType": "library",
+        "tags": [
+          "type:lib",
+          "scope:shared"
+        ],
+        "targets": {
+          "lint": {
+            "executor": "nx:run-commands",
+            "options": {
+              "command": "eslint .",
+              "cwd": "libs/ui"
+            },
+            "configurations": {},
+            "parallelism": true
+          },
+          "test": {
+            "executor": "nx:run-commands",
+            "options": {
+              "command": "vitest run",
+              "cwd": "libs/ui"
+            },
+            "configurations": {},
+            "parallelism": true
+          }
+        },
+        "implicitDependencies": []
+      }
+    },
+    "growing-graham": {
+      "name": "growing-graham",
       "type": "app",
       "data": {
         "root": ".",
-        "name": "web",
+        "name": "growing-graham",
         "tags": [
           "npm:public"
         ],
@@ -13,6 +108,8 @@
           "targetGroups": {
             "NPM Scripts": [
               "dev",
+              "build",
+              "preview",
               "astro"
             ]
           },
@@ -35,6 +132,30 @@
             "configurations": {},
             "parallelism": true
           },
+          "build": {
+            "executor": "nx:run-script",
+            "options": {
+              "script": "build"
+            },
+            "metadata": {
+              "scriptContent": "astro build",
+              "runCommand": "npm run build"
+            },
+            "configurations": {},
+            "parallelism": true
+          },
+          "preview": {
+            "executor": "nx:run-script",
+            "options": {
+              "script": "preview"
+            },
+            "metadata": {
+              "scriptContent": "astro preview",
+              "runCommand": "npm run preview"
+            },
+            "configurations": {},
+            "parallelism": true
+          },
           "astro": {
             "executor": "nx:run-script",
             "options": {
@@ -46,48 +167,8 @@
             },
             "configurations": {},
             "parallelism": true
-          },
-          "serve": {
-            "executor": "nx:run-commands",
-            "options": {
-              "cwd": "apps/web",
-              "command": "astro dev"
-            },
-            "configurations": {},
-            "parallelism": true
-          },
-          "build": {
-            "executor": "nx:run-commands",
-            "options": {
-              "cwd": "apps/web",
-              "command": "astro build"
-            },
-            "outputs": [
-              "{workspaceRoot}/apps/web/dist"
-            ],
-            "configurations": {},
-            "parallelism": true
-          },
-          "preview": {
-            "executor": "nx:run-commands",
-            "options": {
-              "cwd": "apps/web",
-              "command": "astro preview"
-            },
-            "configurations": {},
-            "parallelism": true
-          },
-          "check": {
-            "executor": "nx:run-commands",
-            "options": {
-              "cwd": "apps/web",
-              "command": "astro check"
-            },
-            "configurations": {},
-            "parallelism": true
           }
         },
-        "sourceRoot": "apps/web/src",
         "implicitDependencies": []
       }
     }
@@ -145,6 +226,15 @@
         "version": "4.4.1",
         "packageName": "@astrojs/react",
         "hash": "sha512-3M3RE+KYlbvov+uvn7SzgcO/zoMiK16Glwo9Ic0ZOJ0B+4PSULMeniwtyQg1m1Eq5k4BbqpIuC18lA2uzQSflQ=="
+      }
+    },
+    "npm:@astrojs/rss": {
+      "type": "npm",
+      "name": "npm:@astrojs/rss",
+      "data": {
+        "version": "4.0.13",
+        "packageName": "@astrojs/rss",
+        "hash": "sha512-ugW4DmGn8kgfl8/qecU3EcKCAuEBrZqY7eYfa6at0sY7HGEwRdzsOafLE437RwDMP2ZuxfKnCNABs99YVhX0kg=="
       }
     },
     "npm:@astrojs/telemetry": {
@@ -4881,6 +4971,15 @@
         "hash": "sha512-iPeeDKJSWf4IEOasVVrknXpaBV0IApz/gp7S2bb7Z4Lljbl2MGJRqInZiUrQwV16cpzw/D3S5j5Julj/gT52AA=="
       }
     },
+    "npm:fast-xml-parser": {
+      "type": "npm",
+      "name": "npm:fast-xml-parser",
+      "data": {
+        "version": "5.3.1",
+        "packageName": "fast-xml-parser",
+        "hash": "sha512-jbNkWiv2Ec1A7wuuxk0br0d0aTMUtQ4IkL+l/i1r9PRf6pLXjDgsBsWwO+UyczmQlnehi4Tbc8/KIvxGQe+I/A=="
+      }
+    },
     "npm:fastq": {
       "type": "npm",
       "name": "npm:fastq",
@@ -8184,6 +8283,15 @@
         "hash": "sha512-dOESqjYr96iWYylGObzd39EuNTa5VJxyvVAEm5Jnh7KGo75V43Hk1odPQkNDyXNmUR6k+gEiDVXnjB8HJ3crXw=="
       }
     },
+    "npm:strnum": {
+      "type": "npm",
+      "name": "npm:strnum",
+      "data": {
+        "version": "2.1.1",
+        "packageName": "strnum",
+        "hash": "sha512-7ZvoFTiCnGxBtDqJ//Cu6fWtZtc7Y3x+QOirG15wztbdngGSkht27o2pyGWrVy0b4WAy3jbKmnoK6g5VlVNUUw=="
+      }
+    },
     "npm:supports-color": {
       "type": "npm",
       "name": "npm:supports-color",
@@ -9005,79 +9113,87 @@
     }
   },
   "dependencies": {
-    "web": [
+    "shell": [],
+    "state": [],
+    "ui": [],
+    "growing-graham": [
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:@astrojs/netlify",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:@tailwindcss/vite",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:autoprefixer",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:nx",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:postcss",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:tailwindcss",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:@astrojs/react",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
+        "target": "npm:@astrojs/rss",
+        "type": "static"
+      },
+      {
+        "source": "growing-graham",
         "target": "npm:@nanostores/persistent",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:@nanostores/react",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:@types/react",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:@types/react-dom",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:astro",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:nanostores",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:react",
         "type": "static"
       },
       {
-        "source": "web",
+        "source": "growing-graham",
         "target": "npm:react-dom",
         "type": "static"
       }
@@ -9282,6 +9398,18 @@
       {
         "source": "npm:@astrojs/react",
         "target": "npm:vite",
+        "type": "static"
+      }
+    ],
+    "npm:@astrojs/rss": [
+      {
+        "source": "npm:@astrojs/rss",
+        "target": "npm:fast-xml-parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/rss",
+        "target": "npm:picocolors",
         "type": "static"
       }
     ],
@@ -13907,6 +14035,13 @@
       {
         "source": "npm:fast-glob",
         "target": "npm:micromatch",
+        "type": "static"
+      }
+    ],
+    "npm:fast-xml-parser": [
+      {
+        "source": "npm:fast-xml-parser",
+        "target": "npm:strnum",
         "type": "static"
       }
     ],
@@ -18729,5 +18864,5 @@
   },
   "version": "6.0",
   "errors": [],
-  "computedAt": 1762439432436
+  "computedAt": 1762945632786
 }

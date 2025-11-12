@@ -1,0 +1,12 @@
+---
+import { LoginPage } from "@app1";
+import { Layout } from "@ui";
+
+export const prerender = false;
+---
+
+<Layout>
+  <main class="mx-auto grid min-h-[80dvh] place-items-center p-6">
+    <LoginPage client:load />
+  </main></Layout
+>
