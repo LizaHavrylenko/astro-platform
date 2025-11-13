@@ -279,6 +279,178 @@
       "nx/core/package-json"
     ]
   },
+  "apps/app-1": {
+    "root": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.command": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.cwd": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.command": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.cwd": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.executor": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options.command": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options.cwd": [
+      "apps/app-1/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "apps/app-2": {
+    "root": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.command": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.cwd": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.command": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.cwd": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.executor": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options.command": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options.cwd": [
+      "apps/app-2/project.json",
+      "nx/core/project-json"
+    ]
+  },
   "libs/state": {
     "root": [
       "libs/state/project.json",

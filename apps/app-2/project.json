@@ -1,0 +1,35 @@
+{
+    "name": "app-2",
+    "sourceRoot": "apps/app-2/src",
+    "projectType": "application",
+  
+    "targets": {
+      "serve": {
+        "executor": "nx:run-commands",
+        "options": {
+          "command": "npx astro dev",
+          "cwd": "apps/app-2"
+        }
+      },
+  
+      "build": {
+        "executor": "nx:run-commands",
+        "options": {
+          "command": "npx astro build",
+          "cwd": "apps/app-2"
+        },
+        "outputs": [
+          "{workspaceRoot}/apps/app-2/dist"
+        ]
+      },
+  
+      "preview": {
+        "executor": "nx:run-commands",
+        "options": {
+          "command": "npx astro preview",
+          "cwd": "apps/app-2"
+        }
+      }
+    }
+  }
+  

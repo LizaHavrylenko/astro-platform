@@ -19,6 +19,1055 @@
   "fileMap": {
     "nonProjectFiles": [],
     "projectFileMap": {
+      "app-1": [
+        {
+          "file": "apps/app-1/.astro/content-assets.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": "apps/app-1/.astro/content-modules.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": "apps/app-1/.astro/content.d.ts",
+          "hash": "3576512076764084912"
+        },
+        {
+          "file": "apps/app-1/.astro/types.d.ts",
+          "hash": "8107136797306745825"
+        },
+        {
+          "file": "apps/app-1/node_modules/.astro/data-store.json",
+          "hash": "12503092134560713882"
+        },
+        {
+          "file": "apps/app-1/project.json",
+          "hash": "5261605135297082303"
+        },
+        {
+          "file": "apps/app-1/src/pages/index.jsx",
+          "hash": "14395178373147806554"
+        }
+      ],
+      "app-2": [
+        {
+          "file": "apps/app-2/.astro/content-assets.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": "apps/app-2/.astro/content-modules.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": "apps/app-2/.astro/content.d.ts",
+          "hash": "3576512076764084912"
+        },
+        {
+          "file": "apps/app-2/.astro/types.d.ts",
+          "hash": "8107136797306745825"
+        },
+        {
+          "file": "apps/app-2/node_modules/.astro/data-store.json",
+          "hash": "12503092134560713882"
+        },
+        {
+          "file": "apps/app-2/project.json",
+          "hash": "869867160900129827"
+        },
+        {
+          "file": "apps/app-2/src/pages/index.jsx",
+          "hash": "17724962488200808494"
+        }
+      ],
+      "ui": [
+        {
+          "file": "libs/ui/project.json",
+          "hash": "2110566653767641363"
+        },
+        {
+          "file": "libs/ui/public/favicon.svg",
+          "hash": "9875909904608765743"
+        },
+        {
+          "file": "libs/ui/src/components/Footer.astro",
+          "hash": "10973182779082021644"
+        },
+        {
+          "file": "libs/ui/src/components/Navigation.astro",
+          "hash": "1265044877177151301"
+        },
+        {
+          "file": "libs/ui/src/components/PersonalGreeting.astro",
+          "hash": "16821871176792820087"
+        },
+        {
+          "file": "libs/ui/src/env.d.ts",
+          "hash": "12247281929465002553"
+        },
+        {
+          "file": "libs/ui/src/index.ts",
+          "hash": "16907975698625117053"
+        },
+        {
+          "file": "libs/ui/src/layouts/page.astro",
+          "hash": "5487067515701641820"
+        }
+      ],
+      "growing-graham": [
+        {
+          "file": ".astro/content-assets.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": ".astro/content-modules.mjs",
+          "hash": "17953928121017343345"
+        },
+        {
+          "file": ".astro/content.d.ts",
+          "hash": "3576512076764084912"
+        },
+        {
+          "file": ".astro/data-store.json",
+          "hash": "1955737924507778125"
+        },
+        {
+          "file": ".astro/settings.json",
+          "hash": "2931109715335695367"
+        },
+        {
+          "file": ".astro/types.d.ts",
+          "hash": "8107136797306745825"
+        },
+        {
+          "file": ".git/COMMIT_EDITMSG",
+          "hash": "8232378496106579505"
+        },
+        {
+          "file": ".git/index",
+          "hash": "13133396784205850930"
+        },
+        {
+          "file": ".git/logs/HEAD",
+          "hash": "15037066389972753363"
+        },
+        {
+          "file": ".git/logs/refs/heads/main",
+          "hash": "8612823654343728761"
+        },
+        {
+          "file": ".git/logs/refs/remotes/origin/main",
+          "hash": "3000096633575892494"
+        },
+        {
+          "file": ".git/logs/refs/stash",
+          "hash": "15554709444129285311"
+        },
+        {
+          "file": ".git/objects/03/63c8d2bb392d66fdb388cd2c89fa203e73c177",
+          "hash": "13214345387036985015"
+        },
+        {
+          "file": ".git/objects/03/9869bc963c7201faa6d6a6ed823b7dcbe6d03c",
+          "hash": "14309123363942734271"
+        },
+        {
+          "file": ".git/objects/04/9870127e502bdde277880e3ffedddc4a4841bd",
+          "hash": "1393230124830091029"
+        },
+        {
+          "file": ".git/objects/06/b9f5488abcc0c71dea9e44ce1b69b7c8ae9e56",
+          "hash": "13184308152005310345"
+        },
+        {
+          "file": ".git/objects/08/bf779124a872c5120ab9f29d3abdec0e19f8af",
+          "hash": "12445013545766346422"
+        },
+        {
+          "file": ".git/objects/09/8fa9888e7a6916d5567ce7b869ed90121917c0",
+          "hash": "3624246132947689651"
+        },
+        {
+          "file": ".git/objects/0c/ec9c5e8dad78448a07ac0a11f6e2e6fea894b4",
+          "hash": "545773583984863627"
+        },
+        {
+          "file": ".git/objects/11/48131e24e4a6631143cce9fdbfbe77095f0cc9",
+          "hash": "18218206846633700104"
+        },
+        {
+          "file": ".git/objects/11/f792ed70d8f4462047b0bfa5030b85d4f7af0d",
+          "hash": "10599349614220627644"
+        },
+        {
+          "file": ".git/objects/12/adea44b04d28a999880211dd9633793a10e5b5",
+          "hash": "9132958738232509008"
+        },
+        {
+          "file": ".git/objects/13/341267ad79eef0470438b7403726ee9f8fe6cd",
+          "hash": "5846859191325700379"
+        },
+        {
+          "file": ".git/objects/13/9d6e4c62f032c1a9a2e0a11f825eb347f77481",
+          "hash": "5339354622128452161"
+        },
+        {
+          "file": ".git/objects/13/c6f4bf323300c5f7b8152550951d12c88ef86f",
+          "hash": "2064055260638654444"
+        },
+        {
+          "file": ".git/objects/16/ccf6b247a97ba533fc0848107d6a148fc2b8ad",
+          "hash": "12296776027177973096"
+        },
+        {
+          "file": ".git/objects/17/85dda20e356416d15a24df8d085942d081c410",
+          "hash": "7899853647429887677"
+        },
+        {
+          "file": ".git/objects/17/967ea8b9da68e7e3848b7cf2ccdc72b854d7ce",
+          "hash": "18417358326038915156"
+        },
+        {
+          "file": ".git/objects/1b/acee990f8ce454680dfd79d3d7e6edf15ebdae",
+          "hash": "5240101911915498003"
+        },
+        {
+          "file": ".git/objects/1c/9a7467e0e8334dc9cd6e4772c96acf34f183f7",
+          "hash": "10487080488263186978"
+        },
+        {
+          "file": ".git/objects/1c/db796b2dfe120c58b07287a3663a40534b92d9",
+          "hash": "10258967609154856686"
+        },
+        {
+          "file": ".git/objects/1e/ea9fcf08cb3de4fb19d7d9061a9d721e638fb4",
+          "hash": "5662889340074260962"
+        },
+        {
+          "file": ".git/objects/1f/1b4fddc1c46c046f85611c7e053d5dba5d3faa",
+          "hash": "3237151143936326374"
+        },
+        {
+          "file": ".git/objects/1f/e8aca52a3bb67eab05cfcceed12ce8e27f2b9d",
+          "hash": "14653516110068944442"
+        },
+        {
+          "file": ".git/objects/21/771538a16f66d7f24193ed7062fdce7591c3e4",
+          "hash": "18203639358929921686"
+        },
+        {
+          "file": ".git/objects/25/208a1d9a6e8f25a0bc1ebd70409775bf2d7e28",
+          "hash": "3328873640489069314"
+        },
+        {
+          "file": ".git/objects/25/92f4a37347e064a1fc02aece790f68633d9690",
+          "hash": "15614424161455035234"
+        },
+        {
+          "file": ".git/objects/27/df4ace789f7b10d604a408c087b8dc91d623cd",
+          "hash": "3079398437929216641"
+        },
+        {
+          "file": ".git/objects/2a/20de8e378a061c2ae7062504fe51a1baf5c370",
+          "hash": "11453491896419187941"
+        },
+        {
+          "file": ".git/objects/2b/207bcbb4c5dc735a8b4d46ab105847169c5cf5",
+          "hash": "7663117815052303845"
+        },
+        {
+          "file": ".git/objects/2c/e5b0af9a8bc3a097cc7ca9ed9387fba022bab7",
+          "hash": "12877182468862665472"
+        },
+        {
+          "file": ".git/objects/2e/b179fdfa39e4f102e957e9fdbf212db36c89e4",
+          "hash": "8490632023681873941"
+        },
+        {
+          "file": ".git/objects/2f/21719628c4ad9324ba3419a0225be7d53f3050",
+          "hash": "8068984613545897391"
+        },
+        {
+          "file": ".git/objects/2f/cc4d4cea3bff202a8514c2d699ead67f9182cf",
+          "hash": "8708471535456960807"
+        },
+        {
+          "file": ".git/objects/30/47fb1c99ca9030de48a3e5c88860e7fcba4568",
+          "hash": "5864969254804772424"
+        },
+        {
+          "file": ".git/objects/33/f3c33a5169de81afb74f0f2e44e15136c46645",
+          "hash": "6763708317217855226"
+        },
+        {
+          "file": ".git/objects/33/fa361a24df2fed6da40e27e1a8b421a8e548db",
+          "hash": "210800736982922447"
+        },
+        {
+          "file": ".git/objects/34/c17e4edb696e1c29038a494dfbd56530889a1c",
+          "hash": "8763198683408324249"
+        },
+        {
+          "file": ".git/objects/36/97cc07e873e62080898f94a84fba37354b3a0d",
+          "hash": "5688489419133282343"
+        },
+        {
+          "file": ".git/objects/39/a766b2ab89844528baf784f473b569ebe9bfa0",
+          "hash": "1389114668873126093"
+        },
+        {
+          "file": ".git/objects/3b/be5dd56f50ea40a467fc995560d7c673bc67ca",
+          "hash": "14706508890368930122"
+        },
+        {
+          "file": ".git/objects/3c/f00341a89a4bbd3466edf0761690160375ac42",
+          "hash": "14862327286598313895"
+        },
+        {
+          "file": ".git/objects/3d/e23f15e73c877f34a34f8f69332592fef66222",
+          "hash": "16804188468526652972"
+        },
+        {
+          "file": ".git/objects/3f/5bdbba9b37572b04ba782bef949eccb76c448e",
+          "hash": "7696939873104649981"
+        },
+        {
+          "file": ".git/objects/3f/ce62507884503d21de632913fbcf3073be8e58",
+          "hash": "12583821843074737209"
+        },
+        {
+          "file": ".git/objects/41/f69e04bad2684ba0fba932a902498938f54108",
+          "hash": "7755605369999446400"
+        },
+        {
+          "file": ".git/objects/46/400d347b0815ae3b0844c91a0e54c1c698ab43",
+          "hash": "12171952210021795352"
+        },
+        {
+          "file": ".git/objects/47/c84025636323312cb7dd8fc1b3eea7abdd9fed",
+          "hash": "9802148806784690577"
+        },
+        {
+          "file": ".git/objects/47/d2ee3dcd2b32e3faa8b48697a64aa007c2d6dc",
+          "hash": "995324345794239077"
+        },
+        {
+          "file": ".git/objects/48/75b5ca58acb7985e391251a144cdfc699f4533",
+          "hash": "6196467492315790298"
+        },
+        {
+          "file": ".git/objects/4a/88cc42cd0785a62bebd64b23a5a8552d13fc45",
+          "hash": "6320983143726268385"
+        },
+        {
+          "file": ".git/objects/4d/c1609024770f522a110979d174698cd7fa5d0a",
+          "hash": "5148380717726609982"
+        },
+        {
+          "file": ".git/objects/4e/a59d4a3dd98c62c5073685a727b64543a223e4",
+          "hash": "12565269747994875403"
+        },
+        {
+          "file": ".git/objects/4f/0a2a2925a8df9dd5c314f9d0ba7c25ae1c28aa",
+          "hash": "5092186006908543788"
+        },
+        {
+          "file": ".git/objects/4f/7495e343542a927a75c4d19a122b5e2017d7a3",
+          "hash": "6878705072610858412"
+        },
+        {
+          "file": ".git/objects/50/9345e123e36a0dfbc668f493456be43b2b4add",
+          "hash": "3628708523856796155"
+        },
+        {
+          "file": ".git/objects/51/3a114a42742ce6d2afbbc29a270941a0af2027",
+          "hash": "12989287727476620048"
+        },
+        {
+          "file": ".git/objects/52/01bb3c041b3ae005559a389c1ad0354de0cda7",
+          "hash": "10068941317188186143"
+        },
+        {
+          "file": ".git/objects/52/43eeb29162118b62637163410b0c044b5c52d6",
+          "hash": "9438532682623562232"
+        },
+        {
+          "file": ".git/objects/53/85fdadea023b20272e9237c9480ad7e6659575",
+          "hash": "5711943296702621758"
+        },
+        {
+          "file": ".git/objects/54/3baee67561023c304ac393a955066e2ec0cc44",
+          "hash": "5148434972501499953"
+        },
+        {
+          "file": ".git/objects/57/61c970a8441b6779d5aca1e0d5539b1e3192c5",
+          "hash": "8046384122728921616"
+        },
+        {
+          "file": ".git/objects/57/ad706240abccd5effe7ec3d51a11527ef99473",
+          "hash": "5026406433846719265"
+        },
+        {
+          "file": ".git/objects/58/5db5e8195c940c63b25e889b7767befcb2b14b",
+          "hash": "7692437376868818727"
+        },
+        {
+          "file": ".git/objects/58/9c368840f492110ef9488ff4db6128661fc390",
+          "hash": "13781413714014649587"
+        },
+        {
+          "file": ".git/objects/59/b2b560498a65a84c61a0667d124b50d6688524",
+          "hash": "15479646307996570241"
+        },
+        {
+          "file": ".git/objects/59/d8e870f8293fb8b3b0044a4e65ff2bf02c0d5a",
+          "hash": "11011530158529322427"
+        },
+        {
+          "file": ".git/objects/5a/77ff13cdf2236583e412d5e33c40e125ffd27a",
+          "hash": "1978176592163745637"
+        },
+        {
+          "file": ".git/objects/5b/4b6d71dfbcc4d3e5c4bd923ad38324f6533da0",
+          "hash": "7720325473916218222"
+        },
+        {
+          "file": ".git/objects/5b/579222772decdf6489a6f0123fe260f3b6235e",
+          "hash": "10715538535426416667"
+        },
+        {
+          "file": ".git/objects/5c/bba1ec29228441dbd64addd71174a14dad5526",
+          "hash": "8447917388206364542"
+        },
+        {
+          "file": ".git/objects/5c/dd3f33630189e9c0450a02a4b9a36309f60eb9",
+          "hash": "8879856537738752823"
+        },
+        {
+          "file": ".git/objects/60/b7476c5a7ae10984f58238afdcd146763664f9",
+          "hash": "3450811674009680296"
+        },
+        {
+          "file": ".git/objects/60/ecfbdde36ed3cab25bcf3681a474cef7e7f764",
+          "hash": "4231476363443499205"
+        },
+        {
+          "file": ".git/objects/62/4469655803d1d3a4f41a57527d501768e88d9e",
+          "hash": "13942455374180597104"
+        },
+        {
+          "file": ".git/objects/63/1a4ebb67591bcb55347958bb88897e90f38872",
+          "hash": "5038445118012313908"
+        },
+        {
+          "file": ".git/objects/63/2a397f980b653ad341ffc589e2467953e81146",
+          "hash": "4875076356321962313"
+        },
+        {
+          "file": ".git/objects/63/30ab8b31e1c7804d5c2af3f812ecb8055dcf2c",
+          "hash": "16998792516511920391"
+        },
+        {
+          "file": ".git/objects/67/3137c5545177beca9ba27b76a576d465579440",
+          "hash": "9213781037284755631"
+        },
+        {
+          "file": ".git/objects/68/64db141ad9af16b907cf1aa445a3f0dd3cc1d0",
+          "hash": "6390542744064968657"
+        },
+        {
+          "file": ".git/objects/68/d328fdd4f274e3c43314f23fe9f4fbbde1ed45",
+          "hash": "7144610462233995326"
+        },
+        {
+          "file": ".git/objects/6c/8f76342d45e6ae00120879dec84c15a3b376b5",
+          "hash": "597065441536250702"
+        },
+        {
+          "file": ".git/objects/6c/f69ec2d3703642e0c6104035cb90f32c7f7779",
+          "hash": "4772275975594701029"
+        },
+        {
+          "file": ".git/objects/6d/df26b8bc6f7a3eb97314610cf03048bf7221c0",
+          "hash": "11856880984884990398"
+        },
+        {
+          "file": ".git/objects/6d/ed8ed1b40569b868d5b7a699d23eed01996c9e",
+          "hash": "10950077202343773600"
+        },
+        {
+          "file": ".git/objects/6e/d1199373f8bb4820de9b9ec4047adba755d4ad",
+          "hash": "9311626721343574945"
+        },
+        {
+          "file": ".git/objects/70/a8f34722251fc92332dec2e153ec45b16cb354",
+          "hash": "15937755300076029179"
+        },
+        {
+          "file": ".git/objects/70/cecbd876792d625c1a8db64af8ad9fab469032",
+          "hash": "10175965180463326016"
+        },
+        {
+          "file": ".git/objects/73/5cc44972511a9fd1eca78a3b7eb28b72cf4abd",
+          "hash": "12038564859014551325"
+        },
+        {
+          "file": ".git/objects/74/10f2c4ddfb5a86aa726047b15e8edc6d61d954",
+          "hash": "15106336993742008350"
+        },
+        {
+          "file": ".git/objects/78/8171cb949c676477b89a1a096e4ce7765bb1c5",
+          "hash": "4696675601147834244"
+        },
+        {
+          "file": ".git/objects/78/b252b4b146e357aae1698a9747f6463900437b",
+          "hash": "14276750118324018600"
+        },
+        {
+          "file": ".git/objects/7b/2cd50663f935d16cb951e450417581bb7e7207",
+          "hash": "14142266803503454012"
+        },
+        {
+          "file": ".git/objects/7b/8a0861dd2bd654d3ef5658132c0187cf80115b",
+          "hash": "13100369729157023504"
+        },
+        {
+          "file": ".git/objects/7d/0fb4497d60a60cd8c46dc8debf840734a7cd82",
+          "hash": "15734618456087726729"
+        },
+        {
+          "file": ".git/objects/7d/985a8944bfeb00d65a7076adf2786403043af8",
+          "hash": "71801126507553102"
+        },
+        {
+          "file": ".git/objects/7e/651b647156e6662f5a3821d39c7e1ecf74d071",
+          "hash": "4805780632999917512"
+        },
+        {
+          "file": ".git/objects/7e/d7908b6441987209ad461af63a8fcd258b7ff3",
+          "hash": "7795067590141961077"
+        },
+        {
+          "file": ".git/objects/81/6b8412fd6879f40a53ea003b335ef5359364f3",
+          "hash": "7952641199890913197"
+        },
+        {
+          "file": ".git/objects/82/aef076fbaf9c5a6090a6619382f4fe9aa23b7a",
+          "hash": "18222657296325773049"
+        },
+        {
+          "file": ".git/objects/84/09cfcab335068b05cfda47ff7e6c9c3ed7252c",
+          "hash": "14091776954229477346"
+        },
+        {
+          "file": ".git/objects/84/424b01b7de2f878984830406bb4e483056217a",
+          "hash": "16870965071939922919"
+        },
+        {
+          "file": ".git/objects/85/755b1d3f7dbee71df285514a497c345f5233c1",
+          "hash": "3270360868036359530"
+        },
+        {
+          "file": ".git/objects/85/9bb388f92fafdcb049f2477f5f319ecae9ecb7",
+          "hash": "1016224386801739779"
+        },
+        {
+          "file": ".git/objects/85/9e370dc99de0c5fa78b741542418e0efbe2b71",
+          "hash": "8725303183574058333"
+        },
+        {
+          "file": ".git/objects/85/bcfe3f06c540b8500d570d12f3233a75eed0f9",
+          "hash": "164521701591865011"
+        },
+        {
+          "file": ".git/objects/86/e1d83e8de06e311d42a3ffd9942a48da82d63a",
+          "hash": "10306436694182115910"
+        },
+        {
+          "file": ".git/objects/87/b9f55f775557c085113322ed290e6dd5bd46d5",
+          "hash": "17581631107763841110"
+        },
+        {
+          "file": ".git/objects/89/1cd968c1ee1829c2e7337f93e4b33125ed6726",
+          "hash": "13750062476226420862"
+        },
+        {
+          "file": ".git/objects/8b/b7a0b91bd58db6c1790b651d58989df7d6ecdc",
+          "hash": "18315737570852227400"
+        },
+        {
+          "file": ".git/objects/8d/30450d7b2b5afc1b5d6ecb93caea6e9024bb74",
+          "hash": "7649767731575766112"
+        },
+        {
+          "file": ".git/objects/8f/7d20fa2d59b0b2238731ac2116e61115f3aee2",
+          "hash": "10276839068163540302"
+        },
+        {
+          "file": ".git/objects/8f/e8472e846ebea6229851c8f4ebe94fd2823d48",
+          "hash": "2328537084488582062"
+        },
+        {
+          "file": ".git/objects/91/1419fe7952c7fa846ea2a5bf84436f316aae83",
+          "hash": "11260757188985751842"
+        },
+        {
+          "file": ".git/objects/93/5f4bac3ef7ea548dbc02e1d24f87ba21744e2b",
+          "hash": "17372133508774225533"
+        },
+        {
+          "file": ".git/objects/94/93ffde66149592d680e59c90cbff13c0610be7",
+          "hash": "11806091286360646645"
+        },
+        {
+          "file": ".git/objects/96/d56a2345d94258c2087fc7224764ee0a4f4339",
+          "hash": "16970361987298148191"
+        },
+        {
+          "file": ".git/objects/9c/5f0f7c4569e986a37ed89e732546b88099dc4c",
+          "hash": "802882701732966002"
+        },
+        {
+          "file": ".git/objects/9c/6313bf55dfcddbcd908c04a4906c840edf557d",
+          "hash": "886964388644309767"
+        },
+        {
+          "file": ".git/objects/9d/34e14762910d4af86ac2198713e0b5ba1bd505",
+          "hash": "3591252165977507658"
+        },
+        {
+          "file": ".git/objects/9d/ad2eaf453210345fb13adedc97d589405a70b3",
+          "hash": "1053586219890845381"
+        },
+        {
+          "file": ".git/objects/9e/53ccc64cdadfa704bcd5fecc53df0d740bba74",
+          "hash": "5582975753932146304"
+        },
+        {
+          "file": ".git/objects/a0/94298e939fad4236145f261faafc2224731277",
+          "hash": "6147838354583475666"
+        },
+        {
+          "file": ".git/objects/a2/1c7f6a83e269f2be87447ca4df968bd7734d91",
+          "hash": "2521212370567863255"
+        },
+        {
+          "file": ".git/objects/a2/5be02f6d6d6f25ebe7eb483c6908881d935093",
+          "hash": "6553836518058212740"
+        },
+        {
+          "file": ".git/objects/a3/28f70cd521ead89b9c4b6639e304475107bd5c",
+          "hash": "5027766045603250455"
+        },
+        {
+          "file": ".git/objects/a4/1637c7637db3412e3e7e1cef0eebc5f7d7e90e",
+          "hash": "7599750555178565563"
+        },
+        {
+          "file": ".git/objects/a6/d9bf8a47f55b293f926e76e6dcd8691ad7f2f3",
+          "hash": "17220145701533471972"
+        },
+        {
+          "file": ".git/objects/a9/527c9a246996f0ed762ef7335cdc83f17a7ae1",
+          "hash": "13801901483636820690"
+        },
+        {
+          "file": ".git/objects/ab/3e04a5e99f8655ef19ab8f4fc6f8f11d5fa391",
+          "hash": "14502937170025444352"
+        },
+        {
+          "file": ".git/objects/ac/046a52173f667dbe2724d3c09575f686574aae",
+          "hash": "1100964917900270217"
+        },
+        {
+          "file": ".git/objects/ad/d4f4712cfa0500945e856593326e7a36b44d78",
+          "hash": "8687553007628689690"
+        },
+        {
+          "file": ".git/objects/ad/e2558f91493155b71661d74cf33b1a808993aa",
+          "hash": "4527750351887263849"
+        },
+        {
+          "file": ".git/objects/ae/304d8bb53aa6df059ae8a428ac4639a505aa8e",
+          "hash": "12741726904723989842"
+        },
+        {
+          "file": ".git/objects/af/02af739455301d81d7ca054ac914c257d7b6e8",
+          "hash": "4163484424653202746"
+        },
+        {
+          "file": ".git/objects/b2/a1602c05921c3df90202ec840344cd7fafcfbf",
+          "hash": "14280871597558491464"
+        },
+        {
+          "file": ".git/objects/b3/7641c95ad378d0bb559f21c7548934f331bffd",
+          "hash": "9821491351734780010"
+        },
+        {
+          "file": ".git/objects/b4/511bb7bb949118c18e48ab04f2c1cc8bf13f33",
+          "hash": "10282379396855176197"
+        },
+        {
+          "file": ".git/objects/b7/7d481f7fe461f6e26c3efc350b9c6276fa0d77",
+          "hash": "16669260485701135707"
+        },
+        {
+          "file": ".git/objects/b9/27d55c4f79478ff3cbf35c56eb767f0228eaee",
+          "hash": "2690573969165717557"
+        },
+        {
+          "file": ".git/objects/ba/0debf23852d1d2bf7801dba073e88e25f63bf3",
+          "hash": "2606420503493159943"
+        },
+        {
+          "file": ".git/objects/ba/89d393941282dd9c431a11ab2a70592033c015",
+          "hash": "10209994365551601085"
+        },
+        {
+          "file": ".git/objects/ba/d12e58acb32e3d2adeb07acf87e334854da834",
+          "hash": "5193037459965884546"
+        },
+        {
+          "file": ".git/objects/ba/e56f9a32db77d580c1e5fbf48874d5b9f5e76c",
+          "hash": "4402290426478071005"
+        },
+        {
+          "file": ".git/objects/bb/4544da0c059ecba9f06a00cf7a42900282c630",
+          "hash": "303301417943712902"
+        },
+        {
+          "file": ".git/objects/bc/afdb4080a59eed10e0214dd4ce7d270619296b",
+          "hash": "17440761450274142672"
+        },
+        {
+          "file": ".git/objects/bd/b1dc170ca092a873adbd91ed051c86c212f187",
+          "hash": "11600160548832554668"
+        },
+        {
+          "file": ".git/objects/bd/d5bdfaf35298f8af91ad309f6e16e0e34bf4d7",
+          "hash": "3699275150576686332"
+        },
+        {
+          "file": ".git/objects/be/f6aea1568152464787407ba197725e4605a82c",
+          "hash": "2823673988856365161"
+        },
+        {
+          "file": ".git/objects/bf/1ee892409a6997d8073ef4ea4ab9541249566b",
+          "hash": "15159216377742009237"
+        },
+        {
+          "file": ".git/objects/c0/3997f1687cc936fa6c303942a9a761398b7983",
+          "hash": "5947972809740418906"
+        },
+        {
+          "file": ".git/objects/c1/dd1b455e6aaaea51dc0d356693e9535476b8a4",
+          "hash": "10687509968779693567"
+        },
+        {
+          "file": ".git/objects/c3/336b24e45613ee583cbc2c231e95879edfb8c7",
+          "hash": "264228562787876805"
+        },
+        {
+          "file": ".git/objects/c3/724e281afa7a3229f64fc632abfe5eb4ba218c",
+          "hash": "13840663367860087156"
+        },
+        {
+          "file": ".git/objects/c4/f5b0bb647d7645956beeec65c3e0c658891089",
+          "hash": "5934767354722879497"
+        },
+        {
+          "file": ".git/objects/c7/3f27da97f982cee62c517a5b86a7cc39f0a53e",
+          "hash": "7711054825046163342"
+        },
+        {
+          "file": ".git/objects/c7/8d5530f84b522f91c51e2fb66b7d8b0aa44959",
+          "hash": "1043125713970637104"
+        },
+        {
+          "file": ".git/objects/c7/d856882d4c2eab8c9b823ee2253802328b5699",
+          "hash": "4164619971760682871"
+        },
+        {
+          "file": ".git/objects/c9/d66852d1bf3ffdc4be0bae12387628899c1f40",
+          "hash": "5617843818699097779"
+        },
+        {
+          "file": ".git/objects/cb/fd8a13b8b6786ad9a25bea50e7eb28a053b9e3",
+          "hash": "18221622725386945443"
+        },
+        {
+          "file": ".git/objects/cc/809bbfb1a204674126fbdc6ea564336a03d25d",
+          "hash": "12161180041494128250"
+        },
+        {
+          "file": ".git/objects/cf/8561a0347aa9d7aa4f62730d6f5d9c43a76567",
+          "hash": "13682239534028006956"
+        },
+        {
+          "file": ".git/objects/cf/e01ad398bb3cbfe2b591fa68759fcab79746a6",
+          "hash": "7409313805539507140"
+        },
+        {
+          "file": ".git/objects/d0/4927afd7086c352489d76f6c4518b9ba58a0d8",
+          "hash": "12325121177157661154"
+        },
+        {
+          "file": ".git/objects/d1/2c1f2d8ea09a99c153303c56c01e049b6c6ff0",
+          "hash": "17931195508054432449"
+        },
+        {
+          "file": ".git/objects/d3/92813e5e7dec0e2d9c87114d170b8d3dd48a2f",
+          "hash": "17148722586031607581"
+        },
+        {
+          "file": ".git/objects/d4/ae9248ce34a072201f49e859ba64e7f74f3526",
+          "hash": "5660416180578527329"
+        },
+        {
+          "file": ".git/objects/d5/a8a22585e7279724cdaa183ab810ae76d147ea",
+          "hash": "13256078422853671700"
+        },
+        {
+          "file": ".git/objects/d6/213d97fdd22f036b0245d6c45a7cbd2a574d2b",
+          "hash": "1496495127723535250"
+        },
+        {
+          "file": ".git/objects/d6/70bad3c91e2e1e98ca069ce5ab962569916ac6",
+          "hash": "12116827706318473096"
+        },
+        {
+          "file": ".git/objects/d7/4d169d67260654441060d5319e03ac08a04821",
+          "hash": "16965298309459015480"
+        },
+        {
+          "file": ".git/objects/d8/9a5fe0c390f36ce46296029caa17feace1b236",
+          "hash": "8226528913291471881"
+        },
+        {
+          "file": ".git/objects/d9/8942233e19b35fc80eab53763bb03c5e8087c5",
+          "hash": "14458628460921337184"
+        },
+        {
+          "file": ".git/objects/da/ca683353915f2492b8226995289e821f39ec7b",
+          "hash": "6970123536463033250"
+        },
+        {
+          "file": ".git/objects/dd/23cbd6fe5c03f31c40fcd47d6bc31a6867c840",
+          "hash": "1666303126789821598"
+        },
+        {
+          "file": ".git/objects/de/84af4be9eb9b93192d91f9e153651d261bacb3",
+          "hash": "4889926359965422084"
+        },
+        {
+          "file": ".git/objects/df/68dbe2e329548df062ff6aea2c0411b34346da",
+          "hash": "16955470989185872869"
+        },
+        {
+          "file": ".git/objects/e0/e043e1df154c28d94366235205caa2b09cab73",
+          "hash": "8788506312552975964"
+        },
+        {
+          "file": ".git/objects/e1/e56eaeaefa8c71a08ea672984558afba9a6960",
+          "hash": "7833671078505000163"
+        },
+        {
+          "file": ".git/objects/e5/3255ad5b66c1c7ce1b201a242fdc8aae1359df",
+          "hash": "2056763180024428626"
+        },
+        {
+          "file": ".git/objects/e7/69e277216ee995af8ebafde71f2fc8285c4b12",
+          "hash": "11950617612307801397"
+        },
+        {
+          "file": ".git/objects/ea/1cada76dd2a5380a8ef1ee9740e2ba899f10cb",
+          "hash": "5087327869265678643"
+        },
+        {
+          "file": ".git/objects/ee/1e0ddf8e0d9301ca8488f4c687a5331554b20b",
+          "hash": "9834678288563774206"
+        },
+        {
+          "file": ".git/objects/f3/0dc327c20c3d1fa993ca6f1ea7026741ec0161",
+          "hash": "10540600232162003075"
+        },
+        {
+          "file": ".git/objects/f3/1c1ecbc0ef5740e28b5d0afa9669635ee9c2e0",
+          "hash": "12568484497106929023"
+        },
+        {
+          "file": ".git/objects/f3/c75b97577cf518e8e725906e4c147514fa7e41",
+          "hash": "13965028525319088606"
+        },
+        {
+          "file": ".git/objects/f8/a3aec065df11fae2d03843ec26dffb4cd07a28",
+          "hash": "2426580864126478260"
+        },
+        {
+          "file": ".git/objects/f8/ab5edeebef09a5923a50a4561aec356b90d564",
+          "hash": "639674564359134959"
+        },
+        {
+          "file": ".git/refs/heads/main",
+          "hash": "1761146073663417771"
+        },
+        {
+          "file": ".git/refs/remotes/origin/main",
+          "hash": "1761146073663417771"
+        },
+        {
+          "file": ".git/refs/stash",
+          "hash": "3662975128487839556"
+        },
+        {
+          "file": ".nx/cache/10630934733338513642-logs.tar.gz",
+          "hash": "2447997158351068196"
+        },
+        {
+          "file": ".nx/cache/10739958221450496780-logs.tar.gz",
+          "hash": "16142894240707798106"
+        },
+        {
+          "file": ".nx/cache/12778967606947289413-logs.tar.gz",
+          "hash": "3448602318999679899"
+        },
+        {
+          "file": ".nx/cache/12778967606947289413.tar.gz",
+          "hash": "10235555141498800481"
+        },
+        {
+          "file": ".nx/cache/14705758722804654268-logs.tar.gz",
+          "hash": "12723229464285604829"
+        },
+        {
+          "file": ".nx/cache/14734022696784255054-logs.tar.gz",
+          "hash": "6536338661398291483"
+        },
+        {
+          "file": ".nx/cache/15293991225113956349-logs.tar.gz",
+          "hash": "12593709839756547927"
+        },
+        {
+          "file": ".nx/cache/15293991225113956349.tar.gz",
+          "hash": "9900048597575237521"
+        },
+        {
+          "file": ".nx/cache/271056278999890194-logs.tar.gz",
+          "hash": "15344924374618305040"
+        },
+        {
+          "file": ".nx/cache/3610189169778298394-logs.tar.gz",
+          "hash": "13289045972198663541"
+        },
+        {
+          "file": ".nx/cache/7024210093153117121-logs.tar.gz",
+          "hash": "11098966970259187067"
+        },
+        {
+          "file": ".nx/cache/784144486303030957-logs.tar.gz",
+          "hash": "9072016430637571272"
+        },
+        {
+          "file": ".nx/cache/cloud/verify.lock",
+          "hash": "9836048989399695941"
+        },
+        {
+          "file": ".nx/cache/run.json",
+          "hash": "15747923075073898592"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/12778967606947289413",
+          "hash": "9144314730661853324"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/15293991225113956349",
+          "hash": "1061716571269124698"
+        },
+        {
+          "file": ".nx/workspace-data/26B20EB1-D4B4-5358-9B42-EA3E18224835.db-shm",
+          "hash": "253562021403521969"
+        },
+        {
+          "file": ".nx/workspace-data/26B20EB1-D4B4-5358-9B42-EA3E18224835.db-wal",
+          "hash": "8398127685426039577"
+        },
+        {
+          "file": ".nx/workspace-data/d/server-process.json",
+          "hash": "7315926668055828015"
+        },
+        {
+          "file": ".nx/workspace-data/file-map.json",
+          "hash": "1809429156794333775"
+        },
+        {
+          "file": ".nx/workspace-data/lockfile-dependencies.hash",
+          "hash": "4290051360914973635"
+        },
+        {
+          "file": ".nx/workspace-data/nx_files.nxt",
+          "hash": "454631468914393975"
+        },
+        {
+          "file": ".nx/workspace-data/parsed-lock-file.dependencies.json",
+          "hash": "9444422325801888874"
+        },
+        {
+          "file": ".nx/workspace-data/project-graph.json",
+          "hash": "10262181827330996778"
+        },
+        {
+          "file": ".nx/workspace-data/source-maps.json",
+          "hash": "4785563069033223621"
+        },
+        {
+          "file": "nx.json",
+          "hash": "10216619701921425367"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "7227653605144473773"
+        },
+        {
+          "file": "package.json",
+          "hash": "881357703119330672",
+          "deps": [
+            "npm:astro",
+            "npm:autoprefixer",
+            "npm:nx",
+            "npm:postcss",
+            "npm:@astrojs/react",
+            "npm:@astrojs/rss",
+            "npm:@nanostores/persistent",
+            "npm:@nanostores/react",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:nanostores",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "6119900534902504010"
+        }
+      ],
+      "state": [
+        {
+          "file": "libs/state/project.json",
+          "hash": "10269771397221584411"
+        },
+        {
+          "file": "libs/state/src/auth.ts",
+          "hash": "5975837753338507706"
+        },
+        {
+          "file": "libs/state/src/index.ts",
+          "hash": "7434422324185454438"
+        },
+        {
+          "file": "libs/state/src/users.ts",
+          "hash": "7649036091514305797"
+        }
+      ],
       "shell": [
         {
           "file": "apps/shell/.astro/collections/legalInfo.schema.json",
@@ -54,7 +1103,7 @@
         },
         {
           "file": "apps/shell/astro.config.mjs",
-          "hash": "5302247132987084875"
+          "hash": "17161186599645510751"
         },
         {
           "file": "apps/shell/dist/_astro/_astro-entry_@app1.Cb0dOCv_.js",
@@ -211,183 +1260,6 @@
         {
           "file": "apps/shell/tailwind.config.ts",
           "hash": "4747696886190565628"
-        }
-      ],
-      "state": [
-        {
-          "file": "libs/state/project.json",
-          "hash": "10269771397221584411"
-        },
-        {
-          "file": "libs/state/src/auth.ts",
-          "hash": "5975837753338507706"
-        },
-        {
-          "file": "libs/state/src/index.ts",
-          "hash": "7434422324185454438"
-        },
-        {
-          "file": "libs/state/src/users.ts",
-          "hash": "7649036091514305797"
-        }
-      ],
-      "ui": [
-        {
-          "file": "libs/ui/project.json",
-          "hash": "2110566653767641363"
-        },
-        {
-          "file": "libs/ui/public/favicon.svg",
-          "hash": "9875909904608765743"
-        },
-        {
-          "file": "libs/ui/src/components/Footer.astro",
-          "hash": "10973182779082021644"
-        },
-        {
-          "file": "libs/ui/src/components/Navigation.astro",
-          "hash": "1265044877177151301"
-        },
-        {
-          "file": "libs/ui/src/components/PersonalGreeting.astro",
-          "hash": "16821871176792820087"
-        },
-        {
-          "file": "libs/ui/src/env.d.ts",
-          "hash": "12247281929465002553"
-        },
-        {
-          "file": "libs/ui/src/index.ts",
-          "hash": "16907975698625117053"
-        },
-        {
-          "file": "libs/ui/src/layouts/page.astro",
-          "hash": "5487067515701641820"
-        }
-      ],
-      "growing-graham": [
-        {
-          "file": ".astro/content-assets.mjs",
-          "hash": "17953928121017343345"
-        },
-        {
-          "file": ".astro/content-modules.mjs",
-          "hash": "17953928121017343345"
-        },
-        {
-          "file": ".astro/content.d.ts",
-          "hash": "3576512076764084912"
-        },
-        {
-          "file": ".astro/data-store.json",
-          "hash": "1955737924507778125"
-        },
-        {
-          "file": ".astro/settings.json",
-          "hash": "2931109715335695367"
-        },
-        {
-          "file": ".astro/types.d.ts",
-          "hash": "8107136797306745825"
-        },
-        {
-          "file": ".nx/cache/10630934733338513642-logs.tar.gz",
-          "hash": "2447997158351068196"
-        },
-        {
-          "file": ".nx/cache/14734022696784255054-logs.tar.gz",
-          "hash": "6536338661398291483"
-        },
-        {
-          "file": ".nx/cache/271056278999890194-logs.tar.gz",
-          "hash": "15344924374618305040"
-        },
-        {
-          "file": ".nx/cache/7024210093153117121-logs.tar.gz",
-          "hash": "11098966970259187067"
-        },
-        {
-          "file": ".nx/cache/784144486303030957-logs.tar.gz",
-          "hash": "9072016430637571272"
-        },
-        {
-          "file": ".nx/cache/run.json",
-          "hash": "15494354757657893033"
-        },
-        {
-          "file": ".nx/workspace-data/26B20EB1-D4B4-5358-9B42-EA3E18224835.db-shm",
-          "hash": "16600111187839094668"
-        },
-        {
-          "file": ".nx/workspace-data/26B20EB1-D4B4-5358-9B42-EA3E18224835.db-wal",
-          "hash": "8506817728913783987"
-        },
-        {
-          "file": ".nx/workspace-data/d/server-process.json",
-          "hash": "7315926668055828015"
-        },
-        {
-          "file": ".nx/workspace-data/file-map.json",
-          "hash": "4153725139560397386"
-        },
-        {
-          "file": ".nx/workspace-data/lockfile-dependencies.hash",
-          "hash": "4290051360914973635"
-        },
-        {
-          "file": ".nx/workspace-data/nx_files.nxt",
-          "hash": "454631468914393975"
-        },
-        {
-          "file": ".nx/workspace-data/parsed-lock-file.dependencies.json",
-          "hash": "9444422325801888874"
-        },
-        {
-          "file": ".nx/workspace-data/project-graph.json",
-          "hash": "661205566136466225"
-        },
-        {
-          "file": ".nx/workspace-data/source-maps.json",
-          "hash": "11142908861624756573"
-        },
-        {
-          "file": "libs/app-1/src/index.jsx",
-          "hash": "14395178373147806554"
-        },
-        {
-          "file": "libs/app-2/src/index.jsx",
-          "hash": "17724962488200808494"
-        },
-        {
-          "file": "nx.json",
-          "hash": "10216619701921425367"
-        },
-        {
-          "file": "package-lock.json",
-          "hash": "7227653605144473773"
-        },
-        {
-          "file": "package.json",
-          "hash": "881357703119330672",
-          "deps": [
-            "npm:astro",
-            "npm:autoprefixer",
-            "npm:nx",
-            "npm:postcss",
-            "npm:@astrojs/react",
-            "npm:@astrojs/rss",
-            "npm:@nanostores/persistent",
-            "npm:@nanostores/react",
-            "npm:@types/react",
-            "npm:@types/react-dom",
-            "npm:nanostores",
-            "npm:react",
-            "npm:react-dom"
-          ]
-        },
-        {
-          "file": "tsconfig.json",
-          "hash": "6119900534902504010"
         }
       ]
     }

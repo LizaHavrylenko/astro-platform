@@ -1,18 +1,18 @@
 {
   "run": {
-    "command": "nx build shell",
-    "startTime": "2025-11-13T13:05:05.662Z",
-    "endTime": "2025-11-13T13:05:08.665Z",
+    "command": "nx serve shell",
+    "startTime": "2025-11-13T15:02:01.928Z",
+    "endTime": "2025-11-13T15:04:49.039Z",
     "inner": false
   },
   "tasks": [
     {
-      "taskId": "shell:build",
-      "target": "build",
+      "taskId": "shell:serve",
+      "target": "serve",
       "projectName": "shell",
-      "hash": "271056278999890194",
-      "startTime": "2025-11-13T13:05:05.702Z",
-      "endTime": "2025-11-13T13:05:08.659Z",
+      "hash": "14705758722804654268",
+      "startTime": "2025-11-13T15:02:01.964Z",
+      "endTime": "2025-11-13T15:04:49.036Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 1

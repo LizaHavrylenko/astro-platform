@@ -16,12 +16,8 @@ export default defineConfig({
         "@state": fileURLToPath(
           new URL("../../libs/state/src", import.meta.url)
         ),
-        "@app1": fileURLToPath(
-          new URL("../../libs/app-1/src", import.meta.url)
-        ),
-        "@app2": fileURLToPath(
-          new URL("../../libs/app-2/src", import.meta.url)
-        ),
+        "@app1": fileURLToPath(new URL("../app-1/src/pages", import.meta.url)),
+        "@app2": fileURLToPath(new URL("../app-2/src/pages", import.meta.url)),
       },
     },
 

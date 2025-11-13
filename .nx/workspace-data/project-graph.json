@@ -1,5 +1,93 @@
 {
   "nodes": {
+    "app-1": {
+      "name": "app-1",
+      "type": "app",
+      "data": {
+        "root": "apps/app-1",
+        "name": "app-1",
+        "sourceRoot": "apps/app-1/src",
+        "projectType": "application",
+        "targets": {
+          "serve": {
+            "executor": "nx:run-commands",
+            "options": {
+              "command": "npx astro dev",
+              "cwd": "apps/app-1"
+            },
+            "configurations": {},
+            "parallelism": true
+          },
+          "build": {
+            "executor": "nx:run-commands",
+            "options": {
+              "command": "npx astro build",
+              "cwd": "apps/app-1"
+            },
+            "outputs": [
+              "{workspaceRoot}/apps/app-1/dist"
+            ],
+            "configurations": {},
+            "parallelism": true
+          },
+          "preview": {
+            "executor": "nx:run-commands",
+            "options": {
+              "command": "npx astro preview",
+              "cwd": "apps/app-1"
+            },
+            "configurations": {},
+            "parallelism": true
+          }
+        },
+        "implicitDependencies": [],
+        "tags": []
+      }
+    },
+    "app-2": {
+      "name": "app-2",
+      "type": "app",
+      "data": {
+        "root": "apps/app-2",
+        "name": "app-2",
+        "sourceRoot": "apps/app-2/src",
+        "projectType": "application",
+        "targets": {
+          "serve": {
+            "executor": "nx:run-commands",
+            "options": {
+              "command": "npx astro dev",
+              "cwd": "apps/app-2"
+            },
+            "configurations": {},
+            "parallelism": true
+          },
+          "build": {
+            "executor": "nx:run-commands",
+            "options": {
+              "command": "npx astro build",
+              "cwd": "apps/app-2"
+            },
+            "outputs": [
+              "{workspaceRoot}/apps/app-2/dist"
+            ],
+            "configurations": {},
+            "parallelism": true
+          },
+          "preview": {
+            "executor": "nx:run-commands",
+            "options": {
+              "command": "npx astro preview",
+              "cwd": "apps/app-2"
+            },
+            "configurations": {},
+            "parallelism": true
+          }
+        },
+        "implicitDependencies": [],
+        "tags": []
+      }
+    },
     "shell": {
       "name": "shell",
       "type": "app",
@@ -5557,6 +5645,8 @@
     }
   },
   "dependencies": {
+    "app-1": [],
+    "app-2": [],
     "shell": [],
     "state": [],
     "ui": [],
@@ -5630,5 +5720,5 @@
   },
   "version": "6.0",
   "errors": [],
-  "computedAt": 1763039109596
+  "computedAt": 1763046166035
 }
