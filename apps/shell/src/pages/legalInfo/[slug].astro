@@ -4,7 +4,7 @@ import { getEntryBySlug, getCollection } from "astro:content";
 
 export async function getStaticPaths() {
   const items = await getCollection("legalInfo");
-  return items.map((e: any) => ({ params: { slug: e.slug } }));
+  return items.map((e) => ({ params: { slug: e.slug } }));
 }
 
 const { slug } = Astro.params;
@@ -19,6 +19,11 @@ const { data } = entry;
 ---
 
 <Layout>
-  <h1>{data.title}</h1>
-  <Content />
+  <main class="flex flex-col items-center">
+    <h1 class="text-3xl font-bold text-center my-8">{data.title}</h1>
+
+    <article class="w-full md:w-[70%] text-left mx-[15%]">
+      <Content />
+    </article>
+  </main>
 </Layout>

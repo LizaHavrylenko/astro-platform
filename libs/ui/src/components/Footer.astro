@@ -6,23 +6,29 @@ const policy = await getEntry("legalInfo", "policy");
 ---
 
 <footer
-  class="mt-auto border-t border-gray-200 bg-gray-50 py-6 text-sm text-gray-600"
+  class="mt-auto mb-20 border-t border-gray-200 bg-gray-50 py-6 text-sm text-gray-600"
 >
   <div
     class="mx-auto flex max-w-5xl flex-col items-center justify-between gap-2 px-4 sm:flex-row"
   >
     <span>© {new Date().getFullYear()} MySite</span>
-    <nav class="flex gap-4">
+    <nav class="flex gap-6">
       {
-        (
-          <a href={`/legalInfo/${imprint?.slug}/`} class="hover:text-gray-900">
+        imprint && (
+          <a
+            href={`/legalInfo/${imprint.slug}/`}
+            class="hover:text-gray-900 transition-colors"
+          >
             Imprint
           </a>
         )
       }
       {
-        (
-          <a href={`/legalInfo/${policy?.slug}/`} class="hover:text-gray-900">
+        policy && (
+          <a
+            href={`/legalInfo/${policy.slug}/`}
+            class="hover:text-gray-900 transition-colors"
+          >
             Privacy Policy
           </a>
         )
