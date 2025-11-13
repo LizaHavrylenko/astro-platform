@@ -1,6 +1,5 @@
 import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
-import netlify from "@astrojs/netlify";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 import tailwindcss from "@tailwindcss/vite";
@@ -8,8 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 const repoRoot = fileURLToPath(new URL("../../", import.meta.url));
 
 export default defineConfig({
-  output: "server",
-  adapter: netlify(),
+  output: "static",
   integrations: [react()],
   vite: {
     resolve: {

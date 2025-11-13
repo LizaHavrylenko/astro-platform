@@ -1,9 +1,9 @@
 ---
-import { getEntry } from "astro:content";
-
-const imprint = await getEntry("legalInfo", "imprint");
-const policy = await getEntry("legalInfo", "policy");
-const { class: className = "" } = Astro.props;
+const {
+  imprintUrl: imprint,
+  policyUrl: policy,
+  class: className = "",
+} = Astro.props;
 ---
 
 <footer class={className}>
@@ -15,7 +15,7 @@ const { class: className = "" } = Astro.props;
       {
         imprint && (
           <a
-            href={`/legalInfo/${imprint.slug}/`}
+            href={`/legalInfo/${imprint}/`}
             class="hover:text-gray-900 transition-colors"
           >
             Imprint&nbsp;
@@ -26,7 +26,7 @@ const { class: className = "" } = Astro.props;
       {
         policy && (
           <a
-            href={`/legalInfo/${policy.slug}/`}
+            href={`/legalInfo/${policy}/`}
             class="hover:text-gray-900 transition-colors"
           >
             Privacy Policy

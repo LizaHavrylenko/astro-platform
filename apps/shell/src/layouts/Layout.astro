@@ -2,6 +2,9 @@
 import { Navigation } from "@ui";
 import { Footer } from "@ui";
 import "../styles/global.css";
+import { getEntry, getEntryBySlug } from "astro:content";
+const imprint = await getEntryBySlug("legalInfo", "imprint");
+const policy = await getEntryBySlug("legalInfo", "policy");
 ---
 
 <!doctype html>
@@ -20,6 +23,8 @@ import "../styles/global.css";
       <slot />
     </main>
     <Footer
+      imprintUrl={imprint && `${imprint.slug}/`}
+      policyUrl={policy && `${policy.slug}/`}
       class="mt-auto border-t border-gray-200 bg-gray-50 py-6 text-sm text-gray-600"
     />
   </body>

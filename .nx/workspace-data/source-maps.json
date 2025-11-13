@@ -52,11 +52,11 @@
       "apps/shell/project.json",
       "nx/core/project-json"
     ],
-    "targets.serve.options.cwd": [
+    "targets.serve.options.command": [
       "apps/shell/project.json",
       "nx/core/project-json"
     ],
-    "targets.serve.options.command": [
+    "targets.serve.options.cwd": [
       "apps/shell/project.json",
       "nx/core/project-json"
     ],
@@ -76,11 +76,11 @@
       "apps/shell/project.json",
       "nx/core/project-json"
     ],
-    "targets.build.options.cwd": [
+    "targets.build.options.command": [
       "apps/shell/project.json",
       "nx/core/project-json"
     ],
-    "targets.build.options.command": [
+    "targets.build.options.cwd": [
       "apps/shell/project.json",
       "nx/core/project-json"
     ],
@@ -96,11 +96,11 @@
       "apps/shell/project.json",
       "nx/core/project-json"
     ],
-    "targets.preview.options.cwd": [
+    "targets.preview.options.command": [
       "apps/shell/project.json",
       "nx/core/project-json"
     ],
-    "targets.preview.options.command": [
+    "targets.preview.options.cwd": [
       "apps/shell/project.json",
       "nx/core/project-json"
     ]

@@ -1,14 +1,14 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getEntryBySlug, getCollection } from "astro:content";
+import { getEntry, getCollection } from "astro:content";
 
 export async function getStaticPaths() {
   const items = await getCollection("legalInfo");
-  return items.map((e) => ({ params: { slug: e.slug } }));
+  return items.map((e: any) => ({ params: { slug: e.slug } }));
 }
-
+``;
 const { slug } = Astro.params;
-const entry = await getEntryBySlug("legalInfo", slug);
+const entry = await getEntry("legalInfo", slug);
 
 if (!entry) {
   throw new Error(`legalInfo entry not found: ${slug}`);
