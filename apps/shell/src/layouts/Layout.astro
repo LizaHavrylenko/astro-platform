@@ -15,11 +15,13 @@ import "../styles/global.css";
   </head>
 
   <body class="flex min-h-screen flex-col bg-white text-gray-900">
-    <Navigation />
-    <main class="flex-grow">
+    <Navigation class="sticky top-0 z-50 bg-white shadow-md" />
+    <main class="flex flex-col items-center justify-center flex-grow">
       <slot />
     </main>
-    <Footer />
+    <Footer
+      class="mt-auto border-t border-gray-200 bg-gray-50 py-6 text-sm text-gray-600"
+    />
   </body>
 </html>
 

@@ -5,9 +5,10 @@ const navItems = [
   { path: "/dashboard", label: "Dashboard" },
 ];
 const currentPath = Astro.url.pathname;
+const { class: className = "" } = Astro.props;
 ---
 
-<nav class="sticky top-0 z-50 bg-white shadow-md">
+<nav class={className}>
   <div class="mx-auto flex max-w-5xl items-center px-4 py-3">
     <h1 class="text-xl font-semibold text-gray-900 tracking-tight">MySite</h1>
 

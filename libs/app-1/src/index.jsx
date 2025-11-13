@@ -27,7 +27,7 @@ export const LoginPage = () => {
         e.preventDefault();
         login(email, password);
       }}
-      className="mx-auto flex w-full max-w-sm flex-col gap-3 rounded-2xl bg-white p-6 shadow"
+      className="mx-auto  flex w-full max-w-sm   flex-col gap-3 rounded-2xl bg-white p-6 shadow"
     >
       <h2 className="text-xl font-semibold">Demo Login</h2>
 
