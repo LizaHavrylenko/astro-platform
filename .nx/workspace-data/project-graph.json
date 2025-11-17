@@ -94,15 +94,8 @@
       "data": {
         "root": "apps/shell",
         "name": "shell",
-        "tags": [
-          "npm:public"
-        ],
-        "metadata": {
-          "targetGroups": {},
-          "js": {
-            "isInPackageManagerWorkspaces": false
-          }
-        },
+        "sourceRoot": "apps/shell/src",
+        "projectType": "application",
         "targets": {
           "serve": {
             "executor": "nx:run-commands",
@@ -135,9 +128,8 @@
             "parallelism": true
           }
         },
-        "sourceRoot": "apps/shell/src",
-        "projectType": "application",
-        "implicitDependencies": []
+        "implicitDependencies": [],
+        "tags": []
       }
     },
     "state": {
@@ -11718,5 +11710,5 @@
   },
   "version": "6.0",
   "errors": [],
-  "computedAt": 1763393686658
+  "computedAt": 1763394016105
 }

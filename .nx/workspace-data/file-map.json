@@ -43,6 +43,40 @@
   "fileMap": {
     "nonProjectFiles": [],
     "projectFileMap": {
+      "ui": [
+        {
+          "file": "libs/ui/project.json",
+          "hash": "2110566653767641363"
+        },
+        {
+          "file": "libs/ui/public/favicon.svg",
+          "hash": "9875909904608765743"
+        },
+        {
+          "file": "libs/ui/src/components/Footer.astro",
+          "hash": "10973182779082021644"
+        },
+        {
+          "file": "libs/ui/src/components/Navigation.astro",
+          "hash": "1265044877177151301"
+        },
+        {
+          "file": "libs/ui/src/components/PersonalGreeting.astro",
+          "hash": "16821871176792820087"
+        },
+        {
+          "file": "libs/ui/src/env.d.ts",
+          "hash": "12247281929465002553"
+        },
+        {
+          "file": "libs/ui/src/index.ts",
+          "hash": "16907975698625117053"
+        },
+        {
+          "file": "libs/ui/src/layouts/page.astro",
+          "hash": "5487067515701641820"
+        }
+      ],
       "shell": [
         {
           "file": "apps/shell/.gitignore",
@@ -51,14 +85,6 @@
         {
           "file": "apps/shell/astro.config.mjs",
           "hash": "17161186599645510751"
-        },
-        {
-          "file": "apps/shell/package-lock.json",
-          "hash": "5443749091784749946"
-        },
-        {
-          "file": "apps/shell/package.json",
-          "hash": "7733854099634244499"
         },
         {
           "file": "apps/shell/project.json",
@@ -111,10 +137,24 @@
         {
           "file": "apps/shell/src/styles/global.css",
           "hash": "5644881507391387562"
+        }
+      ],
+      "state": [
+        {
+          "file": "libs/state/project.json",
+          "hash": "10269771397221584411"
         },
         {
-          "file": "apps/shell/tailwind.config.ts",
-          "hash": "4747696886190565628"
+          "file": "libs/state/src/auth.ts",
+          "hash": "5975837753338507706"
+        },
+        {
+          "file": "libs/state/src/index.ts",
+          "hash": "7434422324185454438"
+        },
+        {
+          "file": "libs/state/src/users.ts",
+          "hash": "7649036091514305797"
         }
       ],
       "app-1": [
@@ -129,62 +169,6 @@
         {
           "file": "apps/app-1/src/pages/index.astro",
           "hash": "8507634224419431822"
-        }
-      ],
-      "ui": [
-        {
-          "file": "libs/ui/project.json",
-          "hash": "2110566653767641363"
-        },
-        {
-          "file": "libs/ui/public/favicon.svg",
-          "hash": "9875909904608765743"
-        },
-        {
-          "file": "libs/ui/src/components/Footer.astro",
-          "hash": "10973182779082021644"
-        },
-        {
-          "file": "libs/ui/src/components/Navigation.astro",
-          "hash": "1265044877177151301"
-        },
-        {
-          "file": "libs/ui/src/components/PersonalGreeting.astro",
-          "hash": "16821871176792820087"
-        },
-        {
-          "file": "libs/ui/src/env.d.ts",
-          "hash": "12247281929465002553"
-        },
-        {
-          "file": "libs/ui/src/index.ts",
-          "hash": "16907975698625117053"
-        },
-        {
-          "file": "libs/ui/src/layouts/page.astro",
-          "hash": "5487067515701641820"
-        }
-      ],
-      "app-2": [
-        {
-          "file": "apps/app-2/astro.config.mjs",
-          "hash": "7648522348216312661"
-        },
-        {
-          "file": "apps/app-2/project.json",
-          "hash": "869867160900129827"
-        },
-        {
-          "file": "apps/app-2/src/pages/dashboard/index.astro",
-          "hash": "13492812239852749590"
-        },
-        {
-          "file": "apps/app-2/src/pages/dashboard/info.astro",
-          "hash": "13492812239852749590"
-        },
-        {
-          "file": "apps/app-2/src/pages/dashboard/settings.astro",
-          "hash": "13492812239852749590"
         }
       ],
       "growing-graham": [
@@ -253,22 +237,26 @@
           "hash": "10757067600420600553"
         }
       ],
-      "state": [
+      "app-2": [
         {
-          "file": "libs/state/project.json",
-          "hash": "10269771397221584411"
+          "file": "apps/app-2/astro.config.mjs",
+          "hash": "7648522348216312661"
         },
         {
-          "file": "libs/state/src/auth.ts",
-          "hash": "5975837753338507706"
+          "file": "apps/app-2/project.json",
+          "hash": "869867160900129827"
         },
         {
-          "file": "libs/state/src/index.ts",
-          "hash": "7434422324185454438"
+          "file": "apps/app-2/src/pages/dashboard/index.astro",
+          "hash": "13492812239852749590"
         },
         {
-          "file": "libs/state/src/users.ts",
-          "hash": "7649036091514305797"
+          "file": "apps/app-2/src/pages/dashboard/info.astro",
+          "hash": "13492812239852749590"
+        },
+        {
+          "file": "apps/app-2/src/pages/dashboard/settings.astro",
+          "hash": "13492812239852749590"
         }
       ]
     }
