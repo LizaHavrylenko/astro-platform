@@ -1,1 +1,6 @@
+/* apps/shell/src/styles/tailwind.css */
 @import "tailwindcss";
+
+/* Tell Tailwind where to look for classes (relative to THIS file) */
+@source "../**/*.{astro,html,js,jsx,ts,tsx,md,mdx}";
+@source "../../../../libs/**/*.{astro,html,js,jsx,ts,tsx,md,mdx}";

@@ -40,11 +40,9 @@ export function DashboardLayout() {
   // 3. Authenticated view → show dashboard layout + nested routes
   //
   return (
-    <div className="min-h-screen flex flex-col">
+    <div>
       {/* Top navigation bar */}
       <header className="flex items-center justify-between px-4 py-3 bg-gray-900 text-white">
-        <div className="font-semibold">Dashboard</div>
-
         <div className="flex items-center gap-3">
           <span>Hello, {user.name ?? user.email}</span>
 

@@ -14,6 +14,11 @@ const rootRoute = createRootRoute({
   component: DashboardLayout,
 });
 
+const indexRoute = createRoute({
+  getParentRoute: () => rootRoute,
+  path: "/",
+});
+
 // /dashboard/info
 const infoRoute = createRoute({
   getParentRoute: () => rootRoute,
@@ -28,7 +33,7 @@ const settingsRoute = createRoute({
   component: SettingsPage,
 });
 
-const routeTree = rootRoute.addChildren([infoRoute, settingsRoute]);
+const routeTree = rootRoute.addChildren([indexRoute, infoRoute, settingsRoute]);
 
 export const router = createRouter({
   routeTree,

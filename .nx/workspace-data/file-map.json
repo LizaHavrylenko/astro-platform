@@ -43,38 +43,114 @@
   "fileMap": {
     "nonProjectFiles": [],
     "projectFileMap": {
-      "ui": [
+      "app-1": [
         {
-          "file": "libs/ui/project.json",
-          "hash": "2110566653767641363"
+          "file": "apps/app-1/astro.config.mjs",
+          "hash": "4996367451164762271"
         },
         {
-          "file": "libs/ui/public/favicon.svg",
-          "hash": "9875909904608765743"
+          "file": "apps/app-1/project.json",
+          "hash": "5261605135297082303"
         },
         {
-          "file": "libs/ui/src/components/Footer.astro",
-          "hash": "10973182779082021644"
+          "file": "apps/app-1/src/pages/index.astro",
+          "hash": "8507634224419431822"
+        }
+      ],
+      "growing-graham": [
+        {
+          "file": ".gitignore",
+          "hash": "2222263293501786478"
         },
         {
-          "file": "libs/ui/src/components/Navigation.astro",
-          "hash": "1265044877177151301"
+          "file": "libs/app-1/src/Login.jsx",
+          "hash": "13687359993604671890"
         },
         {
-          "file": "libs/ui/src/components/PersonalGreeting.astro",
-          "hash": "16821871176792820087"
+          "file": "libs/app-1/src/index.ts",
+          "hash": "5845008819981894498"
         },
         {
-          "file": "libs/ui/src/env.d.ts",
-          "hash": "12247281929465002553"
+          "file": "libs/app-2/src/DashboardApp.tsx",
+          "hash": "12462384363384405517"
         },
         {
-          "file": "libs/ui/src/index.ts",
-          "hash": "16907975698625117053"
+          "file": "libs/app-2/src/DashboardLayout.jsx",
+          "hash": "12061628306481884193"
         },
         {
-          "file": "libs/ui/src/layouts/page.astro",
-          "hash": "5487067515701641820"
+          "file": "libs/app-2/src/Info.tsx",
+          "hash": "11373352614626887316"
+        },
+        {
+          "file": "libs/app-2/src/Settings.tsx",
+          "hash": "15002464210731946366"
+        },
+        {
+          "file": "libs/app-2/src/index.ts",
+          "hash": "5555895143385652914"
+        },
+        {
+          "file": "nx.json",
+          "hash": "10216619701921425367"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "10784805574033357600"
+        },
+        {
+          "file": "package.json",
+          "hash": "13345477079700567407",
+          "deps": [
+            "npm:@tailwindcss/forms",
+            "npm:@tailwindcss/postcss",
+            "npm:@tailwindcss/vite",
+            "npm:astro",
+            "npm:autoprefixer",
+            "npm:nx",
+            "npm:postcss",
+            "npm:tailwindcss",
+            "npm:@astrojs/react",
+            "npm:@astrojs/rss",
+            "npm:@nanostores/persistent",
+            "npm:@nanostores/react",
+            "npm:@tanstack/react-router",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:nanostores",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "postcss.config.js",
+          "hash": "1709789830869148623"
+        },
+        {
+          "file": "tailwind.config.js",
+          "hash": "3874358629735487288"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "10757067600420600553"
+        }
+      ],
+      "state": [
+        {
+          "file": "libs/state/project.json",
+          "hash": "10269771397221584411"
+        },
+        {
+          "file": "libs/state/src/auth.ts",
+          "hash": "5975837753338507706"
+        },
+        {
+          "file": "libs/state/src/index.ts",
+          "hash": "7434422324185454438"
+        },
+        {
+          "file": "libs/state/src/users.ts",
+          "hash": "7649036091514305797"
         }
       ],
       "shell": [
@@ -136,111 +212,13 @@
         },
         {
           "file": "apps/shell/src/styles/global.css",
-          "hash": "5644881507391387562"
-        }
-      ],
-      "state": [
-        {
-          "file": "libs/state/project.json",
-          "hash": "10269771397221584411"
-        },
-        {
-          "file": "libs/state/src/auth.ts",
-          "hash": "5975837753338507706"
-        },
-        {
-          "file": "libs/state/src/index.ts",
-          "hash": "7434422324185454438"
-        },
-        {
-          "file": "libs/state/src/users.ts",
-          "hash": "7649036091514305797"
-        }
-      ],
-      "app-1": [
-        {
-          "file": "apps/app-1/astro.config.mjs",
-          "hash": "9637621952925404180"
-        },
-        {
-          "file": "apps/app-1/project.json",
-          "hash": "5261605135297082303"
-        },
-        {
-          "file": "apps/app-1/src/pages/index.astro",
-          "hash": "8507634224419431822"
-        }
-      ],
-      "growing-graham": [
-        {
-          "file": ".gitignore",
-          "hash": "2222263293501786478"
-        },
-        {
-          "file": "libs/app-1/src/Login.jsx",
-          "hash": "13687359993604671890"
-        },
-        {
-          "file": "libs/app-1/src/index.ts",
-          "hash": "5845008819981894498"
-        },
-        {
-          "file": "libs/app-2/src/DashboardApp.tsx",
-          "hash": "238367466916909896"
-        },
-        {
-          "file": "libs/app-2/src/DashboardLayout.jsx",
-          "hash": "88531514680257145"
-        },
-        {
-          "file": "libs/app-2/src/Info.tsx",
-          "hash": "11373352614626887316"
-        },
-        {
-          "file": "libs/app-2/src/Settings.tsx",
-          "hash": "15002464210731946366"
-        },
-        {
-          "file": "libs/app-2/src/index.ts",
-          "hash": "5555895143385652914"
-        },
-        {
-          "file": "nx.json",
-          "hash": "10216619701921425367"
-        },
-        {
-          "file": "package-lock.json",
-          "hash": "17724903277125943445"
-        },
-        {
-          "file": "package.json",
-          "hash": "3137357544280581625",
-          "deps": [
-            "npm:astro",
-            "npm:autoprefixer",
-            "npm:nx",
-            "npm:postcss",
-            "npm:@astrojs/react",
-            "npm:@astrojs/rss",
-            "npm:@nanostores/persistent",
-            "npm:@nanostores/react",
-            "npm:@tanstack/react-router",
-            "npm:@types/react",
-            "npm:@types/react-dom",
-            "npm:nanostores",
-            "npm:react",
-            "npm:react-dom"
-          ]
-        },
-        {
-          "file": "tsconfig.json",
-          "hash": "10757067600420600553"
+          "hash": "16315535228551091300"
         }
       ],
       "app-2": [
         {
           "file": "apps/app-2/astro.config.mjs",
-          "hash": "7648522348216312661"
+          "hash": "1137314303527750910"
         },
         {
           "file": "apps/app-2/project.json",
@@ -258,8 +236,42 @@
           "file": "apps/app-2/src/pages/dashboard/settings.astro",
           "hash": "13492812239852749590"
         }
+      ],
+      "ui": [
+        {
+          "file": "libs/ui/project.json",
+          "hash": "2110566653767641363"
+        },
+        {
+          "file": "libs/ui/public/favicon.svg",
+          "hash": "9875909904608765743"
+        },
+        {
+          "file": "libs/ui/src/components/Footer.astro",
+          "hash": "10973182779082021644"
+        },
+        {
+          "file": "libs/ui/src/components/Navigation.astro",
+          "hash": "1265044877177151301"
+        },
+        {
+          "file": "libs/ui/src/components/PersonalGreeting.astro",
+          "hash": "16821871176792820087"
+        },
+        {
+          "file": "libs/ui/src/env.d.ts",
+          "hash": "12247281929465002553"
+        },
+        {
+          "file": "libs/ui/src/index.ts",
+          "hash": "16907975698625117053"
+        },
+        {
+          "file": "libs/ui/src/layouts/page.astro",
+          "hash": "5487067515701641820"
+        }
       ]
     }
   },
-  "externalNodesHash": "15652516133646840987"
+  "externalNodesHash": "16511158934613071015"
 }

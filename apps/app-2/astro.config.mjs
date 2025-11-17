@@ -1,4 +1,5 @@
 import { defineConfig } from "astro/config";
+import tailwindcss from "@tailwindcss/vite";
 import react from "@astrojs/react";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
@@ -8,6 +9,7 @@ const repoRoot = fileURLToPath(new URL("../../", import.meta.url));
 export default defineConfig({
   output: "static",
   integrations: [react()],
+  plugins: [tailwindcss()],
   vite: {
     resolve: {
       alias: {
