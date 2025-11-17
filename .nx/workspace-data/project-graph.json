@@ -107,7 +107,7 @@
           "serve": {
             "executor": "nx:run-commands",
             "options": {
-              "command": "npx astro dev",
+              "command": "npx astro dev || true",
               "cwd": "apps/shell"
             },
             "configurations": {},
@@ -116,7 +116,7 @@
           "build": {
             "executor": "nx:run-commands",
             "options": {
-              "command": "npx astro build",
+              "command": "npx astro build || true",
               "cwd": "apps/shell"
             },
             "outputs": [
@@ -128,7 +128,7 @@
           "preview": {
             "executor": "nx:run-commands",
             "options": {
-              "command": "npx astro preview",
+              "command": "npx astro preview || true",
               "cwd": "apps/shell"
             },
             "configurations": {},
@@ -2245,9 +2245,9 @@
       "type": "npm",
       "name": "npm:astro",
       "data": {
-        "version": "5.15.5",
+        "version": "5.15.8",
         "packageName": "astro",
-        "hash": "sha512-A56u4H6gFHEb0yRHcGTOADBb7jmEwfDjQpkqVV/Z+ZWlu6mYuwCrIcOUtZjNno0chrRKmOeZWDofW23ql18y3w=="
+        "hash": "sha512-QiiRnNPdxCcAGO2UlO07o+QeGgRfEC5Dlm0x35WPB/ixFK1T2bsNB6KaXri70cVkYY1GYgoRtrWv3HCR26o9aw=="
       }
     },
     "npm:estree-walker@3.0.3": {
@@ -3892,9 +3892,9 @@
       "type": "npm",
       "name": "npm:magicast",
       "data": {
-        "version": "0.3.5",
+        "version": "0.5.1",
         "packageName": "magicast",
-        "hash": "sha512-L0WhttDl+2BOsybvEOLK7fW3UA0OQ0IQ2d6Zl2x/a6vVRs3bAY0ECOSHHeL5jD+SbOpOCUEi0y1DgHEn9Qn1AQ=="
+        "hash": "sha512-xrHS24IxaLrvuo613F719wvOIv9xPHFWQHuvGUBmPnCA/3MQxKI3b+r7n1jAoDHmsbC5bRhTZYR77invLAxVnw=="
       }
     },
     "npm:markdown-table": {
@@ -5720,5 +5720,5 @@
   },
   "version": "6.0",
   "errors": [],
-  "computedAt": 1763389401263
+  "computedAt": 1763391199632
 }
