@@ -13,6 +13,7 @@
     "@astrojs/rss": "^4.0.13",
     "@nanostores/persistent": "^1.2.0",
     "@nanostores/react": "^1.0.0",
+    "@tanstack/react-router": "^1.136.8",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "nanostores": "^1.0.0",

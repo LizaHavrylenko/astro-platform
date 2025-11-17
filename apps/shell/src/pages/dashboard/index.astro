@@ -1,6 +1,6 @@
 ---
-import { DashboardInfo } from "@app2-ui";
+import { DashboardApp } from "@app2-ui";
 import Layout from "../../layouts/Layout.astro";
 ---
 
-<Layout> <DashboardInfo client:load /></Layout>
+<Layout> <DashboardApp client:only="react" /></Layout>

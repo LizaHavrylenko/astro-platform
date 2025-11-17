@@ -1773,6 +1773,69 @@
         "hash": "sha512-5IKx/Y13RsYd+sauPb2x+U/xZikHjolzfuDgTAl/Tdf3Q8rslRvC19NKDLgAJQ6wsqADk10ntlv08nPFw/gO/A=="
       }
     },
+    "npm:@tanstack/history": {
+      "type": "npm",
+      "name": "npm:@tanstack/history",
+      "data": {
+        "version": "1.133.28",
+        "packageName": "@tanstack/history",
+        "hash": "sha512-B7+x7eP2FFvi3fgd3rNH9o/Eixt+pp0zCIdGhnQbAJjFrlwIKGjGnwyJjhWJ5fMQlGks/E2LdDTqEV4W9Plx7g=="
+      }
+    },
+    "npm:@tanstack/react-router": {
+      "type": "npm",
+      "name": "npm:@tanstack/react-router",
+      "data": {
+        "version": "1.136.8",
+        "packageName": "@tanstack/react-router",
+        "hash": "sha512-m9aJvQaAHSehPld5fBQX4K/e91S+JHGweJyBLH/+/fmHQnusgB+roeEwyn74Nag74sT4ErA5GwGYKE8ZLH5h3g=="
+      }
+    },
+    "npm:@tanstack/react-store": {
+      "type": "npm",
+      "name": "npm:@tanstack/react-store",
+      "data": {
+        "version": "0.8.0",
+        "packageName": "@tanstack/react-store",
+        "hash": "sha512-1vG9beLIuB7q69skxK9r5xiLN3ztzIPfSQSs0GfeqWGO2tGIyInZx0x1COhpx97RKaONSoAb8C3dxacWksm1ow=="
+      }
+    },
+    "npm:@tanstack/router-core": {
+      "type": "npm",
+      "name": "npm:@tanstack/router-core",
+      "data": {
+        "version": "1.136.8",
+        "packageName": "@tanstack/router-core",
+        "hash": "sha512-qPBWbInoi9CNtcjjKaaWVjoZoE5EiM5q6KVT0qVIQq2yAI4jyR1cWqyGMZp9tWNpFrlrUoG6kDvX9GRlstORJw=="
+      }
+    },
+    "npm:cookie-es@2.0.0": {
+      "type": "npm",
+      "name": "npm:cookie-es@2.0.0",
+      "data": {
+        "version": "2.0.0",
+        "packageName": "cookie-es",
+        "hash": "sha512-RAj4E421UYRgqokKUmotqAwuplYw15qtdXfY+hGzgCJ/MBjCVZcSoHK/kH9kocfjRjcDME7IiDWR/1WX1TM2Pg=="
+      }
+    },
+    "npm:cookie-es": {
+      "type": "npm",
+      "name": "npm:cookie-es",
+      "data": {
+        "version": "1.2.2",
+        "packageName": "cookie-es",
+        "hash": "sha512-+W7VmiVINB+ywl1HGXJXmrqkOhpKrIiVZV6tQuV54ZyQC7MMuBt81Vc336GMLoHBq5hV/F9eXgt5Mnx0Rha5Fg=="
+      }
+    },
+    "npm:@tanstack/store": {
+      "type": "npm",
+      "name": "npm:@tanstack/store",
+      "data": {
+        "version": "0.8.0",
+        "packageName": "@tanstack/store",
+        "hash": "sha512-Om+BO0YfMZe//X2z0uLF2j+75nQga6TpTJgLJQBiq85aOyZNIhkCgleNcud2KQg4k4v9Y9l+Uhru3qWMPGTOzQ=="
+      }
+    },
     "npm:@tybys/wasm-util": {
       "type": "npm",
       "name": "npm:@tybys/wasm-util",
@@ -2671,15 +2734,6 @@
         "version": "1.0.2",
         "packageName": "cookie",
         "hash": "sha512-9Kr/j4O16ISv8zBBhJoi4bXOYNTkFLOqSL3UDB0njXxCXNezjeyVrJyGOWtgfs/q2km1gwBcfH8q1yEGoMYunA=="
-      }
-    },
-    "npm:cookie-es": {
-      "type": "npm",
-      "name": "npm:cookie-es",
-      "data": {
-        "version": "1.2.2",
-        "packageName": "cookie-es",
-        "hash": "sha512-+W7VmiVINB+ywl1HGXJXmrqkOhpKrIiVZV6tQuV54ZyQC7MMuBt81Vc336GMLoHBq5hV/F9eXgt5Mnx0Rha5Fg=="
       }
     },
     "npm:crossws": {
@@ -3625,6 +3679,15 @@
         "version": "2.2.0",
         "packageName": "is-wsl",
         "hash": "sha512-fKzAra0rGJUUBwGBgNkHZuToZcn+TtXHpeCgmkMJMMYx1sQDYaCSyjJBSCa2nH1DGm7s3n1oBnohoVTBaN7Lww=="
+      }
+    },
+    "npm:isbot": {
+      "type": "npm",
+      "name": "npm:isbot",
+      "data": {
+        "version": "5.1.32",
+        "packageName": "isbot",
+        "hash": "sha512-VNfjM73zz2IBZmdShMfAUg10prm6t7HFUQmNAEOAVS4YH92ZrZcvkMcGX6cIgBJAzWDzPent/EeAtYEHNPNPBQ=="
       }
     },
     "npm:jest-diff": {
@@ -5004,6 +5067,24 @@
         "hash": "sha512-eNv+WrVbKu1f3vbYJT/xtiF5syA5HPIMtf9IgY/nKg0sWqzAUEvqY/xm7OcZc/qafLx/iO9FgOmeSAp4v5ti/Q=="
       }
     },
+    "npm:seroval": {
+      "type": "npm",
+      "name": "npm:seroval",
+      "data": {
+        "version": "1.4.0",
+        "packageName": "seroval",
+        "hash": "sha512-BdrNXdzlofomLTiRnwJTSEAaGKyHHZkbMXIywOh7zlzp4uZnXErEwl9XZ+N1hJSNpeTtNxWvVwN0wUzAIQ4Hpg=="
+      }
+    },
+    "npm:seroval-plugins": {
+      "type": "npm",
+      "name": "npm:seroval-plugins",
+      "data": {
+        "version": "1.4.0",
+        "packageName": "seroval-plugins",
+        "hash": "sha512-zir1aWzoiax6pbBVjoYVd0O1QQXgIL3eVGBMsBsNmM8Ukq90yGaWlfx0AB9dTS8GPqrOrbXn79vmItCUP9U3BQ=="
+      }
+    },
     "npm:sharp": {
       "type": "npm",
       "name": "npm:sharp",
@@ -5128,6 +5209,24 @@
         "version": "1.0.3",
         "packageName": "tiny-inflate",
         "hash": "sha512-pkY1fj1cKHb2seWDy0B16HeWyczlJA9/WW3u3c4z/NiWDsO3DOU5D7nhTLE9CF0yXv/QZFY7sEJmj24dK+Rrqw=="
+      }
+    },
+    "npm:tiny-invariant": {
+      "type": "npm",
+      "name": "npm:tiny-invariant",
+      "data": {
+        "version": "1.3.3",
+        "packageName": "tiny-invariant",
+        "hash": "sha512-+FbBPE1o9QAYvviau/qC5SE3caw21q3xkvWKBtja5vgqOWIHHJ3ioaq1VPfn/Szqctz2bU/oYeKd9/z5BL+PVg=="
+      }
+    },
+    "npm:tiny-warning": {
+      "type": "npm",
+      "name": "npm:tiny-warning",
+      "data": {
+        "version": "1.0.3",
+        "packageName": "tiny-warning",
+        "hash": "sha512-lBN9zLN/oAf68o3zNXYrdCt1kP8WsiGW8Oo2ka41b2IM5JL/S1CTyX1rW0mb/zSuJun0ZUrDxx4sqvYS2FWzPA=="
       }
     },
     "npm:tinyexec": {
@@ -5407,6 +5506,15 @@
         "version": "1.1.4",
         "packageName": "update-browserslist-db",
         "hash": "sha512-q0SPT4xyU84saUX+tomz1WLkxUbuaJnR1xWt17M7fJtEJigJeWUNGUqrauFXsHnqev9y9JTRGwk13tFBuKby4A=="
+      }
+    },
+    "npm:use-sync-external-store": {
+      "type": "npm",
+      "name": "npm:use-sync-external-store",
+      "data": {
+        "version": "1.6.0",
+        "packageName": "use-sync-external-store",
+        "hash": "sha512-Pp6GSwGP/NrPIrxVFAIkOQeyw8lFenOHijQWkUTrDvrF4ALqylP2C/KCkeS9dpUM3KvYRQhna5vt7IL95+ZQ9w=="
       }
     },
     "npm:util-deprecate": {
@@ -5693,6 +5801,11 @@
       },
       {
         "source": "growing-graham",
+        "target": "npm:@tanstack/react-router",
+        "type": "static"
+      },
+      {
+        "source": "growing-graham",
         "target": "npm:@types/react",
         "type": "static"
       },
@@ -5716,9 +5829,5894 @@
         "target": "npm:react-dom",
         "type": "static"
       }
+    ],
+    "npm:@astrojs/markdown-remark": [
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:@astrojs/internal-helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:@astrojs/prism",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:github-slugger",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:hast-util-from-html",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:hast-util-to-text",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:import-meta-resolve",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:js-yaml",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:mdast-util-definitions",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:rehype-raw",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:rehype-stringify",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:remark-gfm",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:remark-parse",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:remark-rehype",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:remark-smartypants",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:shiki",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:smol-toml",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:unified",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:unist-util-remove-position",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:unist-util-visit",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:unist-util-visit-parents",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/markdown-remark",
+        "target": "npm:vfile",
+        "type": "static"
+      }
+    ],
+    "npm:@astrojs/prism": [
+      {
+        "source": "npm:@astrojs/prism",
+        "target": "npm:prismjs",
+        "type": "static"
+      }
+    ],
+    "npm:@astrojs/react": [
+      {
+        "source": "npm:@astrojs/react",
+        "target": "npm:@types/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/react",
+        "target": "npm:@types/react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/react",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/react",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/react",
+        "target": "npm:@vitejs/plugin-react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/react",
+        "target": "npm:ultrahtml",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/react",
+        "target": "npm:vite",
+        "type": "static"
+      }
+    ],
+    "npm:@astrojs/rss": [
+      {
+        "source": "npm:@astrojs/rss",
+        "target": "npm:fast-xml-parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/rss",
+        "target": "npm:picocolors",
+        "type": "static"
+      }
+    ],
+    "npm:@astrojs/telemetry": [
+      {
+        "source": "npm:@astrojs/telemetry",
+        "target": "npm:ci-info",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/telemetry",
+        "target": "npm:debug",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/telemetry",
+        "target": "npm:dlv",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/telemetry",
+        "target": "npm:dset",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/telemetry",
+        "target": "npm:is-docker",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/telemetry",
+        "target": "npm:is-wsl",
+        "type": "static"
+      },
+      {
+        "source": "npm:@astrojs/telemetry",
+        "target": "npm:which-pm-runs",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/code-frame": [
+      {
+        "source": "npm:@babel/code-frame",
+        "target": "npm:@babel/helper-validator-identifier",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/code-frame",
+        "target": "npm:js-tokens",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/code-frame",
+        "target": "npm:picocolors",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/core": [
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@babel/code-frame",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@babel/generator",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@babel/helper-compilation-targets",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@babel/helper-module-transforms",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@babel/helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@babel/parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@babel/template",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@babel/traverse",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@babel/types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:@jridgewell/remapping",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:convert-source-map",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:debug",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:gensync",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:json5",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/core",
+        "target": "npm:semver@6.3.1",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/generator": [
+      {
+        "source": "npm:@babel/generator",
+        "target": "npm:@babel/parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/generator",
+        "target": "npm:@babel/types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/generator",
+        "target": "npm:@jridgewell/gen-mapping",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/generator",
+        "target": "npm:@jridgewell/trace-mapping",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/generator",
+        "target": "npm:jsesc",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/helper-compilation-targets": [
+      {
+        "source": "npm:@babel/helper-compilation-targets",
+        "target": "npm:@babel/compat-data",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/helper-compilation-targets",
+        "target": "npm:@babel/helper-validator-option",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/helper-compilation-targets",
+        "target": "npm:browserslist",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/helper-compilation-targets",
+        "target": "npm:lru-cache",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/helper-compilation-targets",
+        "target": "npm:semver@6.3.1",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/helper-module-imports": [
+      {
+        "source": "npm:@babel/helper-module-imports",
+        "target": "npm:@babel/traverse",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/helper-module-imports",
+        "target": "npm:@babel/types",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/helper-module-transforms": [
+      {
+        "source": "npm:@babel/helper-module-transforms",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/helper-module-transforms",
+        "target": "npm:@babel/helper-module-imports",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/helper-module-transforms",
+        "target": "npm:@babel/helper-validator-identifier",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/helper-module-transforms",
+        "target": "npm:@babel/traverse",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/helpers": [
+      {
+        "source": "npm:@babel/helpers",
+        "target": "npm:@babel/template",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/helpers",
+        "target": "npm:@babel/types",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/parser": [
+      {
+        "source": "npm:@babel/parser",
+        "target": "npm:@babel/types",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/plugin-transform-react-jsx-self": [
+      {
+        "source": "npm:@babel/plugin-transform-react-jsx-self",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/plugin-transform-react-jsx-self",
+        "target": "npm:@babel/helper-plugin-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/plugin-transform-react-jsx-source": [
+      {
+        "source": "npm:@babel/plugin-transform-react-jsx-source",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/plugin-transform-react-jsx-source",
+        "target": "npm:@babel/helper-plugin-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/template": [
+      {
+        "source": "npm:@babel/template",
+        "target": "npm:@babel/code-frame",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/template",
+        "target": "npm:@babel/parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/template",
+        "target": "npm:@babel/types",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/traverse": [
+      {
+        "source": "npm:@babel/traverse",
+        "target": "npm:@babel/code-frame",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/traverse",
+        "target": "npm:@babel/generator",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/traverse",
+        "target": "npm:@babel/helper-globals",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/traverse",
+        "target": "npm:@babel/parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/traverse",
+        "target": "npm:@babel/template",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/traverse",
+        "target": "npm:@babel/types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/traverse",
+        "target": "npm:debug",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/types": [
+      {
+        "source": "npm:@babel/types",
+        "target": "npm:@babel/helper-string-parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/types",
+        "target": "npm:@babel/helper-validator-identifier",
+        "type": "static"
+      }
+    ],
+    "npm:@capsizecss/unpack": [
+      {
+        "source": "npm:@capsizecss/unpack",
+        "target": "npm:fontkit",
+        "type": "static"
+      }
+    ],
+    "npm:@emnapi/core": [
+      {
+        "source": "npm:@emnapi/core",
+        "target": "npm:@emnapi/wasi-threads",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emnapi/core",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@emnapi/runtime": [
+      {
+        "source": "npm:@emnapi/runtime",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@emnapi/wasi-threads": [
+      {
+        "source": "npm:@emnapi/wasi-threads",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@envelop/instrumentation": [
+      {
+        "source": "npm:@envelop/instrumentation",
+        "target": "npm:@whatwg-node/promise-helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:@envelop/instrumentation",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-darwin-arm64": [
+      {
+        "source": "npm:@img/sharp-darwin-arm64",
+        "target": "npm:@img/sharp-libvips-darwin-arm64",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-darwin-x64": [
+      {
+        "source": "npm:@img/sharp-darwin-x64",
+        "target": "npm:@img/sharp-libvips-darwin-x64",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-linux-arm": [
+      {
+        "source": "npm:@img/sharp-linux-arm",
+        "target": "npm:@img/sharp-libvips-linux-arm",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-linux-arm64": [
+      {
+        "source": "npm:@img/sharp-linux-arm64",
+        "target": "npm:@img/sharp-libvips-linux-arm64",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-linux-ppc64": [
+      {
+        "source": "npm:@img/sharp-linux-ppc64",
+        "target": "npm:@img/sharp-libvips-linux-ppc64",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-linux-s390x": [
+      {
+        "source": "npm:@img/sharp-linux-s390x",
+        "target": "npm:@img/sharp-libvips-linux-s390x",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-linux-x64": [
+      {
+        "source": "npm:@img/sharp-linux-x64",
+        "target": "npm:@img/sharp-libvips-linux-x64",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-linuxmusl-arm64": [
+      {
+        "source": "npm:@img/sharp-linuxmusl-arm64",
+        "target": "npm:@img/sharp-libvips-linuxmusl-arm64",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-linuxmusl-x64": [
+      {
+        "source": "npm:@img/sharp-linuxmusl-x64",
+        "target": "npm:@img/sharp-libvips-linuxmusl-x64",
+        "type": "static"
+      }
+    ],
+    "npm:@img/sharp-wasm32": [
+      {
+        "source": "npm:@img/sharp-wasm32",
+        "target": "npm:@emnapi/runtime",
+        "type": "static"
+      }
+    ],
+    "npm:@jest/schemas": [
+      {
+        "source": "npm:@jest/schemas",
+        "target": "npm:@sinclair/typebox",
+        "type": "static"
+      }
+    ],
+    "npm:@jridgewell/gen-mapping": [
+      {
+        "source": "npm:@jridgewell/gen-mapping",
+        "target": "npm:@jridgewell/sourcemap-codec",
+        "type": "static"
+      },
+      {
+        "source": "npm:@jridgewell/gen-mapping",
+        "target": "npm:@jridgewell/trace-mapping",
+        "type": "static"
+      }
+    ],
+    "npm:@jridgewell/remapping": [
+      {
+        "source": "npm:@jridgewell/remapping",
+        "target": "npm:@jridgewell/gen-mapping",
+        "type": "static"
+      },
+      {
+        "source": "npm:@jridgewell/remapping",
+        "target": "npm:@jridgewell/trace-mapping",
+        "type": "static"
+      }
+    ],
+    "npm:@jridgewell/trace-mapping": [
+      {
+        "source": "npm:@jridgewell/trace-mapping",
+        "target": "npm:@jridgewell/resolve-uri",
+        "type": "static"
+      },
+      {
+        "source": "npm:@jridgewell/trace-mapping",
+        "target": "npm:@jridgewell/sourcemap-codec",
+        "type": "static"
+      }
+    ],
+    "npm:@nanostores/persistent": [
+      {
+        "source": "npm:@nanostores/persistent",
+        "target": "npm:nanostores",
+        "type": "static"
+      }
+    ],
+    "npm:@nanostores/react": [
+      {
+        "source": "npm:@nanostores/react",
+        "target": "npm:nanostores",
+        "type": "static"
+      },
+      {
+        "source": "npm:@nanostores/react",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@napi-rs/wasm-runtime": [
+      {
+        "source": "npm:@napi-rs/wasm-runtime",
+        "target": "npm:@emnapi/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@napi-rs/wasm-runtime",
+        "target": "npm:@emnapi/runtime",
+        "type": "static"
+      },
+      {
+        "source": "npm:@napi-rs/wasm-runtime",
+        "target": "npm:@tybys/wasm-util",
+        "type": "static"
+      }
+    ],
+    "npm:@netlify/blobs": [
+      {
+        "source": "npm:@netlify/blobs",
+        "target": "npm:@netlify/dev-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/blobs",
+        "target": "npm:@netlify/otel",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/blobs",
+        "target": "npm:@netlify/runtime-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@netlify/dev-utils": [
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:@whatwg-node/server",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:ansis",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:chokidar",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:decache",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:dettle",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:dot-prop",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:empathic",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:env-paths",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:image-size",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:js-image-generator",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:parse-gitignore",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:semver",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:tmp-promise",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:uuid",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/dev-utils",
+        "target": "npm:write-file-atomic",
+        "type": "static"
+      }
+    ],
+    "npm:@netlify/otel": [
+      {
+        "source": "npm:@netlify/otel",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/otel",
+        "target": "npm:@opentelemetry/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/otel",
+        "target": "npm:@opentelemetry/instrumentation",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/otel",
+        "target": "npm:@opentelemetry/otlp-transformer",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/otel",
+        "target": "npm:@opentelemetry/resources",
+        "type": "static"
+      },
+      {
+        "source": "npm:@netlify/otel",
+        "target": "npm:@opentelemetry/sdk-trace-node",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/api-logs": [
+      {
+        "source": "npm:@opentelemetry/api-logs",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/context-async-hooks": [
+      {
+        "source": "npm:@opentelemetry/context-async-hooks",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/core": [
+      {
+        "source": "npm:@opentelemetry/core",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/core",
+        "target": "npm:@opentelemetry/semantic-conventions",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/instrumentation": [
+      {
+        "source": "npm:@opentelemetry/instrumentation",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/instrumentation",
+        "target": "npm:@opentelemetry/api-logs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/instrumentation",
+        "target": "npm:import-in-the-middle",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/instrumentation",
+        "target": "npm:require-in-the-middle",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/otlp-transformer": [
+      {
+        "source": "npm:@opentelemetry/otlp-transformer",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/otlp-transformer",
+        "target": "npm:@opentelemetry/api-logs@0.57.2",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/otlp-transformer",
+        "target": "npm:@opentelemetry/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/otlp-transformer",
+        "target": "npm:@opentelemetry/resources",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/otlp-transformer",
+        "target": "npm:@opentelemetry/sdk-logs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/otlp-transformer",
+        "target": "npm:@opentelemetry/sdk-metrics",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/otlp-transformer",
+        "target": "npm:@opentelemetry/sdk-trace-base",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/otlp-transformer",
+        "target": "npm:protobufjs",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/api-logs@0.57.2": [
+      {
+        "source": "npm:@opentelemetry/api-logs@0.57.2",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/propagator-b3": [
+      {
+        "source": "npm:@opentelemetry/propagator-b3",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/propagator-b3",
+        "target": "npm:@opentelemetry/core",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/propagator-jaeger": [
+      {
+        "source": "npm:@opentelemetry/propagator-jaeger",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/propagator-jaeger",
+        "target": "npm:@opentelemetry/core",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/resources": [
+      {
+        "source": "npm:@opentelemetry/resources",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/resources",
+        "target": "npm:@opentelemetry/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/resources",
+        "target": "npm:@opentelemetry/semantic-conventions",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/sdk-logs": [
+      {
+        "source": "npm:@opentelemetry/sdk-logs",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-logs",
+        "target": "npm:@opentelemetry/api-logs@0.57.2",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-logs",
+        "target": "npm:@opentelemetry/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-logs",
+        "target": "npm:@opentelemetry/resources",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/sdk-metrics": [
+      {
+        "source": "npm:@opentelemetry/sdk-metrics",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-metrics",
+        "target": "npm:@opentelemetry/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-metrics",
+        "target": "npm:@opentelemetry/resources",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/sdk-trace-base": [
+      {
+        "source": "npm:@opentelemetry/sdk-trace-base",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-trace-base",
+        "target": "npm:@opentelemetry/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-trace-base",
+        "target": "npm:@opentelemetry/resources",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-trace-base",
+        "target": "npm:@opentelemetry/semantic-conventions",
+        "type": "static"
+      }
+    ],
+    "npm:@opentelemetry/sdk-trace-node": [
+      {
+        "source": "npm:@opentelemetry/sdk-trace-node",
+        "target": "npm:@opentelemetry/api",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-trace-node",
+        "target": "npm:@opentelemetry/context-async-hooks",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-trace-node",
+        "target": "npm:@opentelemetry/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-trace-node",
+        "target": "npm:@opentelemetry/propagator-b3",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-trace-node",
+        "target": "npm:@opentelemetry/propagator-jaeger",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-trace-node",
+        "target": "npm:@opentelemetry/sdk-trace-base",
+        "type": "static"
+      },
+      {
+        "source": "npm:@opentelemetry/sdk-trace-node",
+        "target": "npm:semver",
+        "type": "static"
+      }
+    ],
+    "npm:@protobufjs/fetch": [
+      {
+        "source": "npm:@protobufjs/fetch",
+        "target": "npm:@protobufjs/aspromise",
+        "type": "static"
+      },
+      {
+        "source": "npm:@protobufjs/fetch",
+        "target": "npm:@protobufjs/inquire",
+        "type": "static"
+      }
+    ],
+    "npm:@rollup/pluginutils": [
+      {
+        "source": "npm:@rollup/pluginutils",
+        "target": "npm:rollup",
+        "type": "static"
+      },
+      {
+        "source": "npm:@rollup/pluginutils",
+        "target": "npm:@types/estree",
+        "type": "static"
+      },
+      {
+        "source": "npm:@rollup/pluginutils",
+        "target": "npm:estree-walker",
+        "type": "static"
+      },
+      {
+        "source": "npm:@rollup/pluginutils",
+        "target": "npm:picomatch",
+        "type": "static"
+      }
+    ],
+    "npm:@shikijs/core": [
+      {
+        "source": "npm:@shikijs/core",
+        "target": "npm:@shikijs/types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@shikijs/core",
+        "target": "npm:@shikijs/vscode-textmate",
+        "type": "static"
+      },
+      {
+        "source": "npm:@shikijs/core",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:@shikijs/core",
+        "target": "npm:hast-util-to-html",
+        "type": "static"
+      }
+    ],
+    "npm:@shikijs/engine-javascript": [
+      {
+        "source": "npm:@shikijs/engine-javascript",
+        "target": "npm:@shikijs/types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@shikijs/engine-javascript",
+        "target": "npm:@shikijs/vscode-textmate",
+        "type": "static"
+      },
+      {
+        "source": "npm:@shikijs/engine-javascript",
+        "target": "npm:oniguruma-to-es",
+        "type": "static"
+      }
+    ],
+    "npm:@shikijs/engine-oniguruma": [
+      {
+        "source": "npm:@shikijs/engine-oniguruma",
+        "target": "npm:@shikijs/types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@shikijs/engine-oniguruma",
+        "target": "npm:@shikijs/vscode-textmate",
+        "type": "static"
+      }
+    ],
+    "npm:@shikijs/langs": [
+      {
+        "source": "npm:@shikijs/langs",
+        "target": "npm:@shikijs/types",
+        "type": "static"
+      }
+    ],
+    "npm:@shikijs/themes": [
+      {
+        "source": "npm:@shikijs/themes",
+        "target": "npm:@shikijs/types",
+        "type": "static"
+      }
+    ],
+    "npm:@shikijs/types": [
+      {
+        "source": "npm:@shikijs/types",
+        "target": "npm:@shikijs/vscode-textmate",
+        "type": "static"
+      },
+      {
+        "source": "npm:@shikijs/types",
+        "target": "npm:@types/hast",
+        "type": "static"
+      }
+    ],
+    "npm:@swc/helpers": [
+      {
+        "source": "npm:@swc/helpers",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@tanstack/react-router": [
+      {
+        "source": "npm:@tanstack/react-router",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-router",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-router",
+        "target": "npm:@tanstack/history",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-router",
+        "target": "npm:@tanstack/react-store",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-router",
+        "target": "npm:@tanstack/router-core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-router",
+        "target": "npm:isbot",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-router",
+        "target": "npm:tiny-invariant",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-router",
+        "target": "npm:tiny-warning",
+        "type": "static"
+      }
+    ],
+    "npm:@tanstack/react-store": [
+      {
+        "source": "npm:@tanstack/react-store",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-store",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-store",
+        "target": "npm:@tanstack/store",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/react-store",
+        "target": "npm:use-sync-external-store",
+        "type": "static"
+      }
+    ],
+    "npm:@tanstack/router-core": [
+      {
+        "source": "npm:@tanstack/router-core",
+        "target": "npm:@tanstack/history",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/router-core",
+        "target": "npm:@tanstack/store",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/router-core",
+        "target": "npm:cookie-es@2.0.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/router-core",
+        "target": "npm:seroval",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/router-core",
+        "target": "npm:seroval-plugins",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/router-core",
+        "target": "npm:tiny-invariant",
+        "type": "static"
+      },
+      {
+        "source": "npm:@tanstack/router-core",
+        "target": "npm:tiny-warning",
+        "type": "static"
+      }
+    ],
+    "npm:@tybys/wasm-util": [
+      {
+        "source": "npm:@tybys/wasm-util",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@types/babel__core": [
+      {
+        "source": "npm:@types/babel__core",
+        "target": "npm:@babel/parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:@types/babel__core",
+        "target": "npm:@babel/types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@types/babel__core",
+        "target": "npm:@types/babel__generator",
+        "type": "static"
+      },
+      {
+        "source": "npm:@types/babel__core",
+        "target": "npm:@types/babel__template",
+        "type": "static"
+      },
+      {
+        "source": "npm:@types/babel__core",
+        "target": "npm:@types/babel__traverse",
+        "type": "static"
+      }
+    ],
+    "npm:@types/babel__generator": [
+      {
+        "source": "npm:@types/babel__generator",
+        "target": "npm:@babel/types",
+        "type": "static"
+      }
+    ],
+    "npm:@types/babel__template": [
+      {
+        "source": "npm:@types/babel__template",
+        "target": "npm:@babel/parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:@types/babel__template",
+        "target": "npm:@babel/types",
+        "type": "static"
+      }
+    ],
+    "npm:@types/babel__traverse": [
+      {
+        "source": "npm:@types/babel__traverse",
+        "target": "npm:@babel/types",
+        "type": "static"
+      }
+    ],
+    "npm:@types/debug": [
+      {
+        "source": "npm:@types/debug",
+        "target": "npm:@types/ms",
+        "type": "static"
+      }
+    ],
+    "npm:@types/fontkit": [
+      {
+        "source": "npm:@types/fontkit",
+        "target": "npm:@types/node",
+        "type": "static"
+      }
+    ],
+    "npm:@types/hast": [
+      {
+        "source": "npm:@types/hast",
+        "target": "npm:@types/unist",
+        "type": "static"
+      }
+    ],
+    "npm:@types/mdast": [
+      {
+        "source": "npm:@types/mdast",
+        "target": "npm:@types/unist",
+        "type": "static"
+      }
+    ],
+    "npm:@types/nlcst": [
+      {
+        "source": "npm:@types/nlcst",
+        "target": "npm:@types/unist",
+        "type": "static"
+      }
+    ],
+    "npm:@types/node": [
+      {
+        "source": "npm:@types/node",
+        "target": "npm:undici-types",
+        "type": "static"
+      }
+    ],
+    "npm:@types/react": [
+      {
+        "source": "npm:@types/react",
+        "target": "npm:csstype",
+        "type": "static"
+      }
+    ],
+    "npm:@types/react-dom": [
+      {
+        "source": "npm:@types/react-dom",
+        "target": "npm:@types/react",
+        "type": "static"
+      }
+    ],
+    "npm:@vitejs/plugin-react": [
+      {
+        "source": "npm:@vitejs/plugin-react",
+        "target": "npm:vite",
+        "type": "static"
+      },
+      {
+        "source": "npm:@vitejs/plugin-react",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@vitejs/plugin-react",
+        "target": "npm:@babel/plugin-transform-react-jsx-self",
+        "type": "static"
+      },
+      {
+        "source": "npm:@vitejs/plugin-react",
+        "target": "npm:@babel/plugin-transform-react-jsx-source",
+        "type": "static"
+      },
+      {
+        "source": "npm:@vitejs/plugin-react",
+        "target": "npm:@rolldown/pluginutils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@vitejs/plugin-react",
+        "target": "npm:@types/babel__core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@vitejs/plugin-react",
+        "target": "npm:react-refresh",
+        "type": "static"
+      }
+    ],
+    "npm:@whatwg-node/disposablestack": [
+      {
+        "source": "npm:@whatwg-node/disposablestack",
+        "target": "npm:@whatwg-node/promise-helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:@whatwg-node/disposablestack",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@whatwg-node/fetch": [
+      {
+        "source": "npm:@whatwg-node/fetch",
+        "target": "npm:@whatwg-node/node-fetch",
+        "type": "static"
+      },
+      {
+        "source": "npm:@whatwg-node/fetch",
+        "target": "npm:urlpattern-polyfill@10.1.0",
+        "type": "static"
+      }
+    ],
+    "npm:@whatwg-node/node-fetch": [
+      {
+        "source": "npm:@whatwg-node/node-fetch",
+        "target": "npm:@fastify/busboy",
+        "type": "static"
+      },
+      {
+        "source": "npm:@whatwg-node/node-fetch",
+        "target": "npm:@whatwg-node/disposablestack",
+        "type": "static"
+      },
+      {
+        "source": "npm:@whatwg-node/node-fetch",
+        "target": "npm:@whatwg-node/promise-helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:@whatwg-node/node-fetch",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@whatwg-node/promise-helpers": [
+      {
+        "source": "npm:@whatwg-node/promise-helpers",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@whatwg-node/server": [
+      {
+        "source": "npm:@whatwg-node/server",
+        "target": "npm:@envelop/instrumentation",
+        "type": "static"
+      },
+      {
+        "source": "npm:@whatwg-node/server",
+        "target": "npm:@whatwg-node/disposablestack",
+        "type": "static"
+      },
+      {
+        "source": "npm:@whatwg-node/server",
+        "target": "npm:@whatwg-node/fetch",
+        "type": "static"
+      },
+      {
+        "source": "npm:@whatwg-node/server",
+        "target": "npm:@whatwg-node/promise-helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:@whatwg-node/server",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:@yarnpkg/parsers": [
+      {
+        "source": "npm:@yarnpkg/parsers",
+        "target": "npm:js-yaml@3.14.1",
+        "type": "static"
+      },
+      {
+        "source": "npm:@yarnpkg/parsers",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:argparse@1.0.10": [
+      {
+        "source": "npm:argparse@1.0.10",
+        "target": "npm:sprintf-js",
+        "type": "static"
+      }
+    ],
+    "npm:js-yaml@3.14.1": [
+      {
+        "source": "npm:js-yaml@3.14.1",
+        "target": "npm:argparse@1.0.10",
+        "type": "static"
+      },
+      {
+        "source": "npm:js-yaml@3.14.1",
+        "target": "npm:esprima",
+        "type": "static"
+      }
+    ],
+    "npm:@zkochan/js-yaml": [
+      {
+        "source": "npm:@zkochan/js-yaml",
+        "target": "npm:argparse",
+        "type": "static"
+      }
+    ],
+    "npm:acorn-import-attributes": [
+      {
+        "source": "npm:acorn-import-attributes",
+        "target": "npm:acorn",
+        "type": "static"
+      }
+    ],
+    "npm:ansi-align": [
+      {
+        "source": "npm:ansi-align",
+        "target": "npm:string-width@4.2.3",
+        "type": "static"
+      }
+    ],
+    "npm:string-width@4.2.3": [
+      {
+        "source": "npm:string-width@4.2.3",
+        "target": "npm:emoji-regex@8.0.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:string-width@4.2.3",
+        "target": "npm:is-fullwidth-code-point",
+        "type": "static"
+      },
+      {
+        "source": "npm:string-width@4.2.3",
+        "target": "npm:strip-ansi@6.0.1",
+        "type": "static"
+      }
+    ],
+    "npm:strip-ansi@6.0.1": [
+      {
+        "source": "npm:strip-ansi@6.0.1",
+        "target": "npm:ansi-regex@5.0.1",
+        "type": "static"
+      }
+    ],
+    "npm:anymatch": [
+      {
+        "source": "npm:anymatch",
+        "target": "npm:normalize-path",
+        "type": "static"
+      },
+      {
+        "source": "npm:anymatch",
+        "target": "npm:picomatch@2.3.1",
+        "type": "static"
+      }
+    ],
+    "npm:astro": [
+      {
+        "source": "npm:astro",
+        "target": "npm:@astrojs/compiler",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:@astrojs/internal-helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:@astrojs/markdown-remark",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:@astrojs/telemetry",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:@capsizecss/unpack",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:@oslojs/encoding",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:@rollup/pluginutils",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:acorn",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:aria-query",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:axobject-query",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:boxen",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:ci-info",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:clsx",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:common-ancestor-path",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:cookie",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:cssesc",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:debug",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:deterministic-object-hash",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:devalue",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:diff",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:dlv",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:dset",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:es-module-lexer",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:esbuild",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:estree-walker@3.0.3",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:flattie",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:fontace",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:github-slugger",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:html-escaper",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:http-cache-semantics",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:import-meta-resolve",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:js-yaml",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:magic-string",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:magicast",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:mrmime",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:neotraverse",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:p-limit",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:p-queue",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:package-manager-detector",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:picocolors",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:picomatch",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:prompts",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:rehype",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:semver",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:shiki",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:smol-toml",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:tinyexec",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:tinyglobby",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:tsconfck",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:ultrahtml",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:unifont",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:unist-util-visit",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:unstorage",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:vfile",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:vite",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:vitefu",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:xxhash-wasm",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:yargs-parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:yocto-spinner",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:zod",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:zod-to-json-schema",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:zod-to-ts",
+        "type": "static"
+      },
+      {
+        "source": "npm:astro",
+        "target": "npm:sharp",
+        "type": "static"
+      }
+    ],
+    "npm:estree-walker@3.0.3": [
+      {
+        "source": "npm:estree-walker@3.0.3",
+        "target": "npm:@types/estree",
+        "type": "static"
+      }
+    ],
+    "npm:autoprefixer": [
+      {
+        "source": "npm:autoprefixer",
+        "target": "npm:postcss",
+        "type": "static"
+      },
+      {
+        "source": "npm:autoprefixer",
+        "target": "npm:browserslist",
+        "type": "static"
+      },
+      {
+        "source": "npm:autoprefixer",
+        "target": "npm:caniuse-lite",
+        "type": "static"
+      },
+      {
+        "source": "npm:autoprefixer",
+        "target": "npm:fraction.js",
+        "type": "static"
+      },
+      {
+        "source": "npm:autoprefixer",
+        "target": "npm:normalize-range",
+        "type": "static"
+      },
+      {
+        "source": "npm:autoprefixer",
+        "target": "npm:picocolors",
+        "type": "static"
+      },
+      {
+        "source": "npm:autoprefixer",
+        "target": "npm:postcss-value-parser",
+        "type": "static"
+      }
+    ],
+    "npm:axios": [
+      {
+        "source": "npm:axios",
+        "target": "npm:follow-redirects",
+        "type": "static"
+      },
+      {
+        "source": "npm:axios",
+        "target": "npm:form-data",
+        "type": "static"
+      },
+      {
+        "source": "npm:axios",
+        "target": "npm:proxy-from-env",
+        "type": "static"
+      }
+    ],
+    "npm:bl": [
+      {
+        "source": "npm:bl",
+        "target": "npm:buffer",
+        "type": "static"
+      },
+      {
+        "source": "npm:bl",
+        "target": "npm:inherits",
+        "type": "static"
+      },
+      {
+        "source": "npm:bl",
+        "target": "npm:readable-stream@3.6.2",
+        "type": "static"
+      }
+    ],
+    "npm:readable-stream@3.6.2": [
+      {
+        "source": "npm:readable-stream@3.6.2",
+        "target": "npm:inherits",
+        "type": "static"
+      },
+      {
+        "source": "npm:readable-stream@3.6.2",
+        "target": "npm:string_decoder",
+        "type": "static"
+      },
+      {
+        "source": "npm:readable-stream@3.6.2",
+        "target": "npm:util-deprecate",
+        "type": "static"
+      }
+    ],
+    "npm:boxen": [
+      {
+        "source": "npm:boxen",
+        "target": "npm:ansi-align",
+        "type": "static"
+      },
+      {
+        "source": "npm:boxen",
+        "target": "npm:camelcase",
+        "type": "static"
+      },
+      {
+        "source": "npm:boxen",
+        "target": "npm:chalk",
+        "type": "static"
+      },
+      {
+        "source": "npm:boxen",
+        "target": "npm:cli-boxes",
+        "type": "static"
+      },
+      {
+        "source": "npm:boxen",
+        "target": "npm:string-width",
+        "type": "static"
+      },
+      {
+        "source": "npm:boxen",
+        "target": "npm:type-fest",
+        "type": "static"
+      },
+      {
+        "source": "npm:boxen",
+        "target": "npm:widest-line",
+        "type": "static"
+      },
+      {
+        "source": "npm:boxen",
+        "target": "npm:wrap-ansi",
+        "type": "static"
+      }
+    ],
+    "npm:brace-expansion": [
+      {
+        "source": "npm:brace-expansion",
+        "target": "npm:balanced-match",
+        "type": "static"
+      }
+    ],
+    "npm:brotli": [
+      {
+        "source": "npm:brotli",
+        "target": "npm:base64-js",
+        "type": "static"
+      }
+    ],
+    "npm:browserslist": [
+      {
+        "source": "npm:browserslist",
+        "target": "npm:baseline-browser-mapping",
+        "type": "static"
+      },
+      {
+        "source": "npm:browserslist",
+        "target": "npm:caniuse-lite",
+        "type": "static"
+      },
+      {
+        "source": "npm:browserslist",
+        "target": "npm:electron-to-chromium",
+        "type": "static"
+      },
+      {
+        "source": "npm:browserslist",
+        "target": "npm:node-releases",
+        "type": "static"
+      },
+      {
+        "source": "npm:browserslist",
+        "target": "npm:update-browserslist-db",
+        "type": "static"
+      }
+    ],
+    "npm:buffer": [
+      {
+        "source": "npm:buffer",
+        "target": "npm:base64-js",
+        "type": "static"
+      },
+      {
+        "source": "npm:buffer",
+        "target": "npm:ieee754",
+        "type": "static"
+      }
+    ],
+    "npm:call-bind-apply-helpers": [
+      {
+        "source": "npm:call-bind-apply-helpers",
+        "target": "npm:es-errors",
+        "type": "static"
+      },
+      {
+        "source": "npm:call-bind-apply-helpers",
+        "target": "npm:function-bind",
+        "type": "static"
+      }
+    ],
+    "npm:chokidar": [
+      {
+        "source": "npm:chokidar",
+        "target": "npm:readdirp",
+        "type": "static"
+      }
+    ],
+    "npm:cli-cursor": [
+      {
+        "source": "npm:cli-cursor",
+        "target": "npm:restore-cursor",
+        "type": "static"
+      }
+    ],
+    "npm:cliui": [
+      {
+        "source": "npm:cliui",
+        "target": "npm:string-width@4.2.3",
+        "type": "static"
+      },
+      {
+        "source": "npm:cliui",
+        "target": "npm:strip-ansi@6.0.1",
+        "type": "static"
+      },
+      {
+        "source": "npm:cliui",
+        "target": "npm:wrap-ansi@7.0.0",
+        "type": "static"
+      }
+    ],
+    "npm:ansi-styles@4.3.0": [
+      {
+        "source": "npm:ansi-styles@4.3.0",
+        "target": "npm:color-convert@2.0.1",
+        "type": "static"
+      }
+    ],
+    "npm:color-convert@2.0.1": [
+      {
+        "source": "npm:color-convert@2.0.1",
+        "target": "npm:color-name",
+        "type": "static"
+      }
+    ],
+    "npm:wrap-ansi@7.0.0": [
+      {
+        "source": "npm:wrap-ansi@7.0.0",
+        "target": "npm:ansi-styles@4.3.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:wrap-ansi@7.0.0",
+        "target": "npm:string-width@4.2.3",
+        "type": "static"
+      },
+      {
+        "source": "npm:wrap-ansi@7.0.0",
+        "target": "npm:strip-ansi@6.0.1",
+        "type": "static"
+      }
+    ],
+    "npm:combined-stream": [
+      {
+        "source": "npm:combined-stream",
+        "target": "npm:delayed-stream",
+        "type": "static"
+      }
+    ],
+    "npm:crossws": [
+      {
+        "source": "npm:crossws",
+        "target": "npm:uncrypto",
+        "type": "static"
+      }
+    ],
+    "npm:css-tree": [
+      {
+        "source": "npm:css-tree",
+        "target": "npm:mdn-data",
+        "type": "static"
+      },
+      {
+        "source": "npm:css-tree",
+        "target": "npm:source-map-js",
+        "type": "static"
+      }
+    ],
+    "npm:debug": [
+      {
+        "source": "npm:debug",
+        "target": "npm:ms",
+        "type": "static"
+      }
+    ],
+    "npm:decache": [
+      {
+        "source": "npm:decache",
+        "target": "npm:callsite",
+        "type": "static"
+      }
+    ],
+    "npm:decode-named-character-reference": [
+      {
+        "source": "npm:decode-named-character-reference",
+        "target": "npm:character-entities",
+        "type": "static"
+      }
+    ],
+    "npm:defaults": [
+      {
+        "source": "npm:defaults",
+        "target": "npm:clone@1.0.4",
+        "type": "static"
+      }
+    ],
+    "npm:deterministic-object-hash": [
+      {
+        "source": "npm:deterministic-object-hash",
+        "target": "npm:base-64",
+        "type": "static"
+      }
+    ],
+    "npm:devlop": [
+      {
+        "source": "npm:devlop",
+        "target": "npm:dequal",
+        "type": "static"
+      }
+    ],
+    "npm:dot-prop": [
+      {
+        "source": "npm:dot-prop",
+        "target": "npm:type-fest",
+        "type": "static"
+      }
+    ],
+    "npm:dotenv-expand": [
+      {
+        "source": "npm:dotenv-expand",
+        "target": "npm:dotenv",
+        "type": "static"
+      }
+    ],
+    "npm:dunder-proto": [
+      {
+        "source": "npm:dunder-proto",
+        "target": "npm:call-bind-apply-helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:dunder-proto",
+        "target": "npm:es-errors",
+        "type": "static"
+      },
+      {
+        "source": "npm:dunder-proto",
+        "target": "npm:gopd",
+        "type": "static"
+      }
+    ],
+    "npm:end-of-stream": [
+      {
+        "source": "npm:end-of-stream",
+        "target": "npm:once",
+        "type": "static"
+      }
+    ],
+    "npm:enquirer": [
+      {
+        "source": "npm:enquirer",
+        "target": "npm:ansi-colors",
+        "type": "static"
+      }
+    ],
+    "npm:es-object-atoms": [
+      {
+        "source": "npm:es-object-atoms",
+        "target": "npm:es-errors",
+        "type": "static"
+      }
+    ],
+    "npm:es-set-tostringtag": [
+      {
+        "source": "npm:es-set-tostringtag",
+        "target": "npm:es-errors",
+        "type": "static"
+      },
+      {
+        "source": "npm:es-set-tostringtag",
+        "target": "npm:get-intrinsic",
+        "type": "static"
+      },
+      {
+        "source": "npm:es-set-tostringtag",
+        "target": "npm:has-tostringtag",
+        "type": "static"
+      },
+      {
+        "source": "npm:es-set-tostringtag",
+        "target": "npm:hasown",
+        "type": "static"
+      }
+    ],
+    "npm:esbuild": [
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/aix-ppc64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/android-arm",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/android-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/android-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/darwin-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/darwin-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/freebsd-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/freebsd-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/linux-arm",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/linux-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/linux-ia32",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/linux-loong64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/linux-mips64el",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/linux-ppc64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/linux-riscv64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/linux-s390x",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/linux-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/netbsd-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/netbsd-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/openbsd-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/openbsd-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/openharmony-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/sunos-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/win32-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/win32-ia32",
+        "type": "static"
+      },
+      {
+        "source": "npm:esbuild",
+        "target": "npm:@esbuild/win32-x64",
+        "type": "static"
+      }
+    ],
+    "npm:fast-xml-parser": [
+      {
+        "source": "npm:fast-xml-parser",
+        "target": "npm:strnum",
+        "type": "static"
+      }
+    ],
+    "npm:fdir": [
+      {
+        "source": "npm:fdir",
+        "target": "npm:picomatch",
+        "type": "static"
+      }
+    ],
+    "npm:fontace": [
+      {
+        "source": "npm:fontace",
+        "target": "npm:@types/fontkit",
+        "type": "static"
+      },
+      {
+        "source": "npm:fontace",
+        "target": "npm:fontkit",
+        "type": "static"
+      }
+    ],
+    "npm:fontkit": [
+      {
+        "source": "npm:fontkit",
+        "target": "npm:@swc/helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:fontkit",
+        "target": "npm:brotli",
+        "type": "static"
+      },
+      {
+        "source": "npm:fontkit",
+        "target": "npm:clone",
+        "type": "static"
+      },
+      {
+        "source": "npm:fontkit",
+        "target": "npm:dfa",
+        "type": "static"
+      },
+      {
+        "source": "npm:fontkit",
+        "target": "npm:fast-deep-equal",
+        "type": "static"
+      },
+      {
+        "source": "npm:fontkit",
+        "target": "npm:restructure",
+        "type": "static"
+      },
+      {
+        "source": "npm:fontkit",
+        "target": "npm:tiny-inflate",
+        "type": "static"
+      },
+      {
+        "source": "npm:fontkit",
+        "target": "npm:unicode-properties",
+        "type": "static"
+      },
+      {
+        "source": "npm:fontkit",
+        "target": "npm:unicode-trie",
+        "type": "static"
+      }
+    ],
+    "npm:form-data": [
+      {
+        "source": "npm:form-data",
+        "target": "npm:asynckit",
+        "type": "static"
+      },
+      {
+        "source": "npm:form-data",
+        "target": "npm:combined-stream",
+        "type": "static"
+      },
+      {
+        "source": "npm:form-data",
+        "target": "npm:es-set-tostringtag",
+        "type": "static"
+      },
+      {
+        "source": "npm:form-data",
+        "target": "npm:hasown",
+        "type": "static"
+      },
+      {
+        "source": "npm:form-data",
+        "target": "npm:mime-types@2.1.35",
+        "type": "static"
+      }
+    ],
+    "npm:mime-types@2.1.35": [
+      {
+        "source": "npm:mime-types@2.1.35",
+        "target": "npm:mime-db@1.52.0",
+        "type": "static"
+      }
+    ],
+    "npm:front-matter": [
+      {
+        "source": "npm:front-matter",
+        "target": "npm:js-yaml@3.14.1",
+        "type": "static"
+      }
+    ],
+    "npm:get-intrinsic": [
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:call-bind-apply-helpers",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:es-define-property",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:es-errors",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:es-object-atoms",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:function-bind",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:get-proto",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:gopd",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:has-symbols",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:hasown",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-intrinsic",
+        "target": "npm:math-intrinsics",
+        "type": "static"
+      }
+    ],
+    "npm:get-proto": [
+      {
+        "source": "npm:get-proto",
+        "target": "npm:dunder-proto",
+        "type": "static"
+      },
+      {
+        "source": "npm:get-proto",
+        "target": "npm:es-object-atoms",
+        "type": "static"
+      }
+    ],
+    "npm:h3": [
+      {
+        "source": "npm:h3",
+        "target": "npm:cookie-es",
+        "type": "static"
+      },
+      {
+        "source": "npm:h3",
+        "target": "npm:crossws",
+        "type": "static"
+      },
+      {
+        "source": "npm:h3",
+        "target": "npm:defu",
+        "type": "static"
+      },
+      {
+        "source": "npm:h3",
+        "target": "npm:destr",
+        "type": "static"
+      },
+      {
+        "source": "npm:h3",
+        "target": "npm:iron-webcrypto",
+        "type": "static"
+      },
+      {
+        "source": "npm:h3",
+        "target": "npm:node-mock-http",
+        "type": "static"
+      },
+      {
+        "source": "npm:h3",
+        "target": "npm:radix3",
+        "type": "static"
+      },
+      {
+        "source": "npm:h3",
+        "target": "npm:ufo",
+        "type": "static"
+      },
+      {
+        "source": "npm:h3",
+        "target": "npm:uncrypto",
+        "type": "static"
+      }
+    ],
+    "npm:has-tostringtag": [
+      {
+        "source": "npm:has-tostringtag",
+        "target": "npm:has-symbols",
+        "type": "static"
+      }
+    ],
+    "npm:hasown": [
+      {
+        "source": "npm:hasown",
+        "target": "npm:function-bind",
+        "type": "static"
+      }
+    ],
+    "npm:hast-util-from-html": [
+      {
+        "source": "npm:hast-util-from-html",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-html",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-html",
+        "target": "npm:hast-util-from-parse5",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-html",
+        "target": "npm:parse5",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-html",
+        "target": "npm:vfile",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-html",
+        "target": "npm:vfile-message",
+        "type": "static"
+      }
+    ],
+    "npm:hast-util-from-parse5": [
+      {
+        "source": "npm:hast-util-from-parse5",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-parse5",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-parse5",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-parse5",
+        "target": "npm:hastscript",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-parse5",
+        "target": "npm:property-information",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-parse5",
+        "target": "npm:vfile",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-parse5",
+        "target": "npm:vfile-location",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-from-parse5",
+        "target": "npm:web-namespaces",
+        "type": "static"
+      }
+    ],
+    "npm:hast-util-is-element": [
+      {
+        "source": "npm:hast-util-is-element",
+        "target": "npm:@types/hast",
+        "type": "static"
+      }
+    ],
+    "npm:hast-util-parse-selector": [
+      {
+        "source": "npm:hast-util-parse-selector",
+        "target": "npm:@types/hast",
+        "type": "static"
+      }
+    ],
+    "npm:hast-util-raw": [
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:@ungap/structured-clone",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:hast-util-from-parse5",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:hast-util-to-parse5",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:html-void-elements",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:mdast-util-to-hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:parse5",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:unist-util-position",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:unist-util-visit",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:vfile",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:web-namespaces",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-raw",
+        "target": "npm:zwitch",
+        "type": "static"
+      }
+    ],
+    "npm:hast-util-to-html": [
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:ccount",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:comma-separated-tokens",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:hast-util-whitespace",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:html-void-elements",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:mdast-util-to-hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:property-information",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:space-separated-tokens",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:stringify-entities",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-html",
+        "target": "npm:zwitch",
+        "type": "static"
+      }
+    ],
+    "npm:hast-util-to-parse5": [
+      {
+        "source": "npm:hast-util-to-parse5",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-parse5",
+        "target": "npm:comma-separated-tokens",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-parse5",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-parse5",
+        "target": "npm:property-information@6.5.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-parse5",
+        "target": "npm:space-separated-tokens",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-parse5",
+        "target": "npm:web-namespaces",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-parse5",
+        "target": "npm:zwitch",
+        "type": "static"
+      }
+    ],
+    "npm:hast-util-to-text": [
+      {
+        "source": "npm:hast-util-to-text",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-text",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-text",
+        "target": "npm:hast-util-is-element",
+        "type": "static"
+      },
+      {
+        "source": "npm:hast-util-to-text",
+        "target": "npm:unist-util-find-after",
+        "type": "static"
+      }
+    ],
+    "npm:hast-util-whitespace": [
+      {
+        "source": "npm:hast-util-whitespace",
+        "target": "npm:@types/hast",
+        "type": "static"
+      }
+    ],
+    "npm:hastscript": [
+      {
+        "source": "npm:hastscript",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:hastscript",
+        "target": "npm:comma-separated-tokens",
+        "type": "static"
+      },
+      {
+        "source": "npm:hastscript",
+        "target": "npm:hast-util-parse-selector",
+        "type": "static"
+      },
+      {
+        "source": "npm:hastscript",
+        "target": "npm:property-information",
+        "type": "static"
+      },
+      {
+        "source": "npm:hastscript",
+        "target": "npm:space-separated-tokens",
+        "type": "static"
+      }
+    ],
+    "npm:import-in-the-middle": [
+      {
+        "source": "npm:import-in-the-middle",
+        "target": "npm:acorn",
+        "type": "static"
+      },
+      {
+        "source": "npm:import-in-the-middle",
+        "target": "npm:acorn-import-attributes",
+        "type": "static"
+      },
+      {
+        "source": "npm:import-in-the-middle",
+        "target": "npm:cjs-module-lexer",
+        "type": "static"
+      },
+      {
+        "source": "npm:import-in-the-middle",
+        "target": "npm:module-details-from-path",
+        "type": "static"
+      }
+    ],
+    "npm:is-core-module": [
+      {
+        "source": "npm:is-core-module",
+        "target": "npm:hasown",
+        "type": "static"
+      }
+    ],
+    "npm:is-inside-container": [
+      {
+        "source": "npm:is-inside-container",
+        "target": "npm:is-docker",
+        "type": "static"
+      }
+    ],
+    "npm:is-wsl": [
+      {
+        "source": "npm:is-wsl",
+        "target": "npm:is-inside-container",
+        "type": "static"
+      }
+    ],
+    "npm:jest-diff": [
+      {
+        "source": "npm:jest-diff",
+        "target": "npm:@jest/diff-sequences",
+        "type": "static"
+      },
+      {
+        "source": "npm:jest-diff",
+        "target": "npm:@jest/get-type",
+        "type": "static"
+      },
+      {
+        "source": "npm:jest-diff",
+        "target": "npm:chalk@4.1.2",
+        "type": "static"
+      },
+      {
+        "source": "npm:jest-diff",
+        "target": "npm:pretty-format",
+        "type": "static"
+      }
+    ],
+    "npm:chalk@4.1.2": [
+      {
+        "source": "npm:chalk@4.1.2",
+        "target": "npm:ansi-styles@4.3.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:chalk@4.1.2",
+        "target": "npm:supports-color",
+        "type": "static"
+      }
+    ],
+    "npm:js-image-generator": [
+      {
+        "source": "npm:js-image-generator",
+        "target": "npm:jpeg-js",
+        "type": "static"
+      }
+    ],
+    "npm:js-yaml": [
+      {
+        "source": "npm:js-yaml",
+        "target": "npm:argparse",
+        "type": "static"
+      }
+    ],
+    "npm:lightningcss": [
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:detect-libc",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-android-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-darwin-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-darwin-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-freebsd-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-linux-arm-gnueabihf",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-linux-arm64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-linux-arm64-musl",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-linux-x64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-linux-x64-musl",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-win32-arm64-msvc",
+        "type": "static"
+      },
+      {
+        "source": "npm:lightningcss",
+        "target": "npm:lightningcss-win32-x64-msvc",
+        "type": "static"
+      }
+    ],
+    "npm:log-symbols": [
+      {
+        "source": "npm:log-symbols",
+        "target": "npm:chalk@4.1.2",
+        "type": "static"
+      },
+      {
+        "source": "npm:log-symbols",
+        "target": "npm:is-unicode-supported@0.1.0",
+        "type": "static"
+      }
+    ],
+    "npm:lru-cache": [
+      {
+        "source": "npm:lru-cache",
+        "target": "npm:yallist",
+        "type": "static"
+      }
+    ],
+    "npm:magic-string": [
+      {
+        "source": "npm:magic-string",
+        "target": "npm:@jridgewell/sourcemap-codec",
+        "type": "static"
+      }
+    ],
+    "npm:magicast": [
+      {
+        "source": "npm:magicast",
+        "target": "npm:@babel/parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:magicast",
+        "target": "npm:@babel/types",
+        "type": "static"
+      },
+      {
+        "source": "npm:magicast",
+        "target": "npm:source-map-js",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-definitions": [
+      {
+        "source": "npm:mdast-util-definitions",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-definitions",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-definitions",
+        "target": "npm:unist-util-visit",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-find-and-replace": [
+      {
+        "source": "npm:mdast-util-find-and-replace",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-find-and-replace",
+        "target": "npm:escape-string-regexp",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-find-and-replace",
+        "target": "npm:unist-util-is",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-find-and-replace",
+        "target": "npm:unist-util-visit-parents",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-from-markdown": [
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:decode-named-character-reference",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:mdast-util-to-string",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:micromark",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:micromark-util-decode-numeric-character-reference",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:micromark-util-decode-string",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:micromark-util-normalize-identifier",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-from-markdown",
+        "target": "npm:unist-util-stringify-position",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-gfm": [
+      {
+        "source": "npm:mdast-util-gfm",
+        "target": "npm:mdast-util-from-markdown",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm",
+        "target": "npm:mdast-util-gfm-autolink-literal",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm",
+        "target": "npm:mdast-util-gfm-footnote",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm",
+        "target": "npm:mdast-util-gfm-strikethrough",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm",
+        "target": "npm:mdast-util-gfm-table",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm",
+        "target": "npm:mdast-util-gfm-task-list-item",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm",
+        "target": "npm:mdast-util-to-markdown",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-gfm-autolink-literal": [
+      {
+        "source": "npm:mdast-util-gfm-autolink-literal",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-autolink-literal",
+        "target": "npm:ccount",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-autolink-literal",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-autolink-literal",
+        "target": "npm:mdast-util-find-and-replace",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-autolink-literal",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-gfm-footnote": [
+      {
+        "source": "npm:mdast-util-gfm-footnote",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-footnote",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-footnote",
+        "target": "npm:mdast-util-from-markdown",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-footnote",
+        "target": "npm:mdast-util-to-markdown",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-footnote",
+        "target": "npm:micromark-util-normalize-identifier",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-gfm-strikethrough": [
+      {
+        "source": "npm:mdast-util-gfm-strikethrough",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-strikethrough",
+        "target": "npm:mdast-util-from-markdown",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-strikethrough",
+        "target": "npm:mdast-util-to-markdown",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-gfm-table": [
+      {
+        "source": "npm:mdast-util-gfm-table",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-table",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-table",
+        "target": "npm:markdown-table",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-table",
+        "target": "npm:mdast-util-from-markdown",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-table",
+        "target": "npm:mdast-util-to-markdown",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-gfm-task-list-item": [
+      {
+        "source": "npm:mdast-util-gfm-task-list-item",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-task-list-item",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-task-list-item",
+        "target": "npm:mdast-util-from-markdown",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-gfm-task-list-item",
+        "target": "npm:mdast-util-to-markdown",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-phrasing": [
+      {
+        "source": "npm:mdast-util-phrasing",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-phrasing",
+        "target": "npm:unist-util-is",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-to-hast": [
+      {
+        "source": "npm:mdast-util-to-hast",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-hast",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-hast",
+        "target": "npm:@ungap/structured-clone",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-hast",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-hast",
+        "target": "npm:micromark-util-sanitize-uri",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-hast",
+        "target": "npm:trim-lines",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-hast",
+        "target": "npm:unist-util-position",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-hast",
+        "target": "npm:unist-util-visit",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-hast",
+        "target": "npm:vfile",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-to-markdown": [
+      {
+        "source": "npm:mdast-util-to-markdown",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-markdown",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-markdown",
+        "target": "npm:longest-streak",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-markdown",
+        "target": "npm:mdast-util-phrasing",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-markdown",
+        "target": "npm:mdast-util-to-string",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-markdown",
+        "target": "npm:micromark-util-classify-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-markdown",
+        "target": "npm:micromark-util-decode-string",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-markdown",
+        "target": "npm:unist-util-visit",
+        "type": "static"
+      },
+      {
+        "source": "npm:mdast-util-to-markdown",
+        "target": "npm:zwitch",
+        "type": "static"
+      }
+    ],
+    "npm:mdast-util-to-string": [
+      {
+        "source": "npm:mdast-util-to-string",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      }
+    ],
+    "npm:micromark": [
+      {
+        "source": "npm:micromark",
+        "target": "npm:@types/debug",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:debug",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:decode-named-character-reference",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-core-commonmark",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-factory-space",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-chunked",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-combine-extensions",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-decode-numeric-character-reference",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-encode",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-normalize-identifier",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-resolve-all",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-sanitize-uri",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-subtokenize",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-core-commonmark": [
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:decode-named-character-reference",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-factory-destination",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-factory-label",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-factory-space",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-factory-title",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-factory-whitespace",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-util-chunked",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-util-classify-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-util-html-tag-name",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-util-normalize-identifier",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-util-resolve-all",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-util-subtokenize",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-core-commonmark",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-extension-gfm": [
+      {
+        "source": "npm:micromark-extension-gfm",
+        "target": "npm:micromark-extension-gfm-autolink-literal",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm",
+        "target": "npm:micromark-extension-gfm-footnote",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm",
+        "target": "npm:micromark-extension-gfm-strikethrough",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm",
+        "target": "npm:micromark-extension-gfm-table",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm",
+        "target": "npm:micromark-extension-gfm-tagfilter",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm",
+        "target": "npm:micromark-extension-gfm-task-list-item",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm",
+        "target": "npm:micromark-util-combine-extensions",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-extension-gfm-autolink-literal": [
+      {
+        "source": "npm:micromark-extension-gfm-autolink-literal",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-autolink-literal",
+        "target": "npm:micromark-util-sanitize-uri",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-autolink-literal",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-autolink-literal",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-extension-gfm-footnote": [
+      {
+        "source": "npm:micromark-extension-gfm-footnote",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-footnote",
+        "target": "npm:micromark-core-commonmark",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-footnote",
+        "target": "npm:micromark-factory-space",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-footnote",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-footnote",
+        "target": "npm:micromark-util-normalize-identifier",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-footnote",
+        "target": "npm:micromark-util-sanitize-uri",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-footnote",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-footnote",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-extension-gfm-strikethrough": [
+      {
+        "source": "npm:micromark-extension-gfm-strikethrough",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-strikethrough",
+        "target": "npm:micromark-util-chunked",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-strikethrough",
+        "target": "npm:micromark-util-classify-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-strikethrough",
+        "target": "npm:micromark-util-resolve-all",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-strikethrough",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-strikethrough",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-extension-gfm-table": [
+      {
+        "source": "npm:micromark-extension-gfm-table",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-table",
+        "target": "npm:micromark-factory-space",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-table",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-table",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-table",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-extension-gfm-tagfilter": [
+      {
+        "source": "npm:micromark-extension-gfm-tagfilter",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-extension-gfm-task-list-item": [
+      {
+        "source": "npm:micromark-extension-gfm-task-list-item",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-task-list-item",
+        "target": "npm:micromark-factory-space",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-task-list-item",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-task-list-item",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-extension-gfm-task-list-item",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-factory-destination": [
+      {
+        "source": "npm:micromark-factory-destination",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-destination",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-destination",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-factory-label": [
+      {
+        "source": "npm:micromark-factory-label",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-label",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-label",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-label",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-factory-space": [
+      {
+        "source": "npm:micromark-factory-space",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-space",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-factory-title": [
+      {
+        "source": "npm:micromark-factory-title",
+        "target": "npm:micromark-factory-space",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-title",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-title",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-title",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-factory-whitespace": [
+      {
+        "source": "npm:micromark-factory-whitespace",
+        "target": "npm:micromark-factory-space",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-whitespace",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-whitespace",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-factory-whitespace",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-character": [
+      {
+        "source": "npm:micromark-util-character",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-character",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-chunked": [
+      {
+        "source": "npm:micromark-util-chunked",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-classify-character": [
+      {
+        "source": "npm:micromark-util-classify-character",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-classify-character",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-classify-character",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-combine-extensions": [
+      {
+        "source": "npm:micromark-util-combine-extensions",
+        "target": "npm:micromark-util-chunked",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-combine-extensions",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-decode-numeric-character-reference": [
+      {
+        "source": "npm:micromark-util-decode-numeric-character-reference",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-decode-string": [
+      {
+        "source": "npm:micromark-util-decode-string",
+        "target": "npm:decode-named-character-reference",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-decode-string",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-decode-string",
+        "target": "npm:micromark-util-decode-numeric-character-reference",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-decode-string",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-normalize-identifier": [
+      {
+        "source": "npm:micromark-util-normalize-identifier",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-resolve-all": [
+      {
+        "source": "npm:micromark-util-resolve-all",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-sanitize-uri": [
+      {
+        "source": "npm:micromark-util-sanitize-uri",
+        "target": "npm:micromark-util-character",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-sanitize-uri",
+        "target": "npm:micromark-util-encode",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-sanitize-uri",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      }
+    ],
+    "npm:micromark-util-subtokenize": [
+      {
+        "source": "npm:micromark-util-subtokenize",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-subtokenize",
+        "target": "npm:micromark-util-chunked",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-subtokenize",
+        "target": "npm:micromark-util-symbol",
+        "type": "static"
+      },
+      {
+        "source": "npm:micromark-util-subtokenize",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      }
+    ],
+    "npm:nlcst-to-string": [
+      {
+        "source": "npm:nlcst-to-string",
+        "target": "npm:@types/nlcst",
+        "type": "static"
+      }
+    ],
+    "npm:nx": [
+      {
+        "source": "npm:nx",
+        "target": "npm:@napi-rs/wasm-runtime",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@yarnpkg/lockfile",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@yarnpkg/parsers",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@zkochan/js-yaml",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:axios",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:chalk@4.1.2",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:cli-cursor",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:cli-spinners",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:cliui",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:dotenv@16.4.7",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:dotenv-expand",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:enquirer",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:figures@3.2.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:flat",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:front-matter",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:ignore",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:jest-diff",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:jsonc-parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:lines-and-columns",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:minimatch@9.0.3",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:node-machine-id",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:npm-run-path@4.0.1",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:open",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:ora",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:resolve.exports",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:semver",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:string-width@4.2.3",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:tar-stream@2.2.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:tmp",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:tree-kill",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:tsconfig-paths",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:tslib",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:yaml",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:yargs",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:yargs-parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-darwin-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-darwin-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-freebsd-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-linux-arm-gnueabihf",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-linux-arm64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-linux-arm64-musl",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-linux-x64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-linux-x64-musl",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-win32-arm64-msvc",
+        "type": "static"
+      },
+      {
+        "source": "npm:nx",
+        "target": "npm:@nx/nx-win32-x64-msvc",
+        "type": "static"
+      }
+    ],
+    "npm:figures@3.2.0": [
+      {
+        "source": "npm:figures@3.2.0",
+        "target": "npm:escape-string-regexp@1.0.5",
+        "type": "static"
+      }
+    ],
+    "npm:minimatch@9.0.3": [
+      {
+        "source": "npm:minimatch@9.0.3",
+        "target": "npm:brace-expansion",
+        "type": "static"
+      }
+    ],
+    "npm:npm-run-path@4.0.1": [
+      {
+        "source": "npm:npm-run-path@4.0.1",
+        "target": "npm:path-key@3.1.1",
+        "type": "static"
+      }
+    ],
+    "npm:tar-stream@2.2.0": [
+      {
+        "source": "npm:tar-stream@2.2.0",
+        "target": "npm:bl",
+        "type": "static"
+      },
+      {
+        "source": "npm:tar-stream@2.2.0",
+        "target": "npm:end-of-stream",
+        "type": "static"
+      },
+      {
+        "source": "npm:tar-stream@2.2.0",
+        "target": "npm:fs-constants",
+        "type": "static"
+      },
+      {
+        "source": "npm:tar-stream@2.2.0",
+        "target": "npm:inherits",
+        "type": "static"
+      },
+      {
+        "source": "npm:tar-stream@2.2.0",
+        "target": "npm:readable-stream@3.6.2",
+        "type": "static"
+      }
+    ],
+    "npm:ofetch": [
+      {
+        "source": "npm:ofetch",
+        "target": "npm:destr",
+        "type": "static"
+      },
+      {
+        "source": "npm:ofetch",
+        "target": "npm:node-fetch-native",
+        "type": "static"
+      },
+      {
+        "source": "npm:ofetch",
+        "target": "npm:ufo",
+        "type": "static"
+      }
+    ],
+    "npm:once": [
+      {
+        "source": "npm:once",
+        "target": "npm:wrappy",
+        "type": "static"
+      }
+    ],
+    "npm:oniguruma-to-es": [
+      {
+        "source": "npm:oniguruma-to-es",
+        "target": "npm:oniguruma-parser",
+        "type": "static"
+      },
+      {
+        "source": "npm:oniguruma-to-es",
+        "target": "npm:regex",
+        "type": "static"
+      },
+      {
+        "source": "npm:oniguruma-to-es",
+        "target": "npm:regex-recursion",
+        "type": "static"
+      }
+    ],
+    "npm:open": [
+      {
+        "source": "npm:open",
+        "target": "npm:define-lazy-prop",
+        "type": "static"
+      },
+      {
+        "source": "npm:open",
+        "target": "npm:is-docker@2.2.1",
+        "type": "static"
+      },
+      {
+        "source": "npm:open",
+        "target": "npm:is-wsl@2.2.0",
+        "type": "static"
+      }
+    ],
+    "npm:is-wsl@2.2.0": [
+      {
+        "source": "npm:is-wsl@2.2.0",
+        "target": "npm:is-docker@2.2.1",
+        "type": "static"
+      }
+    ],
+    "npm:ora": [
+      {
+        "source": "npm:ora",
+        "target": "npm:bl",
+        "type": "static"
+      },
+      {
+        "source": "npm:ora",
+        "target": "npm:chalk@4.1.2",
+        "type": "static"
+      },
+      {
+        "source": "npm:ora",
+        "target": "npm:cli-cursor",
+        "type": "static"
+      },
+      {
+        "source": "npm:ora",
+        "target": "npm:cli-spinners",
+        "type": "static"
+      },
+      {
+        "source": "npm:ora",
+        "target": "npm:is-interactive",
+        "type": "static"
+      },
+      {
+        "source": "npm:ora",
+        "target": "npm:log-symbols",
+        "type": "static"
+      },
+      {
+        "source": "npm:ora",
+        "target": "npm:strip-ansi@6.0.1",
+        "type": "static"
+      },
+      {
+        "source": "npm:ora",
+        "target": "npm:wcwidth",
+        "type": "static"
+      }
+    ],
+    "npm:p-limit": [
+      {
+        "source": "npm:p-limit",
+        "target": "npm:yocto-queue",
+        "type": "static"
+      }
+    ],
+    "npm:p-queue": [
+      {
+        "source": "npm:p-queue",
+        "target": "npm:eventemitter3",
+        "type": "static"
+      },
+      {
+        "source": "npm:p-queue",
+        "target": "npm:p-timeout",
+        "type": "static"
+      }
+    ],
+    "npm:parse-latin": [
+      {
+        "source": "npm:parse-latin",
+        "target": "npm:@types/nlcst",
+        "type": "static"
+      },
+      {
+        "source": "npm:parse-latin",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:parse-latin",
+        "target": "npm:nlcst-to-string",
+        "type": "static"
+      },
+      {
+        "source": "npm:parse-latin",
+        "target": "npm:unist-util-modify-children",
+        "type": "static"
+      },
+      {
+        "source": "npm:parse-latin",
+        "target": "npm:unist-util-visit-children",
+        "type": "static"
+      },
+      {
+        "source": "npm:parse-latin",
+        "target": "npm:vfile",
+        "type": "static"
+      }
+    ],
+    "npm:parse5": [
+      {
+        "source": "npm:parse5",
+        "target": "npm:entities",
+        "type": "static"
+      }
+    ],
+    "npm:postcss": [
+      {
+        "source": "npm:postcss",
+        "target": "npm:nanoid",
+        "type": "static"
+      },
+      {
+        "source": "npm:postcss",
+        "target": "npm:picocolors",
+        "type": "static"
+      },
+      {
+        "source": "npm:postcss",
+        "target": "npm:source-map-js",
+        "type": "static"
+      }
+    ],
+    "npm:pretty-format": [
+      {
+        "source": "npm:pretty-format",
+        "target": "npm:@jest/schemas",
+        "type": "static"
+      },
+      {
+        "source": "npm:pretty-format",
+        "target": "npm:ansi-styles",
+        "type": "static"
+      },
+      {
+        "source": "npm:pretty-format",
+        "target": "npm:react-is",
+        "type": "static"
+      }
+    ],
+    "npm:prompts": [
+      {
+        "source": "npm:prompts",
+        "target": "npm:kleur",
+        "type": "static"
+      },
+      {
+        "source": "npm:prompts",
+        "target": "npm:sisteransi",
+        "type": "static"
+      }
+    ],
+    "npm:protobufjs": [
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/aspromise",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/base64",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/codegen",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/eventemitter",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/fetch",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/float",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/inquire",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/path",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/pool",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@protobufjs/utf8",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:@types/node",
+        "type": "static"
+      },
+      {
+        "source": "npm:protobufjs",
+        "target": "npm:long",
+        "type": "static"
+      }
+    ],
+    "npm:react-dom": [
+      {
+        "source": "npm:react-dom",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-dom",
+        "target": "npm:scheduler",
+        "type": "static"
+      }
+    ],
+    "npm:regex": [
+      {
+        "source": "npm:regex",
+        "target": "npm:regex-utilities",
+        "type": "static"
+      }
+    ],
+    "npm:regex-recursion": [
+      {
+        "source": "npm:regex-recursion",
+        "target": "npm:regex-utilities",
+        "type": "static"
+      }
+    ],
+    "npm:rehype": [
+      {
+        "source": "npm:rehype",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:rehype",
+        "target": "npm:rehype-parse",
+        "type": "static"
+      },
+      {
+        "source": "npm:rehype",
+        "target": "npm:rehype-stringify",
+        "type": "static"
+      },
+      {
+        "source": "npm:rehype",
+        "target": "npm:unified",
+        "type": "static"
+      }
+    ],
+    "npm:rehype-parse": [
+      {
+        "source": "npm:rehype-parse",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:rehype-parse",
+        "target": "npm:hast-util-from-html",
+        "type": "static"
+      },
+      {
+        "source": "npm:rehype-parse",
+        "target": "npm:unified",
+        "type": "static"
+      }
+    ],
+    "npm:rehype-raw": [
+      {
+        "source": "npm:rehype-raw",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:rehype-raw",
+        "target": "npm:hast-util-raw",
+        "type": "static"
+      },
+      {
+        "source": "npm:rehype-raw",
+        "target": "npm:vfile",
+        "type": "static"
+      }
+    ],
+    "npm:rehype-stringify": [
+      {
+        "source": "npm:rehype-stringify",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:rehype-stringify",
+        "target": "npm:hast-util-to-html",
+        "type": "static"
+      },
+      {
+        "source": "npm:rehype-stringify",
+        "target": "npm:unified",
+        "type": "static"
+      }
+    ],
+    "npm:remark-gfm": [
+      {
+        "source": "npm:remark-gfm",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-gfm",
+        "target": "npm:mdast-util-gfm",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-gfm",
+        "target": "npm:micromark-extension-gfm",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-gfm",
+        "target": "npm:remark-parse",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-gfm",
+        "target": "npm:remark-stringify",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-gfm",
+        "target": "npm:unified",
+        "type": "static"
+      }
+    ],
+    "npm:remark-parse": [
+      {
+        "source": "npm:remark-parse",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-parse",
+        "target": "npm:mdast-util-from-markdown",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-parse",
+        "target": "npm:micromark-util-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-parse",
+        "target": "npm:unified",
+        "type": "static"
+      }
+    ],
+    "npm:remark-rehype": [
+      {
+        "source": "npm:remark-rehype",
+        "target": "npm:@types/hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-rehype",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-rehype",
+        "target": "npm:mdast-util-to-hast",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-rehype",
+        "target": "npm:unified",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-rehype",
+        "target": "npm:vfile",
+        "type": "static"
+      }
+    ],
+    "npm:remark-smartypants": [
+      {
+        "source": "npm:remark-smartypants",
+        "target": "npm:retext",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-smartypants",
+        "target": "npm:retext-smartypants",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-smartypants",
+        "target": "npm:unified",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-smartypants",
+        "target": "npm:unist-util-visit",
+        "type": "static"
+      }
+    ],
+    "npm:remark-stringify": [
+      {
+        "source": "npm:remark-stringify",
+        "target": "npm:@types/mdast",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-stringify",
+        "target": "npm:mdast-util-to-markdown",
+        "type": "static"
+      },
+      {
+        "source": "npm:remark-stringify",
+        "target": "npm:unified",
+        "type": "static"
+      }
+    ],
+    "npm:require-in-the-middle": [
+      {
+        "source": "npm:require-in-the-middle",
+        "target": "npm:debug",
+        "type": "static"
+      },
+      {
+        "source": "npm:require-in-the-middle",
+        "target": "npm:module-details-from-path",
+        "type": "static"
+      },
+      {
+        "source": "npm:require-in-the-middle",
+        "target": "npm:resolve@1.22.11",
+        "type": "static"
+      }
+    ],
+    "npm:resolve@1.22.11": [
+      {
+        "source": "npm:resolve@1.22.11",
+        "target": "npm:is-core-module",
+        "type": "static"
+      },
+      {
+        "source": "npm:resolve@1.22.11",
+        "target": "npm:path-parse",
+        "type": "static"
+      },
+      {
+        "source": "npm:resolve@1.22.11",
+        "target": "npm:supports-preserve-symlinks-flag",
+        "type": "static"
+      }
+    ],
+    "npm:restore-cursor": [
+      {
+        "source": "npm:restore-cursor",
+        "target": "npm:onetime@5.1.2",
+        "type": "static"
+      },
+      {
+        "source": "npm:restore-cursor",
+        "target": "npm:signal-exit@3.0.7",
+        "type": "static"
+      }
+    ],
+    "npm:onetime@5.1.2": [
+      {
+        "source": "npm:onetime@5.1.2",
+        "target": "npm:mimic-fn@2.1.0",
+        "type": "static"
+      }
+    ],
+    "npm:retext": [
+      {
+        "source": "npm:retext",
+        "target": "npm:@types/nlcst",
+        "type": "static"
+      },
+      {
+        "source": "npm:retext",
+        "target": "npm:retext-latin",
+        "type": "static"
+      },
+      {
+        "source": "npm:retext",
+        "target": "npm:retext-stringify",
+        "type": "static"
+      },
+      {
+        "source": "npm:retext",
+        "target": "npm:unified",
+        "type": "static"
+      }
+    ],
+    "npm:retext-latin": [
+      {
+        "source": "npm:retext-latin",
+        "target": "npm:@types/nlcst",
+        "type": "static"
+      },
+      {
+        "source": "npm:retext-latin",
+        "target": "npm:parse-latin",
+        "type": "static"
+      },
+      {
+        "source": "npm:retext-latin",
+        "target": "npm:unified",
+        "type": "static"
+      }
+    ],
+    "npm:retext-smartypants": [
+      {
+        "source": "npm:retext-smartypants",
+        "target": "npm:@types/nlcst",
+        "type": "static"
+      },
+      {
+        "source": "npm:retext-smartypants",
+        "target": "npm:nlcst-to-string",
+        "type": "static"
+      },
+      {
+        "source": "npm:retext-smartypants",
+        "target": "npm:unist-util-visit",
+        "type": "static"
+      }
+    ],
+    "npm:retext-stringify": [
+      {
+        "source": "npm:retext-stringify",
+        "target": "npm:@types/nlcst",
+        "type": "static"
+      },
+      {
+        "source": "npm:retext-stringify",
+        "target": "npm:nlcst-to-string",
+        "type": "static"
+      },
+      {
+        "source": "npm:retext-stringify",
+        "target": "npm:unified",
+        "type": "static"
+      }
+    ],
+    "npm:rollup": [
+      {
+        "source": "npm:rollup",
+        "target": "npm:@types/estree",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-android-arm-eabi",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-android-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-darwin-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-darwin-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-freebsd-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-freebsd-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-arm-gnueabihf",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-arm-musleabihf",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-arm64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-arm64-musl",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-loong64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-ppc64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-riscv64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-riscv64-musl",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-s390x-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-x64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-linux-x64-musl",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-openharmony-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-win32-arm64-msvc",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-win32-ia32-msvc",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-win32-x64-gnu",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:@rollup/rollup-win32-x64-msvc",
+        "type": "static"
+      },
+      {
+        "source": "npm:rollup",
+        "target": "npm:fsevents",
+        "type": "static"
+      }
+    ],
+    "npm:seroval-plugins": [
+      {
+        "source": "npm:seroval-plugins",
+        "target": "npm:seroval",
+        "type": "static"
+      }
+    ],
+    "npm:sharp": [
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/colour",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:detect-libc",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:semver",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-darwin-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-darwin-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-libvips-darwin-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-libvips-darwin-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-libvips-linux-arm",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-libvips-linux-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-libvips-linux-ppc64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-libvips-linux-s390x",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-libvips-linux-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-libvips-linuxmusl-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-libvips-linuxmusl-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-linux-arm",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-linux-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-linux-ppc64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-linux-s390x",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-linux-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-linuxmusl-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-linuxmusl-x64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-wasm32",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-win32-arm64",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-win32-ia32",
+        "type": "static"
+      },
+      {
+        "source": "npm:sharp",
+        "target": "npm:@img/sharp-win32-x64",
+        "type": "static"
+      }
+    ],
+    "npm:shiki": [
+      {
+        "source": "npm:shiki",
+        "target": "npm:@shikijs/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:shiki",
+        "target": "npm:@shikijs/engine-javascript",
+        "type": "static"
+      },
+      {
+        "source": "npm:shiki",
+        "target": "npm:@shikijs/engine-oniguruma",
+        "type": "static"
+      },
+      {
+        "source": "npm:shiki",
+        "target": "npm:@shikijs/langs",
+        "type": "static"
+      },
+      {
+        "source": "npm:shiki",
+        "target": "npm:@shikijs/themes",
+        "type": "static"
+      },
+      {
+        "source": "npm:shiki",
+        "target": "npm:@shikijs/types",
+        "type": "static"
+      },
+      {
+        "source": "npm:shiki",
+        "target": "npm:@shikijs/vscode-textmate",
+        "type": "static"
+      },
+      {
+        "source": "npm:shiki",
+        "target": "npm:@types/hast",
+        "type": "static"
+      }
+    ],
+    "npm:string_decoder": [
+      {
+        "source": "npm:string_decoder",
+        "target": "npm:safe-buffer",
+        "type": "static"
+      }
+    ],
+    "npm:string-width": [
+      {
+        "source": "npm:string-width",
+        "target": "npm:emoji-regex",
+        "type": "static"
+      },
+      {
+        "source": "npm:string-width",
+        "target": "npm:get-east-asian-width",
+        "type": "static"
+      },
+      {
+        "source": "npm:string-width",
+        "target": "npm:strip-ansi",
+        "type": "static"
+      }
+    ],
+    "npm:stringify-entities": [
+      {
+        "source": "npm:stringify-entities",
+        "target": "npm:character-entities-html4",
+        "type": "static"
+      },
+      {
+        "source": "npm:stringify-entities",
+        "target": "npm:character-entities-legacy",
+        "type": "static"
+      }
+    ],
+    "npm:strip-ansi": [
+      {
+        "source": "npm:strip-ansi",
+        "target": "npm:ansi-regex",
+        "type": "static"
+      }
+    ],
+    "npm:supports-color": [
+      {
+        "source": "npm:supports-color",
+        "target": "npm:has-flag",
+        "type": "static"
+      }
+    ],
+    "npm:tinyglobby": [
+      {
+        "source": "npm:tinyglobby",
+        "target": "npm:fdir",
+        "type": "static"
+      },
+      {
+        "source": "npm:tinyglobby",
+        "target": "npm:picomatch",
+        "type": "static"
+      }
+    ],
+    "npm:tmp-promise": [
+      {
+        "source": "npm:tmp-promise",
+        "target": "npm:tmp",
+        "type": "static"
+      }
+    ],
+    "npm:tsconfck": [
+      {
+        "source": "npm:tsconfck",
+        "target": "npm:typescript",
+        "type": "static"
+      }
+    ],
+    "npm:tsconfig-paths": [
+      {
+        "source": "npm:tsconfig-paths",
+        "target": "npm:json5",
+        "type": "static"
+      },
+      {
+        "source": "npm:tsconfig-paths",
+        "target": "npm:minimist",
+        "type": "static"
+      },
+      {
+        "source": "npm:tsconfig-paths",
+        "target": "npm:strip-bom",
+        "type": "static"
+      }
+    ],
+    "npm:unicode-properties": [
+      {
+        "source": "npm:unicode-properties",
+        "target": "npm:base64-js",
+        "type": "static"
+      },
+      {
+        "source": "npm:unicode-properties",
+        "target": "npm:unicode-trie",
+        "type": "static"
+      }
+    ],
+    "npm:unicode-trie": [
+      {
+        "source": "npm:unicode-trie",
+        "target": "npm:pako",
+        "type": "static"
+      },
+      {
+        "source": "npm:unicode-trie",
+        "target": "npm:tiny-inflate",
+        "type": "static"
+      }
+    ],
+    "npm:unified": [
+      {
+        "source": "npm:unified",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:unified",
+        "target": "npm:bail",
+        "type": "static"
+      },
+      {
+        "source": "npm:unified",
+        "target": "npm:devlop",
+        "type": "static"
+      },
+      {
+        "source": "npm:unified",
+        "target": "npm:extend",
+        "type": "static"
+      },
+      {
+        "source": "npm:unified",
+        "target": "npm:is-plain-obj",
+        "type": "static"
+      },
+      {
+        "source": "npm:unified",
+        "target": "npm:trough",
+        "type": "static"
+      },
+      {
+        "source": "npm:unified",
+        "target": "npm:vfile",
+        "type": "static"
+      }
+    ],
+    "npm:unifont": [
+      {
+        "source": "npm:unifont",
+        "target": "npm:css-tree",
+        "type": "static"
+      },
+      {
+        "source": "npm:unifont",
+        "target": "npm:ofetch",
+        "type": "static"
+      },
+      {
+        "source": "npm:unifont",
+        "target": "npm:ohash",
+        "type": "static"
+      }
+    ],
+    "npm:unist-util-find-after": [
+      {
+        "source": "npm:unist-util-find-after",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:unist-util-find-after",
+        "target": "npm:unist-util-is",
+        "type": "static"
+      }
+    ],
+    "npm:unist-util-is": [
+      {
+        "source": "npm:unist-util-is",
+        "target": "npm:@types/unist",
+        "type": "static"
+      }
+    ],
+    "npm:unist-util-modify-children": [
+      {
+        "source": "npm:unist-util-modify-children",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:unist-util-modify-children",
+        "target": "npm:array-iterate",
+        "type": "static"
+      }
+    ],
+    "npm:unist-util-position": [
+      {
+        "source": "npm:unist-util-position",
+        "target": "npm:@types/unist",
+        "type": "static"
+      }
+    ],
+    "npm:unist-util-remove-position": [
+      {
+        "source": "npm:unist-util-remove-position",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:unist-util-remove-position",
+        "target": "npm:unist-util-visit",
+        "type": "static"
+      }
+    ],
+    "npm:unist-util-stringify-position": [
+      {
+        "source": "npm:unist-util-stringify-position",
+        "target": "npm:@types/unist",
+        "type": "static"
+      }
+    ],
+    "npm:unist-util-visit": [
+      {
+        "source": "npm:unist-util-visit",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:unist-util-visit",
+        "target": "npm:unist-util-is",
+        "type": "static"
+      },
+      {
+        "source": "npm:unist-util-visit",
+        "target": "npm:unist-util-visit-parents",
+        "type": "static"
+      }
+    ],
+    "npm:unist-util-visit-children": [
+      {
+        "source": "npm:unist-util-visit-children",
+        "target": "npm:@types/unist",
+        "type": "static"
+      }
+    ],
+    "npm:unist-util-visit-parents": [
+      {
+        "source": "npm:unist-util-visit-parents",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:unist-util-visit-parents",
+        "target": "npm:unist-util-is",
+        "type": "static"
+      }
+    ],
+    "npm:unstorage": [
+      {
+        "source": "npm:unstorage",
+        "target": "npm:@netlify/blobs",
+        "type": "static"
+      },
+      {
+        "source": "npm:unstorage",
+        "target": "npm:anymatch",
+        "type": "static"
+      },
+      {
+        "source": "npm:unstorage",
+        "target": "npm:chokidar",
+        "type": "static"
+      },
+      {
+        "source": "npm:unstorage",
+        "target": "npm:destr",
+        "type": "static"
+      },
+      {
+        "source": "npm:unstorage",
+        "target": "npm:h3",
+        "type": "static"
+      },
+      {
+        "source": "npm:unstorage",
+        "target": "npm:lru-cache@10.4.3",
+        "type": "static"
+      },
+      {
+        "source": "npm:unstorage",
+        "target": "npm:node-fetch-native",
+        "type": "static"
+      },
+      {
+        "source": "npm:unstorage",
+        "target": "npm:ofetch",
+        "type": "static"
+      },
+      {
+        "source": "npm:unstorage",
+        "target": "npm:ufo",
+        "type": "static"
+      }
+    ],
+    "npm:update-browserslist-db": [
+      {
+        "source": "npm:update-browserslist-db",
+        "target": "npm:browserslist",
+        "type": "static"
+      },
+      {
+        "source": "npm:update-browserslist-db",
+        "target": "npm:escalade",
+        "type": "static"
+      },
+      {
+        "source": "npm:update-browserslist-db",
+        "target": "npm:picocolors",
+        "type": "static"
+      }
+    ],
+    "npm:use-sync-external-store": [
+      {
+        "source": "npm:use-sync-external-store",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:vfile": [
+      {
+        "source": "npm:vfile",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:vfile",
+        "target": "npm:vfile-message",
+        "type": "static"
+      }
+    ],
+    "npm:vfile-location": [
+      {
+        "source": "npm:vfile-location",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:vfile-location",
+        "target": "npm:vfile",
+        "type": "static"
+      }
+    ],
+    "npm:vfile-message": [
+      {
+        "source": "npm:vfile-message",
+        "target": "npm:@types/unist",
+        "type": "static"
+      },
+      {
+        "source": "npm:vfile-message",
+        "target": "npm:unist-util-stringify-position",
+        "type": "static"
+      }
+    ],
+    "npm:vite": [
+      {
+        "source": "npm:vite",
+        "target": "npm:@types/node",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:jiti",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:lightningcss",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:yaml",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:esbuild",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:fdir",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:picomatch",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:postcss",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:rollup",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:tinyglobby",
+        "type": "static"
+      },
+      {
+        "source": "npm:vite",
+        "target": "npm:fsevents",
+        "type": "static"
+      }
+    ],
+    "npm:vitefu": [
+      {
+        "source": "npm:vitefu",
+        "target": "npm:vite",
+        "type": "static"
+      }
+    ],
+    "npm:wcwidth": [
+      {
+        "source": "npm:wcwidth",
+        "target": "npm:defaults",
+        "type": "static"
+      }
+    ],
+    "npm:widest-line": [
+      {
+        "source": "npm:widest-line",
+        "target": "npm:string-width",
+        "type": "static"
+      }
+    ],
+    "npm:wrap-ansi": [
+      {
+        "source": "npm:wrap-ansi",
+        "target": "npm:ansi-styles@6.2.3",
+        "type": "static"
+      },
+      {
+        "source": "npm:wrap-ansi",
+        "target": "npm:string-width",
+        "type": "static"
+      },
+      {
+        "source": "npm:wrap-ansi",
+        "target": "npm:strip-ansi",
+        "type": "static"
+      }
+    ],
+    "npm:write-file-atomic": [
+      {
+        "source": "npm:write-file-atomic",
+        "target": "npm:imurmurhash",
+        "type": "static"
+      },
+      {
+        "source": "npm:write-file-atomic",
+        "target": "npm:signal-exit",
+        "type": "static"
+      }
+    ],
+    "npm:yargs": [
+      {
+        "source": "npm:yargs",
+        "target": "npm:cliui",
+        "type": "static"
+      },
+      {
+        "source": "npm:yargs",
+        "target": "npm:escalade",
+        "type": "static"
+      },
+      {
+        "source": "npm:yargs",
+        "target": "npm:get-caller-file",
+        "type": "static"
+      },
+      {
+        "source": "npm:yargs",
+        "target": "npm:require-directory",
+        "type": "static"
+      },
+      {
+        "source": "npm:yargs",
+        "target": "npm:string-width@4.2.3",
+        "type": "static"
+      },
+      {
+        "source": "npm:yargs",
+        "target": "npm:y18n",
+        "type": "static"
+      },
+      {
+        "source": "npm:yargs",
+        "target": "npm:yargs-parser",
+        "type": "static"
+      }
+    ],
+    "npm:yocto-spinner": [
+      {
+        "source": "npm:yocto-spinner",
+        "target": "npm:yoctocolors",
+        "type": "static"
+      }
+    ],
+    "npm:zod-to-json-schema": [
+      {
+        "source": "npm:zod-to-json-schema",
+        "target": "npm:zod",
+        "type": "static"
+      }
+    ],
+    "npm:zod-to-ts": [
+      {
+        "source": "npm:zod-to-ts",
+        "target": "npm:typescript",
+        "type": "static"
+      },
+      {
+        "source": "npm:zod-to-ts",
+        "target": "npm:zod",
+        "type": "static"
+      }
     ]
   },
   "version": "6.0",
   "errors": [],
-  "computedAt": 1763391199632
+  "computedAt": 1763393686658
 }

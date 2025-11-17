@@ -1,1 +1,1 @@
-export { DashboardInfo } from "./Dashboard";
+export { DashboardApp } from "./DashboardApp";
