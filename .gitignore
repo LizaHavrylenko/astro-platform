@@ -1,0 +1,42 @@
+# Node
+apps/*/node_modules/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Nx cache
+.nx/cache/
+.nx/workspace-data/
+
+# Build outputs
+dist/
+apps/**/dist/
+libs/**/dist/
+
+# Astro
+.output/
+.astro/
+.cache/
+
+# Vite
+.vite/
+
+# Logs
+*.log
+*.log.*
+
+# Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*.local
