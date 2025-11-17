@@ -1,6 +1,6 @@
 import { useStore } from "@nanostores/react";
 
-import { authStore, logout } from "@state";
+import { authStore, logout } from "../../state/src/index.ts";
 
 export const DashboardInfo = () => {
   const { user, status } = useStore(authStore);

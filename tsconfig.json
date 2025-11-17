@@ -7,8 +7,21 @@
     "paths": {
       "@ui": ["libs/ui/src/index.ts"],
       "@ui/*": ["libs/ui/src/*"],
+
       "@state": ["libs/state/src/index.ts"],
-      "@state/*": ["libs/state/src/*"]
+      "@state/*": ["libs/state/src/*"],
+
+      "@app1": ["apps/app-1/src/pages/index.astro"],
+      "@app1/*": ["apps/app-1/src/pages/*"],
+
+      "@app2": ["apps/app-2/src/pages/index.astro"],
+      "@app2/*": ["apps/app-2/src/pages/*"],
+
+      "@app1-ui": ["libs/app-1/src"],
+      "@app1-ui/*": ["libs/app-1/src/*"],
+
+      "@app2-ui": ["libs/app-2/src"],
+      "@app2-ui/*": ["libs/app-2/src/*"]
     }
   }
 }

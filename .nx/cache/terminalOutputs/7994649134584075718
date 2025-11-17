@@ -1,0 +1,27 @@
+> npx astro build
+
+[33m[1m14:48:59[22m [WARN][39m Unsupported file type [1m/Users/yhavrylenko/astro-platform/apps/app-2/src/pages/Dashboard.jsx[22m found. Prefix filename with an underscore (`_`) to ignore.
+[2m14:48:59[22m [34m[content][39m Syncing content
+[2m14:48:59[22m [34m[content][39m Synced content
+[2m14:48:59[22m [34m[types][39m Generated [2m27ms[22m
+[2m14:48:59[22m [34m[build][39m output: [34m"static"[39m
+[2m14:48:59[22m [34m[build][39m mode: [34m"static"[39m
+[2m14:48:59[22m [34m[build][39m directory: [34m/Users/yhavrylenko/astro-platform/apps/app-2/dist/[39m
+[2m14:48:59[22m [34m[build][39m Collecting build info...
+[2m14:48:59[22m [34m[build][39m [32m✓ Completed in 36ms.[39m
+[2m14:48:59[22m [34m[build][39m Building static entrypoints...
+[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[33m[1m14:48:59[22m [WARN] [vite][39m [33m"isRemoteAllowed", "matchHostname", "matchPathname", "matchPort" and "matchProtocol" are imported from external module "@astrojs/internal-helpers/remote" but never used in "../../node_modules/astro/dist/assets/utils/remotePattern.js".[39m
+[2K[1G[33m[1m14:48:59[22m [WARN] [vite][39m [33m"computed" is imported from external module "nanostores" but never used in "../../libs/state/src/users.ts" and "../../libs/state/src/auth.ts".[39m
+[2m14:48:59[22m [34m[vite][39m [32m✓ built in 222ms[39m
+[2m14:48:59[22m [34m[build][39m [32m✓ Completed in 246ms.[39m
+
+[42m[30m generating static routes [39m[49m
+[2m14:48:59[22m [35mλ[39m src/pages/index.ts
+[2m14:48:59[22m   [34m└─[39m [2m/[22m[33m[1m14:48:59[22m [WARN] [router][39m No API Route handler exists for the method "GET" for the route "/".
+Found handlers: "default"
+
+ [2m(+2ms)[22m [33m(file not created, response body was empty)[39m
+[2m14:48:59[22m [32m✓ Completed in 8ms.
+[39m
+[2m14:48:59[22m [34m[build][39m 0 page(s) built in [1m296ms[22m
+[2m14:48:59[22m [34m[build][39m [1mComplete![22m
